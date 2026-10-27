@@ -1,0 +1,7 @@
+{
+  "name": "MRAdaptiveTraining.Editor",
+  "rootNamespace": "MRAdaptiveTraining.Editor",
+  "references": ["MRAdaptiveTraining.Runtime", "MRAdaptiveTraining.Demo"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

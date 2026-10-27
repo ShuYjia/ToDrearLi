@@ -1,0 +1,3 @@
+display_name: BPF Engineering Agent
+short_description: Route BPF engineering work safely.
+default_prompt: Handle this BPF repository task using the project engineering workflow. Classify the task, preserve existing changes, gather evidence, apply the narrowest safe change if authorized, validate through the appropriate gates, and report exact files and remaining risks.

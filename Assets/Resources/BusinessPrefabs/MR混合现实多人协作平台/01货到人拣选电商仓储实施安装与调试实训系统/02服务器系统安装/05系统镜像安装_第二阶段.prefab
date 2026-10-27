@@ -1,0 +1,287 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8927653713933310038
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5050000000000000001, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_Name
+      value: "05\u7CFB\u7EDF\u955C\u50CF\u5B89\u88C5_\u7B2C\u4E8C\u9636\u6BB5"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000002, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000002, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000002, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000002, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000002, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000002, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000002, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000002, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000002, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000002, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000002, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: datas.name
+      value: "05\u7CFB\u7EDF\u955C\u50CF\u5B89\u88C5_\u7B2C\u4E8C\u9636\u6BB5"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: isNextShow
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.score
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: stepAudioClips.Array.size
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: datas.childData.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.size
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[0]
+      value: SYS_10_EnterROOT
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[1]
+      value: SYS_11_Custompassword
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[2]
+      value: SYS_12_Restartsystem
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[3]
+      value: SYS_13_Enterlicence
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[4]
+      value: SYS_14_Selectlicence
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[5]
+      value: SYS_15_Complete
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[6]
+      value: SYS_16_GoLanguage
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[7]
+      value: SYS_17_Goinput
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[8]
+      value: SYS_18_Goprivacy
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[9]
+      value: SYS_19_Gotime
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.size
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[10]
+      value: SYS_20_Goonline
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[11]
+      value: SYS_21_GoMine
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[12]
+      value: SYS_22_Gopassword
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[13]
+      value: SYS_23_SelectStart
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[14]
+      value: SYS_24_CloseUI
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[15]
+      value: SYS_25_ClickBtn
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[16]
+      value: SYS_26_Clickwired
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[17]
+      value: SYS_27_ClickSet
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[18]
+      value: SYS_28_Openwired
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[19]
+      value: SYS_29_ClickSeton
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[20]
+      value: SYS_30_ClickIPV4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[21]
+      value: SYS_31_Clickhand
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[22]
+      value: SYS_32_InputAdd
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[23]
+      value: SYS_33_IPconfiguration
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintAudios.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[0]
+      value: "\u70B9\u51FB ROOT \u5BC6\u7801\u8BBE\u7F6E\u5165\u53E3"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[1]
+      value: "\u81EA\u5B9A\u4E49\u5E76\u786E\u8BA4 ROOT \u5BC6\u7801"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[2]
+      value: "\u70B9\u51FB\u91CD\u542F\u7CFB\u7EDF"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[3]
+      value: "\u8FDB\u5165\u8BB8\u53EF\u4FE1\u606F\u754C\u9762"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[4]
+      value: "\u9009\u62E9\u63A5\u53D7\u8BB8\u53EF\u534F\u8BAE"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[5]
+      value: "\u5B8C\u6210\u7CFB\u7EDF\u5B89\u88C5\u914D\u7F6E"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[6]
+      value: "\u8FDB\u5165\u8BED\u8A00\u8BBE\u7F6E"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[7]
+      value: "\u8FDB\u5165\u8F93\u5165\u6CD5\u8BBE\u7F6E"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[8]
+      value: "\u8FDB\u5165\u9690\u79C1\u8BBE\u7F6E"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[9]
+      value: "\u8FDB\u5165\u65E5\u671F\u548C\u65F6\u95F4\u8BBE\u7F6E"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[10]
+      value: "\u8FDB\u5165\u5728\u7EBF\u8D26\u6237\u8BBE\u7F6E"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[11]
+      value: "\u8FDB\u5165\u7528\u6237\u4FE1\u606F\u8BBE\u7F6E"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[12]
+      value: "\u8BBE\u7F6E\u7528\u6237\u5BC6\u7801"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[13]
+      value: "\u9009\u62E9\u542F\u52A8\u8BBE\u7F6E"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[14]
+      value: "\u5173\u95ED\u5F53\u524D\u8BBE\u7F6E\u7A97\u53E3"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[15]
+      value: "\u70B9\u51FB\u8BBE\u7F6E\u6309\u94AE"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[16]
+      value: "\u8FDB\u5165\u6709\u7EBF\u7F51\u7EDC\u9875\u9762"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[17]
+      value: "\u70B9\u51FB\u7F51\u7EDC\u8BBE\u7F6E"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[18]
+      value: "\u6253\u5F00\u6709\u7EBF\u7F51\u7EDC\u914D\u7F6E"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[19]
+      value: "\u542F\u7528\u6709\u7EBF\u7F51\u7EDC"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[20]
+      value: "\u8FDB\u5165 IPv4 \u8BBE\u7F6E"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[21]
+      value: "\u9009\u62E9\u624B\u52A8\u914D\u7F6E"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[22]
+      value: "\u6DFB\u52A0 IP \u5730\u5740"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[23]
+      value: "\u5B8C\u6210 IP \u914D\u7F6E"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7372195520054297629, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_Name
+      value: "05\u7CFB\u7EDF\u955C\u50CF\u5B89\u88C5_\u7B2C\u4E8C\u9636\u6BB5"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 983ab2a6df537104fa108954d726aedd, type: 3}

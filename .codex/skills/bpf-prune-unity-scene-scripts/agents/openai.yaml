@@ -1,0 +1,4 @@
+interface:
+  display_name: "BPF Unity Scene Script Pruner"
+  short_description: "Safely prune scripts from BPF scene subtrees"
+  default_prompt: "Use $bpf-prune-unity-scene-scripts to remove non-MR scripts from a named Unity scene subtree without losing existing local scene edits."

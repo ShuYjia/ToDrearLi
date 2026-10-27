@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity «∞÷√ ”∆µπÿø®"
+  short_description: "Reliable Unity intro video gating workflow"
+  default_prompt: "Use $unity-intro-video-gate to add a skippable introduction video before the first Unity level step."

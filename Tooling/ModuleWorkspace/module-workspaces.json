@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "workspaceRootSuffix": "__moduleworkspaces",
+  "localWorkspaceDirectories": [
+    "Builds",
+    "Library",
+    "Logs",
+    "Temp",
+    "UserSettings"
+  ],
+  "generatedFiles": [
+    ".gitignore",
+    ".module-workspace.json",
+    "README.md"
+  ],
+  "branchMirror": {
+    "remoteName": "module-origin",
+    "branchPrefix": "module/",
+    "workspaceRootSuffix": "__modulebranchmirror",
+    "legacyDefaultBranches": [
+      "main",
+      "master"
+    ]
+  },
+  "globalReadonlyPaths": [
+    ".mcp.json",
+    "Assets/A_MRNet",
+    "Assets/APP/BPF/Compatibility/Fonts",
+    "Assets/APP/MRTKSamples",
+    "Assets/APP/Modules/LegacyMrtkSync",
+    "Assets/App/Editor",
+    "Assets/App/Scripts/Runtime",
+    "Assets/App/ThirdPartyAdapters",
+    "Assets/App/Shared/Animations",
+    "Assets/App/Shared/Audio",
+    "Assets/App/Shared/Config",
+    "Assets/App/Shared/DataTables",
+    "Assets/App/Shared/Fonts",
+    "Assets/App/Shared/Localization",
+    "Assets/App/Shared/Materials",
+    "Assets/App/Shared/Models",
+    "Assets/App/Shared/Prefabs",
+    "Assets/App/Shared/Resources",
+    "Assets/App/Shared/Scripts",
+    "Assets/App/Shared/UI",
+    "Assets/BuildAssets",
+    "Assets/MRTK.Generated",
+    "Assets/Plugin",
+    "Assets/Plugins",
+    "Assets/Profiles",
+    "Assets/Resources/PICOProjectSetting.asset",
+    "Assets/Resources/PXR_DebuggerPanel.prefab",
+    "Assets/Resources/PXR_PICODebugger.prefab",
+    "Assets/Resources/PXR_PicoDebuggerSO.asset",
+    "Assets/Resources/PXR_PlatformSetting.asset",
+    "Assets/Resources/PXR_ProjectSetting.asset",
+    "Assets/Resources/TopicPrefabs",
+    "Assets/StreamingAssets",
+    "Assets/TextMesh Pro",
+    "Assets/XR",
+    "Assets/XRI",
+    "Packages",
+    "ProjectSettings",
+    "Tooling/ModuleWorkspace"
+  ],
+  "globalExcludedPaths": [
+    "Assets/_syc_resource",
+    "Assets/App/Scripts/SycResource",
+    "Assets/App/Shared/LegacyArchive",
+    "Assets/App/Shared/Scenes/Composite",
+    "Assets/App/Shared/Scenes/History",
+    "Assets/App/Shared/Scenes/Tests",
+    "Assets/Example Assets",
+    "Assets/GameFramework",
+    "Assets/MRMultiUser"
+  ],
+  "modules": [
+    {
+      "name": "NetworkCabinetWiring",
+      "status": "cross-module-readonly",
+      "entryScenePath": "Assets/App/Modules/NetworkCabinetWiring/Scenes/PQ_NetworkBuild.unity",
+      "excludeOtherModuleRoots": true,
+      "editablePaths": [
+        "Assets/App/Modules/NetworkCabinetWiring",
+        "Assets/Resources/BusinessPrefabs/MR混合现实多人协作平台/01货到人拣选电商仓储实施安装与调试实训系统/01服务器网络搭建.prefab",
+        "Assets/Resources/BusinessPrefabs/MR混合现实多人协作平台/01货到人拣选电商仓储实施安装与调试实训系统/01服务器网络搭建"
+      ],
+      "readonlyPaths": [],
+      "excludedPaths": [],
+      "notes": [
+        "BusinessPrefabs ownership is frozen for the current 01服务器网络搭建 subtree only.",
+        "Static dependency audit found direct references into ServerAssembly and ChargingStationAssembly assets, so this workspace is not yet a fully isolated runtime boundary."
+      ]
+    },
+    {
+      "name": "ServerAssembly",
+      "status": "cross-module-readonly",
+      "entryScenePath": "Assets/App/Modules/ServerAssembly/Scenes/WHY_FuWuQi.unity",
+      "excludeOtherModuleRoots": true,
+      "editablePaths": [
+        "Assets/App/Modules/ServerAssembly"
+      ],
+      "readonlyPaths": [],
+      "excludedPaths": [],
+      "notes": [
+        "No module-owned BusinessPrefabs subtree is frozen yet; BusinessPrefabs stay readonly via StreamingAssets and runtime config.",
+        "Static dependency audit found direct references into NetworkCabinetWiring and ChargingStationAssembly assets, so this workspace is not yet a fully isolated runtime boundary."
+      ]
+    },
+    {
+      "name": "RmsInstall",
+      "status": "cross-module-readonly",
+      "entryScenePath": "Assets/App/Modules/RmsInstall/Scenes/LSL_RMSInstall.unity",
+      "excludeOtherModuleRoots": true,
+      "editablePaths": [
+        "Assets/App/Modules/RmsInstall",
+        "Assets/Resources/BusinessPrefabs/MR混合现实多人协作平台/01货到人拣选电商仓储实施安装与调试实训系统/02软件系统安装.prefab",
+        "Assets/Resources/BusinessPrefabs/MR混合现实多人协作平台/01货到人拣选电商仓储实施安装与调试实训系统/02软件系统安装"
+      ],
+      "readonlyPaths": [],
+      "excludedPaths": [],
+      "notes": [
+        "BusinessPrefabs ownership is frozen for the current 02软件系统安装 subtree only.",
+        "Static dependency audit found direct references into ServerAssembly media assets, so this workspace is not yet a fully isolated runtime boundary."
+      ]
+    },
+    {
+      "name": "RmsImport",
+      "status": "cross-module-readonly",
+      "entryScenePath": "Assets/App/Modules/RmsImport/Scenes/LSL_RMSImport.unity",
+      "excludeOtherModuleRoots": true,
+      "editablePaths": [
+        "Assets/App/Modules/RmsImport"
+      ],
+      "readonlyPaths": [],
+      "excludedPaths": [],
+      "notes": [
+        "BusinessPrefabs subtree is not frozen yet; runtime topic trees stay readonly.",
+        "Static dependency audit found direct references into RmsInstall media assets, so this workspace is not yet a fully isolated runtime boundary."
+      ]
+    },
+    {
+      "name": "LayoutMarking",
+      "status": "shared-scene-readonly",
+      "entryScenePath": "Assets/App/Shared/Scenes/ZDP_ZhuChangJing.unity",
+      "excludeOtherModuleRoots": true,
+      "editablePaths": [
+        "Assets/App/Modules/LayoutMarking"
+      ],
+      "readonlyPaths": [
+        "Assets/App/Shared/Scenes/ZDP_ZhuChangJing.unity"
+      ],
+      "excludedPaths": [],
+      "notes": [
+        "The live scene is still shared with AgvCommissioning. The shared scene is shipped readonly until it is split.",
+        "Static dependency audit also found direct references into NetworkCabinetWiring, ServerAssembly, and ChargingStationAssembly assets."
+      ]
+    },
+    {
+      "name": "RackAssembly",
+      "status": "cross-module-readonly",
+      "entryScenePath": "Assets/App/Modules/RackAssembly/Scenes/WHY_HJ.unity",
+      "excludeOtherModuleRoots": true,
+      "editablePaths": [
+        "Assets/App/Modules/RackAssembly"
+      ],
+      "readonlyPaths": [],
+      "excludedPaths": [],
+      "notes": [
+        "BusinessPrefabs subtree is not frozen yet; runtime topic trees stay readonly.",
+        "Static dependency audit found direct references into ChargingStationAssembly and ServerAssembly assets, so this workspace is not yet a fully isolated runtime boundary."
+      ]
+    },
+    {
+      "name": "DisplayWallAssembly",
+      "status": "cross-module-readonly",
+      "entryScenePath": "Assets/App/Modules/DisplayWallAssembly/Scenes/WHY_BZQ.unity",
+      "excludeOtherModuleRoots": true,
+      "editablePaths": [
+        "Assets/App/Modules/DisplayWallAssembly"
+      ],
+      "readonlyPaths": [],
+      "excludedPaths": [],
+      "notes": [
+        "BusinessPrefabs subtree is not frozen yet; runtime topic trees stay readonly.",
+        "Static dependency audit found direct references into ChargingStationAssembly, RackAssembly, and ServerAssembly assets, so this workspace is not yet a fully isolated runtime boundary."
+      ]
+    },
+    {
+      "name": "ChargingStationAssembly",
+      "status": "cross-module-readonly",
+      "entryScenePath": "Assets/App/Modules/ChargingStationAssembly/Scenes/JYJ_anzhuang.unity",
+      "excludeOtherModuleRoots": true,
+      "editablePaths": [
+        "Assets/App/Modules/ChargingStationAssembly"
+      ],
+      "readonlyPaths": [],
+      "excludedPaths": [],
+      "notes": [
+        "BusinessPrefabs subtree is not frozen yet; runtime topic trees stay readonly.",
+        "Static dependency audit found direct references into NetworkCabinetWiring, AgvCommissioning, RackAssembly, LayoutMarking, and ServerAssembly assets, so this workspace is not yet a fully isolated runtime boundary."
+      ]
+    },
+    {
+      "name": "AgvCommissioning",
+      "status": "shared-scene-readonly",
+      "entryScenePath": "Assets/App/Shared/Scenes/ZDP_ZhuChangJing.unity",
+      "excludeOtherModuleRoots": true,
+      "editablePaths": [
+        "Assets/App/Modules/AgvCommissioning"
+      ],
+      "readonlyPaths": [
+        "Assets/App/Shared/Scenes/ZDP_ZhuChangJing.unity"
+      ],
+      "excludedPaths": [],
+      "notes": [
+        "The live scene is still shared with LayoutMarking. The shared scene is shipped readonly until it is split.",
+        "Static dependency audit also found direct references into NetworkCabinetWiring, RackAssembly, ChargingStationAssembly, and RackPlacement assets."
+      ]
+    },
+    {
+      "name": "RackPlacement",
+      "status": "cross-module-readonly",
+      "entryScenePath": "Assets/App/Modules/RackPlacement/Scenes/JYJ_HuoJiaRuChang.unity",
+      "excludeOtherModuleRoots": true,
+      "editablePaths": [
+        "Assets/App/Modules/RackPlacement"
+      ],
+      "readonlyPaths": [],
+      "excludedPaths": [],
+      "notes": [
+        "BusinessPrefabs subtree is not frozen yet; runtime topic trees stay readonly.",
+        "Static dependency audit found direct references into ChargingStationAssembly, NetworkCabinetWiring, and ServerAssembly assets, so this workspace is not yet a fully isolated runtime boundary."
+      ]
+    }
+  ]
+}

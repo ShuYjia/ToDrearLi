@@ -1,0 +1,40 @@
+﻿Legacy Asset Compare Summary
+OldProjectRoot: D:\gitea_obj\_unity projection\gitea_mrtk_sync_old_4
+NewProjectRoot: D:\gitea_obj\_unity projection\gitea_BPF
+GeneratedAt: 2026-06-03 10:01:02
+
+Old asset count (non-meta): 5581
+New asset count (non-meta): 3936
+
+Status MatchedByGuidMoved: 2727
+Status MatchedByGuidSamePath: 707
+Status MatchedByHashDifferentGuid: 18
+Status Missing: 1778
+Status SameNameOnly: 351
+
+Unexpected missing count: 611
+Expected excluded missing count: 1167
+Same-name-only count: 351
+Matched-by-hash-different-guid count: 18
+
+Top unexpected missing directories:
+  Assets/TextMesh Pro/Examples & Extras: 118
+  Assets/Editor/Editor: 24
+  Assets/ParrelSync/Editor: 13
+  Assets/StreamingAssets/DataTables: 13
+  Assets/VolumetricLines/BuiltInRenderPipeline: 11
+  Assets/MRTK.Tutorials.PCHolographicRemoting/Prefabs: 9
+  Assets/Test/Scripts: 9
+  Assets/MRTK.Tutorials.PCHolographicRemoting/Materials: 7
+  Assets/MRTK.Tutorials.PCHolographicRemoting/Models: 6
+  Assets/MRTK.Generated/DefaultCompanyNewSubsystem: 4
+  Assets/StreamingAssets/Entity: 4
+  Assets/_syc_resource/_my_scenes: 3
+  Assets/MRTK.Tutorials.PCHolographicRemoting/Scripts: 3
+  Assets/MRTK.Tutorials.PCHolographicRemoting/Shaders: 3
+  Assets/StreamingAssets/Localization: 3
+  Assets/Test/Scenes: 3
+  Assets/MRTK.Tutorials.PCHolographicRemoting/Textures: 2
+  Assets/XR/Loaders: 2
+  Assets/AssetBundleCollectorSetting.asset: 1
+  Assets/Editor/AttachSceneItemSyncTool.cs: 1

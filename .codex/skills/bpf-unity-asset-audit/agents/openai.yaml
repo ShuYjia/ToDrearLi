@@ -1,0 +1,3 @@
+display_name: BPF Unity Asset Audit
+short_description: Audit BPF Unity assets and risks.
+default_prompt: Audit the requested BPF Unity assets by resolving exact paths, scanning serialized and live Unity evidence, separating active runtime issues from hidden or legacy risks, and reporting concrete findings.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "BPF PICO Export Install"
+  short_description: "Export, install, launch, and verify BPF PICO APKs."
+  default_prompt: "Use $bpf-pico-export-install to export, install, launch, and verify the BPF PICO APK."

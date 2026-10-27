@@ -1,0 +1,774 @@
+﻿[
+    {
+        "moduleName":  "NetworkCabinetWiring",
+        "status":  "cross-module-readonly",
+        "crossModuleCount":  4,
+        "crossModuleHits":  [
+                                {
+                                    "moduleName":  "NetworkCabinetWiring",
+                                    "ownerModule":  "ServerAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ServerAssembly\\Resources\\Models\\JiGui 1.fbx.meta",
+                                    "guid":  "0ff94479e430f0e439649f2ed49135be"
+                                },
+                                {
+                                    "moduleName":  "NetworkCabinetWiring",
+                                    "ownerModule":  "ServerAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ServerAssembly\\Scripts\\ServerWorkflow\\attach\\Att1.cs.meta",
+                                    "guid":  "5b945f87e80505541847bf0a66290bba"
+                                },
+                                {
+                                    "moduleName":  "NetworkCabinetWiring",
+                                    "ownerModule":  "ChargingStationAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ChargingStationAssembly\\Scripts\\ChargingWorkflow\\dianxian.cs.meta",
+                                    "guid":  "93f3c75f1deeda842a9cf2e674722386"
+                                },
+                                {
+                                    "moduleName":  "NetworkCabinetWiring",
+                                    "ownerModule":  "ServerAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ServerAssembly\\Scripts\\ServerWorkflow\\attach\\Attach_Di.cs.meta",
+                                    "guid":  "fdbf73015ba44734dbf932ba5dea23d2"
+                                }
+                            ]
+    },
+    {
+        "moduleName":  "ServerAssembly",
+        "status":  "cross-module-readonly",
+        "crossModuleCount":  21,
+        "crossModuleHits":  [
+                                {
+                                    "moduleName":  "ServerAssembly",
+                                    "ownerModule":  "ChargingStationAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ChargingStationAssembly\\Scripts\\ChargingWorkflow\\xifu.cs.meta",
+                                    "guid":  "04bc3351a870c05489a2cb93c65706aa"
+                                },
+                                {
+                                    "moduleName":  "ServerAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Scripts\\WiringWorkflow\\BJBController.cs.meta",
+                                    "guid":  "25bb6595409facb42bb3bb876b733e56"
+                                },
+                                {
+                                    "moduleName":  "ServerAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Models\\WiringKit\\Materials\\M_ShuiJingTou5.mat.meta",
+                                    "guid":  "2a086def6918e774eb2280f4a56c698d"
+                                },
+                                {
+                                    "moduleName":  "ServerAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Models\\WiringKit\\Materials\\M_ShuiJingTou2.mat.meta",
+                                    "guid":  "38c43dc5874e0954c91e2afe1f9a018d"
+                                },
+                                {
+                                    "moduleName":  "ServerAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Models\\WiringKit\\BiJiBen-ChuanKouXian.fbx.meta",
+                                    "guid":  "48d4c81be1bfd6b408ab30eee5e63a8e"
+                                },
+                                {
+                                    "moduleName":  "ServerAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Prefabs\\LegacyEntity\\ChaTou2-6.prefab.meta",
+                                    "guid":  "4ade60f35de806641a2b0e78b6d3d51e"
+                                },
+                                {
+                                    "moduleName":  "ServerAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Prefabs\\LegacyEntity\\ChaTou1-6.prefab.meta",
+                                    "guid":  "5038a3ee0897c6c488b31de093ba4997"
+                                },
+                                {
+                                    "moduleName":  "ServerAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Models\\WiringKit\\Materials\\M_ZhuoTui.mat.meta",
+                                    "guid":  "564a2753708cc3d4ea31ad85178c535b"
+                                },
+                                {
+                                    "moduleName":  "ServerAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Models\\WiringKit\\Materials\\M_USB.mat.meta",
+                                    "guid":  "56d980f59adbc8d4fa40254990f9ec8c"
+                                },
+                                {
+                                    "moduleName":  "ServerAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Models\\WiringKit\\Materials\\M_ShuiJingTou4.mat.meta",
+                                    "guid":  "5f06d1879ea866a45a1387557acc9c6a"
+                                },
+                                {
+                                    "moduleName":  "ServerAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Scripts\\WiringWorkflow\\CKXController.cs.meta",
+                                    "guid":  "6145460ef763d1948a3098da492be2ed"
+                                },
+                                {
+                                    "moduleName":  "ServerAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Models\\WiringKit\\Materials\\M_ZhuoMian.mat.meta",
+                                    "guid":  "7738d9412a08c6b40b5a65aa36395794"
+                                },
+                                {
+                                    "moduleName":  "ServerAssembly",
+                                    "ownerModule":  "ChargingStationAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ChargingStationAssembly\\Scripts\\ChargingWorkflow\\dianxian.cs.meta",
+                                    "guid":  "93f3c75f1deeda842a9cf2e674722386"
+                                },
+                                {
+                                    "moduleName":  "ServerAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Scripts\\WiringWorkflow\\XiFuPQ.cs.meta",
+                                    "guid":  "9a69efebc32385d48b76a9f1ba61a0df"
+                                },
+                                {
+                                    "moduleName":  "ServerAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Models\\WiringKit\\Materials\\M_ShuiJingTou1.mat.meta",
+                                    "guid":  "a10dc636bf6bf4c40a677a63005d347b"
+                                },
+                                {
+                                    "moduleName":  "ServerAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Models\\WiringKit\\Materials\\BJB_diffuse.mat.meta",
+                                    "guid":  "afe21f4673fb46e449af1faa31cdf28e"
+                                },
+                                {
+                                    "moduleName":  "ServerAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Models\\WiringKit\\Materials\\ChuanKouXian_Albedo.mat.meta",
+                                    "guid":  "c16570deeb70664488e36f22e4451b0d"
+                                },
+                                {
+                                    "moduleName":  "ServerAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Models\\WiringKit\\Materials\\M_ShuiJingTou.mat.meta",
+                                    "guid":  "c2e4cc337f3e1264da740229c53120ad"
+                                },
+                                {
+                                    "moduleName":  "ServerAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Models\\WiringKit\\Materials\\M_JiaoHuanJi.mat.meta",
+                                    "guid":  "c65a18edcf0f74845b77b880f6bb0628"
+                                },
+                                {
+                                    "moduleName":  "ServerAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Models\\WiringKit\\Materials\\M_USB2.mat.meta",
+                                    "guid":  "e954353c9f77c234b80843d09d3710cc"
+                                },
+                                {
+                                    "moduleName":  "ServerAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Models\\WiringKit\\Materials\\M_ShuiJingTou3.mat.meta",
+                                    "guid":  "f9b64bef2425fa543a671e7f16d5df1d"
+                                }
+                            ]
+    },
+    {
+        "moduleName":  "RmsInstall",
+        "status":  "cross-module-readonly",
+        "crossModuleCount":  3,
+        "crossModuleHits":  [
+                                {
+                                    "moduleName":  "RmsInstall",
+                                    "ownerModule":  "ServerAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ServerAssembly\\Resources\\Media\\UI_镜像安装系统\\Video\\MR视频\\MapEditor地图编辑工具介绍.mp4.meta",
+                                    "guid":  "0b4a6eca136747645928a0bc55eeec96"
+                                },
+                                {
+                                    "moduleName":  "RmsInstall",
+                                    "ownerModule":  "ServerAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ServerAssembly\\Resources\\Media\\UI_镜像安装系统\\Video\\MR视频\\MobaXterm软件介绍.mp4.meta",
+                                    "guid":  "1b3e6ab9d9ce45945813c35604780a22"
+                                },
+                                {
+                                    "moduleName":  "RmsInstall",
+                                    "ownerModule":  "ServerAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ServerAssembly\\Resources\\Media\\UI_镜像安装系统\\Video\\MR视频\\RMS系统介绍.mp4.meta",
+                                    "guid":  "5d059ab1e20c01a4ca589c527854ea04"
+                                }
+                            ]
+    },
+    {
+        "moduleName":  "RmsImport",
+        "status":  "cross-module-readonly",
+        "crossModuleCount":  2,
+        "crossModuleHits":  [
+                                {
+                                    "moduleName":  "RmsImport",
+                                    "ownerModule":  "RmsInstall",
+                                    "relativePath":  "Assets\\App\\Modules\\RmsInstall\\Media\\LSL\\RMS_Picture\\RenderTex.renderTexture.meta",
+                                    "guid":  "303839f4834dd78419a96246b53dbdf8"
+                                },
+                                {
+                                    "moduleName":  "RmsImport",
+                                    "ownerModule":  "RmsInstall",
+                                    "relativePath":  "Assets\\App\\Modules\\RmsInstall\\Media\\LSL\\RMS_Picture\\video_9_low.mp4.meta",
+                                    "guid":  "8391300f4db902e4a886b45ace1fa377"
+                                }
+                            ]
+    },
+    {
+        "moduleName":  "LayoutMarking",
+        "status":  "shared-scene-readonly",
+        "crossModuleCount":  4,
+        "crossModuleHits":  [
+                                {
+                                    "moduleName":  "LayoutMarking",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Animations\\LegacyClips\\WiringClips\\Introduction.renderTexture.meta",
+                                    "guid":  "02fb979508f2f7a4d8e159069ec2ae0c"
+                                },
+                                {
+                                    "moduleName":  "LayoutMarking",
+                                    "ownerModule":  "ServerAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ServerAssembly\\Resources\\Media\\UI_镜像安装系统\\Video\\MR视频\\画线贴码.mp4.meta",
+                                    "guid":  "20816b2c58292674da59f9347e9a71de"
+                                },
+                                {
+                                    "moduleName":  "LayoutMarking",
+                                    "ownerModule":  "ChargingStationAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ChargingStationAssembly\\Scripts\\ChargingWorkflow\\tiema.cs.meta",
+                                    "guid":  "bb18aeeb5998f494b8fc21677b4ce9f8"
+                                },
+                                {
+                                    "moduleName":  "LayoutMarking",
+                                    "ownerModule":  "ChargingStationAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ChargingStationAssembly\\Audio\\充电桩安装\\8—3.MP3.meta",
+                                    "guid":  "c640adbcfb445704c8723ef302261777"
+                                }
+                            ]
+    },
+    {
+        "moduleName":  "RackAssembly",
+        "status":  "cross-module-readonly",
+        "crossModuleCount":  6,
+        "crossModuleHits":  [
+                                {
+                                    "moduleName":  "RackAssembly",
+                                    "ownerModule":  "ChargingStationAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ChargingStationAssembly\\Models\\ChargingKit\\NeiLiuJiaoBanShou.fbx.meta",
+                                    "guid":  "0961271f112d5d042ac8f0efeab2eec7"
+                                },
+                                {
+                                    "moduleName":  "RackAssembly",
+                                    "ownerModule":  "ChargingStationAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ChargingStationAssembly\\Models\\ChargingKit\\BanShou.fbx.meta",
+                                    "guid":  "2e27dc5f24714e84b83dc3bc9f04efae"
+                                },
+                                {
+                                    "moduleName":  "RackAssembly",
+                                    "ownerModule":  "ServerAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ServerAssembly\\Scripts\\ServerWorkflow\\OneBtntest.cs.meta",
+                                    "guid":  "a1859c3026526694f86efc213850b2cd"
+                                },
+                                {
+                                    "moduleName":  "RackAssembly",
+                                    "ownerModule":  "ChargingStationAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ChargingStationAssembly\\Audio\\充电桩安装\\8—12.MP3.meta",
+                                    "guid":  "a7bed36876ee741469a70e0bd0d86a50"
+                                },
+                                {
+                                    "moduleName":  "RackAssembly",
+                                    "ownerModule":  "ChargingStationAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ChargingStationAssembly\\Animations\\LegacyAnimator\\AssemblyControllers\\banshou.controller.meta",
+                                    "guid":  "bc4f17fa260a5cd41a92489b5913cd85"
+                                },
+                                {
+                                    "moduleName":  "RackAssembly",
+                                    "ownerModule":  "ChargingStationAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ChargingStationAssembly\\Scripts\\ChargingWorkflow\\banshouAnimation.cs.meta",
+                                    "guid":  "f64512beb4d718441ad216e18937cb70"
+                                }
+                            ]
+    },
+    {
+        "moduleName":  "DisplayWallAssembly",
+        "status":  "cross-module-readonly",
+        "crossModuleCount":  5,
+        "crossModuleHits":  [
+                                {
+                                    "moduleName":  "DisplayWallAssembly",
+                                    "ownerModule":  "ChargingStationAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ChargingStationAssembly\\Models\\ChargingKit\\ShouDianZuan.fbx.meta",
+                                    "guid":  "34ec998c82832c7449b0eae2ccd90d47"
+                                },
+                                {
+                                    "moduleName":  "DisplayWallAssembly",
+                                    "ownerModule":  "ChargingStationAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ChargingStationAssembly\\Models\\ChargingKit\\Materials\\T_DianZuan_Albedo.mat.meta",
+                                    "guid":  "86fb9bd267cd0eb419d0e82afd419646"
+                                },
+                                {
+                                    "moduleName":  "DisplayWallAssembly",
+                                    "ownerModule":  "ServerAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ServerAssembly\\Scripts\\ServerWorkflow\\OneBtntest.cs.meta",
+                                    "guid":  "a1859c3026526694f86efc213850b2cd"
+                                },
+                                {
+                                    "moduleName":  "DisplayWallAssembly",
+                                    "ownerModule":  "ChargingStationAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ChargingStationAssembly\\Models\\ChargingKit\\Materials\\M_ZuanTou.mat.meta",
+                                    "guid":  "c8d3e737c016c944ba7ef1e7782d0665"
+                                },
+                                {
+                                    "moduleName":  "DisplayWallAssembly",
+                                    "ownerModule":  "RackAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\RackAssembly\\Scripts\\RackWorkflow\\LuoSiTrue.cs.meta",
+                                    "guid":  "fe9765bcd73da8e4b8a87da56042e90b"
+                                }
+                            ]
+    },
+    {
+        "moduleName":  "ChargingStationAssembly",
+        "status":  "cross-module-readonly",
+        "crossModuleCount":  19,
+        "crossModuleHits":  [
+                                {
+                                    "moduleName":  "ChargingStationAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Animations\\LegacyClips\\WiringClips\\Introduction.renderTexture.meta",
+                                    "guid":  "02fb979508f2f7a4d8e159069ec2ae0c"
+                                },
+                                {
+                                    "moduleName":  "ChargingStationAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_JiaoHuanJi.mat.meta",
+                                    "guid":  "0b91f717df0c5764891b4ada00bad71a"
+                                },
+                                {
+                                    "moduleName":  "ChargingStationAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Models\\WiringKit\\Materials\\M_ShuiJingTou6.mat.meta",
+                                    "guid":  "0dbb5eb886066604ca1d6c42d9b206ed"
+                                },
+                                {
+                                    "moduleName":  "ChargingStationAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\ChuanKouXian_Albedo.mat.meta",
+                                    "guid":  "217d08848c65f2745848a2f11dfdd7ed"
+                                },
+                                {
+                                    "moduleName":  "ChargingStationAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_ShuiJingTou3.mat.meta",
+                                    "guid":  "32c6e4b2b4c244e42bc6712b8f543c51"
+                                },
+                                {
+                                    "moduleName":  "ChargingStationAssembly",
+                                    "ownerModule":  "AgvCommissioning",
+                                    "relativePath":  "Assets\\App\\Modules\\AgvCommissioning\\Scripts\\TaskFlowSupport\\TaskRCSXS.cs.meta",
+                                    "guid":  "32fab8d946ec7224f9b68ed387384a2b"
+                                },
+                                {
+                                    "moduleName":  "ChargingStationAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_ShuiJingTou2.mat.meta",
+                                    "guid":  "3dd791811fc9abb4e96fd067b2b5b8b4"
+                                },
+                                {
+                                    "moduleName":  "ChargingStationAssembly",
+                                    "ownerModule":  "LayoutMarking",
+                                    "relativePath":  "Assets\\App\\Modules\\LayoutMarking\\Prefabs\\LegacyEntity\\ErWeiMa-2.prefab.meta",
+                                    "guid":  "409e4938397fa3e4cbe19c03489c5ac0"
+                                },
+                                {
+                                    "moduleName":  "ChargingStationAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_USB2.mat.meta",
+                                    "guid":  "5cb80899a96f32d48a6a5429ef8df286"
+                                },
+                                {
+                                    "moduleName":  "ChargingStationAssembly",
+                                    "ownerModule":  "RackAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\RackAssembly\\Materials\\LegacyTietu\\M_Banshou.mat.meta",
+                                    "guid":  "62216ea6274f5a649a43a4639f37efaa"
+                                },
+                                {
+                                    "moduleName":  "ChargingStationAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_USB.mat.meta",
+                                    "guid":  "62dd0d9e544901b4786670d57aec0f6e"
+                                },
+                                {
+                                    "moduleName":  "ChargingStationAssembly",
+                                    "ownerModule":  "RackAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\RackAssembly\\Prefabs\\LegacyEntity\\banshou_2.prefab.meta",
+                                    "guid":  "6d3f84eb674c8884ea3a306862fdeddf"
+                                },
+                                {
+                                    "moduleName":  "ChargingStationAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_ShuiJingTou.mat.meta",
+                                    "guid":  "85f99bbcc4cf398488877b52daf332f1"
+                                },
+                                {
+                                    "moduleName":  "ChargingStationAssembly",
+                                    "ownerModule":  "AgvCommissioning",
+                                    "relativePath":  "Assets\\App\\Modules\\AgvCommissioning\\Scripts\\AgvWorkflow\\DragBox.cs.meta",
+                                    "guid":  "8ae9129a0e0460f41af5f90de6aa20b2"
+                                },
+                                {
+                                    "moduleName":  "ChargingStationAssembly",
+                                    "ownerModule":  "ServerAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ServerAssembly\\Resources\\Media\\UI_镜像安装系统\\Video\\MR视频\\充电桩安装介绍.mp4.meta",
+                                    "guid":  "94d46920eefe616408b5552a06da9e26"
+                                },
+                                {
+                                    "moduleName":  "ChargingStationAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_ShuiJingTou5.mat.meta",
+                                    "guid":  "95a7c4ce59c5f56428b6de548040de0d"
+                                },
+                                {
+                                    "moduleName":  "ChargingStationAssembly",
+                                    "ownerModule":  "AgvCommissioning",
+                                    "relativePath":  "Assets\\App\\Modules\\AgvCommissioning\\Scripts\\TaskFlowSupport\\TaskCDZ_peiwangXS.cs.meta",
+                                    "guid":  "9938b4e7c8574834bba107c941b92410"
+                                },
+                                {
+                                    "moduleName":  "ChargingStationAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_ShuiJingTou4.mat.meta",
+                                    "guid":  "b72464fed883af1498cfb26bb28c350a"
+                                },
+                                {
+                                    "moduleName":  "ChargingStationAssembly",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_ShuiJingTou1.mat.meta",
+                                    "guid":  "df09aba4c69f61d4b8ea00903bd4ad07"
+                                }
+                            ]
+    },
+    {
+        "moduleName":  "AgvCommissioning",
+        "status":  "shared-scene-readonly",
+        "crossModuleCount":  50,
+        "crossModuleHits":  [
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_LuYouQi19.mat.meta",
+                                    "guid":  "019a5176fb7d2394d8ee9288888c5470"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_LuYouQi14.mat.meta",
+                                    "guid":  "01db4e120838a14459a38030ccd72dd6"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_JiaoHuanJi3.mat.meta",
+                                    "guid":  "039ec5785ab3cd14ebdc8fb115c2a990"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_LuYouQi21.mat.meta",
+                                    "guid":  "045227e01135cdd4684a3b1fabf2a51f"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_ChaTou8.mat.meta",
+                                    "guid":  "059306a1784332c41b9b83b857eb65f3"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_ShuiJingTou9.mat.meta",
+                                    "guid":  "0b2d1c1212f33d743b6e148e55467dfd"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_JiaoHuanJi.mat.meta",
+                                    "guid":  "0b91f717df0c5764891b4ada00bad71a"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_FuWuQi.mat.meta",
+                                    "guid":  "14e972f8d879b0a45ae92deafd99b61b"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "LayoutMarking",
+                                    "relativePath":  "Assets\\App\\Modules\\LayoutMarking\\Materials\\LegacyTietu\\M_ErWeiMa.mat.meta",
+                                    "guid":  "1d59a57a8d395a7458dfd6d2dfe049f0"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "RackAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\RackAssembly\\Materials\\LegacyTietu\\M_LuoSi4.mat.meta",
+                                    "guid":  "1f32934c8c516e443822bcd6dc79378f"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\ChuanKouXian_Albedo.mat.meta",
+                                    "guid":  "217d08848c65f2745848a2f11dfdd7ed"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_LuYouQi16.mat.meta",
+                                    "guid":  "22a2a1a98ce0a62408baa3ff15fdc876"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_ChaTou6.mat.meta",
+                                    "guid":  "2ee35ee1ff4e03347b021e21161ca046"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_ShuiJingTou3.mat.meta",
+                                    "guid":  "32c6e4b2b4c244e42bc6712b8f543c51"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "ChargingStationAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ChargingStationAssembly\\Materials\\LegacyTietu\\M_CDZ1_Albedo.mat.meta",
+                                    "guid":  "341563d8ea6c1634e9d56f77c8ab6bc5"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_LuYouQi20.mat.meta",
+                                    "guid":  "39320533787949043bfc190e4731ff7f"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_ShuiJingTou2.mat.meta",
+                                    "guid":  "3dd791811fc9abb4e96fd067b2b5b8b4"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_LuYouQi15.mat.meta",
+                                    "guid":  "3ee4a36e22490b9449af90cdd05b005d"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "RackAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\RackAssembly\\Materials\\LegacyTietu\\M_LuoSi5.mat.meta",
+                                    "guid":  "43d83fb9cd864bd4eb4dd7e6864a9798"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_ShuiJingTou7.mat.meta",
+                                    "guid":  "59267aa7f8ac7b046a3940060cb0e6d0"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_LuYouQi17.mat.meta",
+                                    "guid":  "5a39e95eeef518c4cbef4193e971c58f"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_USB2.mat.meta",
+                                    "guid":  "5cb80899a96f32d48a6a5429ef8df286"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_USB.mat.meta",
+                                    "guid":  "62dd0d9e544901b4786670d57aec0f6e"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "ChargingStationAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ChargingStationAssembly\\Materials\\LegacyTietu\\T_DianZuan_Albedo 1.mat.meta",
+                                    "guid":  "7ab6e6a06fc2cb74d8ba458deec0bef0"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_ShuiJingTou10.mat.meta",
+                                    "guid":  "7e6be587f02d35b4b84c5c2a40aa5828"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "RackAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\RackAssembly\\Materials\\LegacyTietu\\M_HuoJia3.mat.meta",
+                                    "guid":  "845c27a16727171418054b9514385909"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_ShuiJingTou.mat.meta",
+                                    "guid":  "85f99bbcc4cf398488877b52daf332f1"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "RackPlacement",
+                                    "relativePath":  "Assets\\App\\Modules\\RackPlacement\\Prefabs\\LegacyEntity\\HuoJia-4.prefab.meta",
+                                    "guid":  "8780d0164235e894288296e6287a5d50"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_FuWuQi4.mat.meta",
+                                    "guid":  "88597f93af8d02e47b7a370e58ae1b9e"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_ChaTou7.mat.meta",
+                                    "guid":  "8c10315a136fc16408ddbe18f89eaaca"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "RackPlacement",
+                                    "relativePath":  "Assets\\App\\Modules\\RackPlacement\\Scripts\\PlacementWorkflow\\collision.cs.meta",
+                                    "guid":  "8fca99ed8c2f70d4789db3aced27734d"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_ShuiJingTou5.mat.meta",
+                                    "guid":  "95a7c4ce59c5f56428b6de548040de0d"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "ChargingStationAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ChargingStationAssembly\\Animations\\LegacyAnimator\\AssemblyControllers\\SDZ_BanJi.controller.meta",
+                                    "guid":  "9f50a256e03ed0d41a9fd862402e9e8a"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_ChaPai.mat.meta",
+                                    "guid":  "a133a48a69c855646bf6ad22ea3276bd"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_ShuiJingTou4.mat.meta",
+                                    "guid":  "b72464fed883af1498cfb26bb28c350a"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_ShuiJingTou8.mat.meta",
+                                    "guid":  "b8e2df3b9d8055842a73c1d91ca5246d"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "RackAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\RackAssembly\\Materials\\LegacyTietu\\M_LuoSi1.mat.meta",
+                                    "guid":  "c11f6b98c02bd0946a7fc41c5b4571e8"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "RackAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\RackAssembly\\Materials\\LegacyTietu\\ZhiXiang.mat.meta",
+                                    "guid":  "c45451c115853a445add3bbc5b49b957"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "RackAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\RackAssembly\\Materials\\LegacyTietu\\M_LuoSi_Albedo 1.mat.meta",
+                                    "guid":  "ca0e7311a1f6cfe43bf509fbcb46b2eb"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_YiHaoJiGui_WaiKe-Albedo.mat.meta",
+                                    "guid":  "cade7355ab3b9ee4cbc09adbd47dad15"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "RackPlacement",
+                                    "relativePath":  "Assets\\App\\Modules\\RackPlacement\\Prefabs\\LegacyEntity\\changjing-4.prefab.meta",
+                                    "guid":  "cf185ba8149d8fe41ba5007387e3190a"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "ChargingStationAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ChargingStationAssembly\\Animations\\LegacyAnimator\\AssemblyControllers\\polySurface7.controller.meta",
+                                    "guid":  "d13cbc5e56f784a4e955160917316334"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_LuYouQi22.mat.meta",
+                                    "guid":  "d52102bd3c679f147bff29a4994e294a"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_ShuiJingTou11.mat.meta",
+                                    "guid":  "ded75732f51471243b99383917862f7a"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_ShuiJingTou1.mat.meta",
+                                    "guid":  "df09aba4c69f61d4b8ea00903bd4ad07"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_LuYouQi.mat.meta",
+                                    "guid":  "e0b05a7a5bf53ee4f93f5d66263cde75"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "RackAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\RackAssembly\\Materials\\LegacyTietu\\HuoJia2.mat.meta",
+                                    "guid":  "e50464d28adf7ba4bbc0e5474b8c7048"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_JiaoHuanJi2.mat.meta",
+                                    "guid":  "e6abadd42d368b743b7756f0b1f09a10"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "ChargingStationAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ChargingStationAssembly\\Scripts\\ChargingWorkflow\\AnimationDingZi.cs.meta",
+                                    "guid":  "eefe715ff911ed4468a8b3b3326e997d"
+                                },
+                                {
+                                    "moduleName":  "AgvCommissioning",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Materials\\LegacyTietu\\M_ShuiJingTou6.mat.meta",
+                                    "guid":  "f4a971a8411f0b94eb79e0f928e66c92"
+                                }
+                            ]
+    },
+    {
+        "moduleName":  "RackPlacement",
+        "status":  "cross-module-readonly",
+        "crossModuleCount":  3,
+        "crossModuleHits":  [
+                                {
+                                    "moduleName":  "RackPlacement",
+                                    "ownerModule":  "NetworkCabinetWiring",
+                                    "relativePath":  "Assets\\App\\Modules\\NetworkCabinetWiring\\Animations\\LegacyClips\\WiringClips\\Introduction.renderTexture.meta",
+                                    "guid":  "02fb979508f2f7a4d8e159069ec2ae0c"
+                                },
+                                {
+                                    "moduleName":  "RackPlacement",
+                                    "ownerModule":  "ChargingStationAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ChargingStationAssembly\\Scripts\\ChargingWorkflow\\tishibobao.cs.meta",
+                                    "guid":  "37557e4f57dce624fa8e7bef2155c4dd"
+                                },
+                                {
+                                    "moduleName":  "RackPlacement",
+                                    "ownerModule":  "ServerAssembly",
+                                    "relativePath":  "Assets\\App\\Modules\\ServerAssembly\\Resources\\Media\\UI_镜像安装系统\\Video\\MR视频\\货架入场介绍.mp4.meta",
+                                    "guid":  "61f7fb5583c2fbc4d932e51717ea1141"
+                                }
+                            ]
+    }
+]

@@ -1,0 +1,4 @@
+interface:
+  display_name: "BPF Unity Workflow"
+  short_description: "Guide BPF Unity business workflow development"
+  default_prompt: "Use $bpf-unity-workflow to handle BPF business module development in this Unity project."

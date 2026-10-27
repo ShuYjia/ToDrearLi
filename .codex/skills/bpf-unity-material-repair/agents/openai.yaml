@@ -1,0 +1,3 @@
+display_name: BPF Unity Material Repair
+short_description: Repair BPF missing materials.
+default_prompt: Diagnose BPF Unity purple or missing-material issues by distinguishing shader/pipeline failures from null material slots, then repair only the verified root cause and validate with Unity scans and previews.

@@ -1,0 +1,3 @@
+display_name: BPF Docs And Config
+short_description: Maintain BPF docs and config rules.
+default_prompt: Update BPF documentation and configuration sources by editing source-of-truth files, avoiding hand-edits to generated Config.xml, and validating docs against live repository evidence.

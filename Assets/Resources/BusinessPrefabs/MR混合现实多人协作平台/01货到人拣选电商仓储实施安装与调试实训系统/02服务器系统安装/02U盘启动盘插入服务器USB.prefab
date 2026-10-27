@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8927653713933310038
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5050000000000000001, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_Name
+      value: "02U\u76D8\u542F\u52A8\u76D8\u63D2\u5165\u670D\u52A1\u5668USB"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000002, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000002, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000002, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000002, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000002, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000002, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000002, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000002, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000002, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000002, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000002, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: datas.name
+      value: "02U\u76D8\u542F\u52A8\u76D8\u63D2\u5165\u670D\u52A1\u5668USB"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.score
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: stepAudioClips.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[0]
+      value: SYS_USB_01_TakeU
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[1]
+      value: SYS_USB_02_InsertUSB
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[2]
+      value: SYS_03_ConfirmDateTime
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[3]
+      value: SYS_04_ConfirmKeyboard
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[4]
+      value: SYS_05_SelectInstallationDestination
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[5]
+      value: SYS_06_OpenSoftwareSelection
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[6]
+      value: SYS_07_SelectGNOME
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[7]
+      value: SYS_08_ReviewInstallationSummary
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.tasks.Array.data[8]
+      value: SYS_09_StartInstallation
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintAudios.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[0]
+      value: "\u4ECE\u7269\u6599\u533A\u53D6\u51FA\u670D\u52A1\u5668\u7CFB\u7EDF
+        U \u76D8\u542F\u52A8\u76D8\u3002"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[1]
+      value: "\u5C06\u670D\u52A1\u5668\u7CFB\u7EDF U \u76D8\u542F\u52A8\u76D8\u63D2\u5165\u670D\u52A1\u5668
+        USB \u63A5\u53E3\u3002"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[2]
+      value: "\u786E\u8BA4\u65E5\u671F\u548C\u65F6\u95F4\u8BBE\u7F6E\u3002"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[3]
+      value: "\u786E\u8BA4\u952E\u76D8\u5E03\u5C40\u3002"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[4]
+      value: "\u9009\u62E9\u670D\u52A1\u5668\u78C1\u76D8\u4F5C\u4E3A\u5B89\u88C5\u76EE\u6807\u3002"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[5]
+      value: "\u8FDB\u5165\u8F6F\u4EF6\u9009\u62E9\u9875\u9762\u3002"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[6]
+      value: "\u9009\u62E9 GNOME Desktop \u73AF\u5883\u3002"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[7]
+      value: "\u8FD4\u56DE\u5B89\u88C5\u6458\u8981\u9875\u5E76\u786E\u8BA4\u914D\u7F6E\u3002"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050000000000000003, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: topicData.hintTexts.Array.data[8]
+      value: "\u70B9\u51FB\u201C\u5F00\u59CB\u5B89\u88C5\u201D\u3002"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7372195520054297629, guid: 983ab2a6df537104fa108954d726aedd, type: 3}
+      propertyPath: m_Name
+      value: "02U\u76D8\u542F\u52A8\u76D8\u63D2\u5165\u670D\u52A1\u5668USB"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 983ab2a6df537104fa108954d726aedd, type: 3}

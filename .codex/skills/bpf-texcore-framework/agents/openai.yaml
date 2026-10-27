@@ -1,0 +1,3 @@
+display_name: BPF TexCore Framework
+short_description: Validate TexCore flow and step trees.
+default_prompt: Work on this BPF TexCore task by verifying business prefabs, topic data, scene step trees, stepIndex continuity, generated config alignment, and score source-of-truth before making narrow changes.

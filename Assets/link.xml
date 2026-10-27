@@ -1,0 +1,11 @@
+<linker>
+  <assembly fullname="Assembly-CSharp">
+    <type fullname="App.Runtime.Pico.PicoMixedRealityBootstrap" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.XR.PICO">
+    <type fullname="PXR_CameraEffectBlock" preserve="all" />
+    <type fullname="Unity.XR.OpenXR.Features.PICOSupport.PassthroughFeature" preserve="all" />
+    <type fullname="Unity.XR.PXR.PXR_Manager" preserve="all" />
+    <type fullname="Unity.XR.PXR.PXR_ProjectSetting" preserve="all" />
+  </assembly>
+</linker>

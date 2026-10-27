@@ -1,0 +1,39 @@
+name: Code Validation
+
+on:
+  push:
+    branches:
+      - main
+      - "feature/*"
+  pull_request:
+
+jobs:
+  validation:
+    runs-on: windows-host
+
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Get Pull Request changes
+        if: github.event_name == 'pull_request'
+        run: |
+          New-Item -ItemType Directory -Force -Path '${{ runner.temp }}/build' | Out-Null
+          ${{ github.workspace }}/Pipelines/Scripts/gitchanges.ps1 -TargetBranch '${{ github.base_ref }}' -OutputFile '${{ runner.temp }}/build/changed_files.txt' -RepoRoot '${{ github.workspace }}'
+        shell: powershell
+
+      - name: Get push changes
+        if: github.event_name == 'push'
+        run: |
+          New-Item -ItemType Directory -Force -Path '${{ runner.temp }}/build' | Out-Null
+          git diff --name-only '${{ github.event.before }}' '${{ github.sha }}' |
+            Where-Object { -not [string]::IsNullOrWhiteSpace($_) } |
+            Set-Content -Path '${{ runner.temp }}/build/changed_files.txt'
+        shell: powershell
+
+      - name: Scoped code validation
+        if: github.event_name == 'pull_request' || github.event_name == 'push'
+        run: |
+          ${{ github.workspace }}/Pipelines/Scripts/validatecode.ps1 -Directory '${{ github.workspace }}' -ChangesFile '${{ runner.temp }}/build/changed_files.txt'
+        shell: powershell

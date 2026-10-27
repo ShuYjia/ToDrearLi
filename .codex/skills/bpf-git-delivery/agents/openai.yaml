@@ -1,0 +1,3 @@
+display_name: BPF Git Delivery
+short_description: Deliver BPF changes safely.
+default_prompt: Deliver BPF repository changes on the current branch by protecting dirty work, staging only task-owned files, running diff and LFS checks, committing locally, and waiting for explicit acceptance before push or PR.

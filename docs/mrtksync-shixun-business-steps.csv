@@ -1,0 +1,131 @@
+﻿module_order,module_name,step_order,raw_step_name,normalized_step_name,source_anchor,source_unique_id,note
+1,NetWork-03_2,1,JianPan,JianPan,SHIXUN[10]/NetWork-03_2[0]/MR_ChangJing[2]/JIGUI[7]/ZhiYin[32]/JianPan[6],SHIXUN[10]/NetWork-03_2[0]/MR_ChangJing[2]/JIGUI[7]/ZhiYin[32]/JianPan[6]/Empty,
+1,NetWork-03_2,2,ShiJian,ShiJian,SHIXUN[10]/NetWork-03_2[0]/MR_ChangJing[2]/JIGUI[7]/ZhiYin[32]/ShiJian[5],SHIXUN[10]/NetWork-03_2[0]/MR_ChangJing[2]/JIGUI[7]/ZhiYin[32]/ShiJian[5]/Empty,
+1,NetWork-03_2,3,AnZhuangYuan,AnZhuangYuan,SHIXUN[10]/NetWork-03_2[0]/MR_ChangJing[2]/JIGUI[7]/ZhiYin[32]/AnZhuangYuan[7],SHIXUN[10]/NetWork-03_2[0]/MR_ChangJing[2]/JIGUI[7]/ZhiYin[32]/AnZhuangYuan[7]/Empty,
+1,NetWork-03_2,4,F11,F11,SHIXUN[10]/NetWork-03_2[0]/MR_ChangJing[2]/JIGUI[7]/ZhiYin[32]/F11[3],SHIXUN[10]/NetWork-03_2[0]/MR_ChangJing[2]/JIGUI[7]/ZhiYin[32]/F11[3]/Empty,
+1,NetWork-03_2,5,DNS,DNS,SHIXUN[10]/NetWork-03_2[0]/MR_ChangJing[2]/JIGUI[7]/ZhiYin[32]/DNS[8],SHIXUN[10]/NetWork-03_2[0]/MR_ChangJing[2]/JIGUI[7]/ZhiYin[32]/DNS[8]/Empty,
+1,NetWork-03_2,6,YuYan,YuYan,SHIXUN[10]/NetWork-03_2[0]/MR_ChangJing[2]/JIGUI[7]/ZhiYin[32]/YuYan[4],SHIXUN[10]/NetWork-03_2[0]/MR_ChangJing[2]/JIGUI[7]/ZhiYin[32]/YuYan[4]/Empty,
+1,NetWork-03_2,7,ChaU,ChaU,SHIXUN[10]/NetWork-03_2[0]/MR_ChangJing[2]/JIGUI[7]/ZhiYin[32]/ChaU[2],SHIXUN[10]/NetWork-03_2[0]/MR_ChangJing[2]/JIGUI[7]/ZhiYin[32]/ChaU[2]/Empty,
+1,NetWork-03_2,8,JianCha,JianCha,SHIXUN[10]/NetWork-03_2[0]/MR_ChangJing[2]/JIGUI[7]/ZhiYin[32]/JianCha[1],SHIXUN[10]/NetWork-03_2[0]/MR_ChangJing[2]/JIGUI[7]/ZhiYin[32]/JianCha[1]/Empty,
+2,WHY_FuWuQi-6,1,RuanJianXuanZe,RuanJianXuanZe,SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/RuanJianXuanZe[8],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/RuanJianXuanZe[8],
+2,WHY_FuWuQi-6,2,RootMiMa (1),RootMiMa (1),SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/RootMiMa (1)[13],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/RootMiMa (1)[13]/Empty Button (7)[0]/Frontplate[2]/Image[1],
+2,WHY_FuWuQi-6,3,QianJin (4),QianJin (4),SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/QianJin (4)[21],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/QianJin (4)[21],
+2,WHY_FuWuQi-6,4,IPV4 (2),IPV4 (2),SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/IPV4 (2)[32],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/IPV4 (2)[32],
+2,WHY_FuWuQi-6,5,QianJin (5),QianJin (5),SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/QianJin (5)[22],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/QianJin (5)[22]/Empty Button (11)[0]/Frontplate[2]/Image[1],
+2,WHY_FuWuQi-6,6,ShiJian,ShiJian,SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/ShiJian[5],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/ShiJian[5],
+2,WHY_FuWuQi-6,7,YouXian5,YouXian5,SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/YouXian5[29],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/YouXian5[29],
+2,WHY_FuWuQi-6,8,QianJin (3),QianJin (3),SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/QianJin (3)[20],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/QianJin (3)[20]/Empty Button (11)[0]/Frontplate[2]/Image[1],
+2,WHY_FuWuQi-6,9,JianPan,JianPan,SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/JianPan[6],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/JianPan[6]/Empty Button (4)[0]/Frontplate[2]/Image[1],
+2,WHY_FuWuQi-6,10,AnZhuangYuan,AnZhuangYuan,SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/AnZhuangYuan[7],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/AnZhuangYuan[7],
+2,WHY_FuWuQi-6,11,IPV4 (1),IPV4 (1),SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/IPV4 (1)[31],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/IPV4 (1)[31]/Empty Button (19)[0]/Frontplate[2]/Image[1],
+2,WHY_FuWuQi-6,12,QianJin (2),QianJin (2),SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/QianJin (2)[19],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/QianJin (2)[19]/Empty Button (11)[0]/Frontplate[2]/Image[1],
+2,WHY_FuWuQi-6,13,QianJin (1),QianJin (1),SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/QianJin (1)[18],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/QianJin (1)[18],
+2,WHY_FuWuQi-6,14,MiMa,MiMa,SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/MiMa[23],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/MiMa[23],
+2,WHY_FuWuQi-6,15,WeiZhi,WeiZhi,SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/WeiZhi[10],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/WeiZhi[10],
+2,WHY_FuWuQi-6,16,DNS,DNS,SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/DNS[33],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/DNS[33]/Empty Button (20)[0]/Frontplate[2]/Image[1],
+2,WHY_FuWuQi-6,17,Guan,Guan,SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/Guan[24],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/Guan[24],
+2,WHY_FuWuQi-6,18,QianJin,QianJin,SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/QianJin[17],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/QianJin[17]/Empty Button (11)[0]/Frontplate[2]/Image[1],
+2,WHY_FuWuQi-6,19,RootMiMa,RootMiMa,SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/RootMiMa[12],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/RootMiMa[12],
+2,WHY_FuWuQi-6,20,RuanJian,RuanJian,SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/RuanJian[9],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/RuanJian[9]/Empty Button (4)[0]/Frontplate[2]/Image[1],
+2,WHY_FuWuQi-6,21,IPV4,IPV4,SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/IPV4[30],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/IPV4[30]/Empty Button (19)[0]/Frontplate[2]/Image[1],
+2,WHY_FuWuQi-6,22,WanCheng,WanCheng,SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/WanCheng[16],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/WanCheng[16],
+2,WHY_FuWuQi-6,23,YouXian3,YouXian3,SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/YouXian3[27],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/YouXian3[27]/Empty Button (17)[0]/Frontplate[2]/Image[1],
+2,WHY_FuWuQi-6,24,TakeU,TakeU,SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/TakeU[1],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/TakeU[1]/Empty Button[0]/Frontplate[2]/Image[1],
+2,WHY_FuWuQi-6,25,YouXian1,YouXian1,SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/YouXian1[25],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/YouXian1[25],
+2,WHY_FuWuQi-6,26,F11,F11,SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/F11[3],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/F11[3]/Empty Button (2)[0]/Frontplate[2]/Image[1],
+2,WHY_FuWuQi-6,27,YuYan,YuYan,SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/YuYan[4],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/YuYan[4],
+2,WHY_FuWuQi-6,28,Chongqing,Chongqing,SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/Chongqing[14],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/Chongqing[14],
+2,WHY_FuWuQi-6,29,XuKe,XuKe,SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/XuKe[15],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/XuKe[15]/Empty Button (9)[0]/Frontplate[2]/Image[1],
+2,WHY_FuWuQi-6,30,YouXian2,YouXian2,SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/YouXian2[26],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/YouXian2[26],
+2,WHY_FuWuQi-6,31,YouXian4,YouXian4,SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/YouXian4[28],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/YouXian4[28],
+2,WHY_FuWuQi-6,32,ChaU,ChaU,SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/ChaU[2],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/ChaU[2]/Empty Button (1)[0]/Frontplate[2]/Image[1],
+2,WHY_FuWuQi-6,33,KaiShi,KaiShi,SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/KaiShi[11],SHIXUN[10]/WHY_FuWuQi-6[1]/ZhiYin[0]/KaiShi[11],
+3,LSL_RMS_Install,,,,,,未识别到业务步骤节点
+4,LSL_RMS_Import,,,,,,未识别到业务步骤节点
+5,HuaXian,1,识别激光水平仪介绍,识别激光水平仪介绍,SHIXUN[10]/HuaXian[4]/UI-\u6307\u5F15[11]/\u8BC6\u522B\u6FC0\u5149\u6C34\u5E73\u4EEA\u4ECB\u7ECD[0],SHIXUN[10]/HuaXian[4]/UI-\u6307\u5F15[11]/\u8BC6\u522B\u6FC0\u5149\u6C34\u5E73\u4EEA\u4ECB\u7ECD[0]/\u8BC6\u522B\u6FC0\u5149\u6C34\u5E73\u4EEA\u4ECB\u7ECD[0]/Text,scene-step: UI-指引一级业务节点
+5,HuaXian,2,识别墨斗介绍,识别墨斗介绍,SHIXUN[10]/HuaXian[4]/UI-\u6307\u5F15[11]/\u8BC6\u522B\u58A8\u6597\u4ECB\u7ECD[1],SHIXUN[10]/HuaXian[4]/UI-\u6307\u5F15[11]/\u8BC6\u522B\u58A8\u6597\u4ECB\u7ECD[1],scene-step: UI-指引一级业务节点
+5,HuaXian,3,TieMa,TieMa,SHIXUN[10]/HuaXian[4]/UI-\u6307\u5F15[11]/TieMa[2],SHIXUN[10]/HuaXian[4]/UI-\u6307\u5F15[11]/TieMa[2]/Bg[0]/Erweima[0],scene-step: UI-指引一级业务节点
+5,HuaXian,4,识别激光水平仪介绍1,识别激光水平仪介绍1,SHIXUN[10]/HuaXian[4]/UI-\u6307\u5F15[11]/\u8BC6\u522B\u6FC0\u5149\u6C34\u5E73\u4EEA\u4ECB\u7ECD1[3],SHIXUN[10]/HuaXian[4]/UI-\u6307\u5F15[11]/\u8BC6\u522B\u6FC0\u5149\u6C34\u5E73\u4EEA\u4ECB\u7ECD1[3]/UPan[1]/Backplate[0],scene-step: UI-指引一级业务节点
+5,HuaXian,5,识别墨斗介绍2,识别墨斗介绍2,SHIXUN[10]/HuaXian[4]/UI-\u6307\u5F15[11]/\u8BC6\u522B\u58A8\u6597\u4ECB\u7ECD2[4],SHIXUN[10]/HuaXian[4]/UI-\u6307\u5F15[11]/\u8BC6\u522B\u58A8\u6597\u4ECB\u7ECD2[4]/UPan[1]/SeeItSayItLabel-Canvas[3]/CanvasRoot[0]/CanvasBackplate[0],scene-step: UI-指引一级业务节点
+5,HuaXian,6,TieMa3,TieMa3,SHIXUN[10]/HuaXian[4]/UI-\u6307\u5F15[11]/TieMa3[5],SHIXUN[10]/HuaXian[4]/UI-\u6307\u5F15[11]/TieMa3[5]/BG[0]/Icon[0]/Text,scene-step: UI-指引一级业务节点
+5,HuaXian,7,视频介绍,视频介绍,SHIXUN[10]/HuaXian[4]/\u89C6\u9891\u4ECB\u7ECD[16],SHIXUN[10]/HuaXian[4]/\u89C6\u9891\u4ECB\u7ECD[16]/WHY_Question-7[1]/XuanZeTi[0]/Question3[5]/B[2]/SeeItSayItLabel-Canvas[3]/CanvasRoot[0]/CanvasBackplate[0]/Label[0],scene-stage: 顶层视频介绍容器
+5,HuaXian,8,WHY_Question-7,WHY_Question-7,SHIXUN[10]/HuaXian[4]/\u89C6\u9891\u4ECB\u7ECD[16]/WHY_Question-7[1],SHIXUN[10]/HuaXian[4]/\u89C6\u9891\u4ECB\u7ECD[16]/WHY_Question-7[1]/XuanZeTi[0]/Question3[5]/B[2]/SeeItSayItLabel-Canvas[3]/CanvasRoot[0]/CanvasBackplate[0]/Label[0],scene-stage: 视频介绍内问答容器
+5,HuaXian,9,XuanZeTi,XuanZeTi,SHIXUN[10]/HuaXian[4]/Question-JQR[12]/XuanZeTi[0],SHIXUN[10]/HuaXian[4]/Question-JQR[12]/XuanZeTi[0]/Question[3]/A[1]/Frontplate[2]/Choose1[3],scene-stage: 模块问答-选择题
+5,HuaXian,10,ChangJianWenTi,ChangJianWenTi,SHIXUN[10]/HuaXian[4]/Question-JQR[12]/ChangJianWenTi[1],SHIXUN[10]/HuaXian[4]/Question-JQR[12]/ChangJianWenTi[1]/Close[1]/Frontplate[2]/Image,scene-stage: 模块问答-常见问题
+5,HuaXian,11,QRCodePasting,QRCodePasting,Assets/App/Modules/LayoutMarking/Scripts/QrWorkflow/CheckCollider.cs,LoadSceneObj.Tesks.QRCodePasting,script-task: 二维码粘贴流程完成后推进业务任务
+6,WHY_HJ,1,Tilting base,Tilting base,SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Tilting base[3],SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Tilting base[3]/Empty Button (3)[0]/Backplate[0],
+6,WHY_HJ,2,Install upright,Install upright,SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Install upright[4],SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Install upright[4]/Empty Button (4)[0]/Backplate[0],
+6,WHY_HJ,3,Down laminate,Down laminate,SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Down laminate[6],SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Down laminate[6]/Empty Button (4)[0]/Backplate[0],
+6,WHY_HJ,4,Install beam3,Install beam3,SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Install beam3[11],SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Install beam3[11]/Empty Button (7)[0]/Backplate[0],
+6,WHY_HJ,5,Set screw,Set screw,SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Set screw[5],SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Set screw[5]/Empty Button (4)[0]/Backplate[0],
+6,WHY_HJ,6,Install HJ,Install HJ,SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Install HJ[14],SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Install HJ[14]/Empty Button (10)[0]/Backplate[0],
+6,WHY_HJ,7,Put laminate1,Put laminate1,SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Put laminate1[8],SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Put laminate1[8]/Empty Button (5)[0]/Backplate[0],
+6,WHY_HJ,8,Put laminate2,Put laminate2,SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Put laminate2[10],SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Put laminate2[10]/Empty Button (7)[0]/Backplate[0],
+6,WHY_HJ,9,Install beam1,Install beam1,SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Install beam1[7],SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Install beam1[7]/Empty Button (4)[0]/Backplate[0],
+6,WHY_HJ,10,Inspect HJ,Inspect HJ,SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Inspect HJ[1],SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Inspect HJ[1]/Empty Button (2)[0]/Backplate[0],
+6,WHY_HJ,11,Put laminate3,Put laminate3,SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Put laminate3[12],SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Put laminate3[12]/Empty Button (8)[0]/Backplate[0],
+6,WHY_HJ,12,Put box,Put box,SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Put box[13],SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Put box[13]/Empty Button (9)[0]/Backplate[0],
+6,WHY_HJ,13,Install beam2,Install beam2,SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Install beam2[9],SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Install beam2[9]/Empty Button (6)[0]/Backplate[0],
+6,WHY_HJ,14,Place base,Place base,SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Place base[2],SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/Place base[2]/Empty Button (3)[0]/Backplate[0],
+6,WHY_HJ,15,TakeU,TakeU,SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/TakeU[0],SHIXUN[10]/WHY_HJ[5]/ZhiYin[1]/TakeU[0],
+7,WHY_BZQ,1,HengLiang5,HengLiang5,SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/HengLiang5[10],SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/HengLiang5[10]/Empty Button (3)[0]/Backplate[0],
+7,WHY_BZQ,2,XianShiQi,XianShiQi,SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/XianShiQi[17],SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/XianShiQi[17]/Empty Button (3)[0]/Backplate[0],
+7,WHY_BZQ,3,JianPan,JianPan,SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/JianPan[16],SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/JianPan[16]/Empty Button (3)[0]/Backplate[0],
+7,WHY_BZQ,4,DuanZi,DuanZi,SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/DuanZi[19],SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/DuanZi[19]/Empty Button (3)[0]/Backplate[0],
+7,WHY_BZQ,5,LuoSiZhi,LuoSiZhi,SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/LuoSiZhi[15],SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/LuoSiZhi[15]/Empty Button (3)[0]/Backplate[0],
+7,WHY_BZQ,6,ZhiJia,ZhiJia,SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/ZhiJia[14],SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/ZhiJia[14]/Empty Button (3)[0]/Backplate[0],
+7,WHY_BZQ,7,DZBQ,DZBQ,SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/DZBQ[20],SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/DZBQ[20]/Empty Button (3)[0]/Backplate[0],
+7,WHY_BZQ,8,CengBan3,CengBan3,SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/CengBan3[9],SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/CengBan3[9]/Empty Button (3)[0]/Backplate[0],
+7,WHY_BZQ,9,CengBan1,CengBan1,SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/CengBan1[5],SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/CengBan1[5]/Empty Button (3)[0]/Backplate[0],
+7,WHY_BZQ,10,ZhuJi,ZhuJi,SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/ZhuJi[13],SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/ZhuJi[13]/Empty Button (3)[0]/Backplate[0],
+7,WHY_BZQ,11,HengLiang3,HengLiang3,SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/HengLiang3[6],SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/HengLiang3[6]/Empty Button (3)[0]/Backplate[0],
+7,WHY_BZQ,12,CengBan4,CengBan4,SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/CengBan4[11],SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/CengBan4[11]/Empty Button (3)[0]/Backplate[0],
+7,WHY_BZQ,13,CengBan2,CengBan2,SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/CengBan2[7],SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/CengBan2[7]/Empty Button (3)[0]/Backplate[0],
+7,WHY_BZQ,14,SaoMiao,SaoMiao,SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/SaoMiao[12],SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/SaoMiao[12]/Empty Button (3)[0]/Backplate[0],
+7,WHY_BZQ,15,KaCao,KaCao,SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/KaCao[18],SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/KaCao[18]/Empty Button (3)[0]/Backplate[0],
+7,WHY_BZQ,16,HengLiang4,HengLiang4,SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/HengLiang4[8],SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/HengLiang4[8]/Empty Button (3)[0]/Backplate[0],
+7,WHY_BZQ,17,WanCheng,WanCheng,SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/WanCheng[21],SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/WanCheng[21]/Empty Button (20)[0]/Backplate[0],
+7,WHY_BZQ,18,HengLiang1,HengLiang1,SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/HengLiang1[3],SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/HengLiang1[3]/Empty Button (2)[0]/Backplate[0],
+7,WHY_BZQ,19,HengLiang2,HengLiang2,SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/HengLiang2[4],SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/HengLiang2[4]/Empty Button (3)[0]/Backplate[0],
+7,WHY_BZQ,20,LiZhu,LiZhu,SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/LiZhu[2],SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/LiZhu[2]/Empty Button (1)[0]/Backplate[0],
+7,WHY_BZQ,21,TakeLingJian,TakeLingJian,SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/TakeLingJian[1],SHIXUN[10]/WHY_BZQ[6]/ZhiYin[1]/TakeLingJian[1]/Empty Button[0]/Backplate[0],
+8,changjing-2,1,拆箱子,拆箱子,SHIXUN[10]/changjing-2[7]/\u6B65\u9AA4\u63D0\u793AUI[18]/\u62C6\u7BB1\u5B50[0],SHIXUN[10]/changjing-2[7]/\u6B65\u9AA4\u63D0\u793AUI[18]/\u62C6\u7BB1\u5B50[0]/Action,scene-step: 步骤提示UI一级业务节点
+8,changjing-2,2,粘贴二维码提示,粘贴二维码提示,SHIXUN[10]/changjing-2[7]/\u6B65\u9AA4\u63D0\u793AUI[18]/\u7C98\u8D34\u4E8C\u7EF4\u7801\u63D0\u793A[1],SHIXUN[10]/changjing-2[7]/\u6B65\u9AA4\u63D0\u793AUI[18]/\u7C98\u8D34\u4E8C\u7EF4\u7801\u63D0\u793A[1]/Action,scene-step: 步骤提示UI一级业务节点
+8,changjing-2,3,安装充电桩提示,安装充电桩提示,SHIXUN[10]/changjing-2[7]/\u6B65\u9AA4\u63D0\u793AUI[18]/\u5B89\u88C5\u5145\u7535\u6869\u63D0\u793A[2],SHIXUN[10]/changjing-2[7]/\u6B65\u9AA4\u63D0\u793AUI[18]/\u5B89\u88C5\u5145\u7535\u6869\u63D0\u793A[2]/Action,scene-step: 步骤提示UI一级业务节点
+8,changjing-2,4,充电桩开盖提示,充电桩开盖提示,SHIXUN[10]/changjing-2[7]/\u6B65\u9AA4\u63D0\u793AUI[18]/\u5145\u7535\u6869\u5F00\u76D6\u63D0\u793A[3],SHIXUN[10]/changjing-2[7]/\u6B65\u9AA4\u63D0\u793AUI[18]/\u5145\u7535\u6869\u5F00\u76D6\u63D0\u793A[3]/Action,scene-step: 步骤提示UI一级业务节点
+8,changjing-2,5,安装天线提示,安装天线提示,SHIXUN[10]/changjing-2[7]/\u6B65\u9AA4\u63D0\u793AUI[18]/\u5B89\u88C5\u5929\u7EBF\u63D0\u793A[4],SHIXUN[10]/changjing-2[7]/\u6B65\u9AA4\u63D0\u793AUI[18]/\u5B89\u88C5\u5929\u7EBF\u63D0\u793A[4]/Action,scene-step: 步骤提示UI一级业务节点
+8,changjing-2,6,电钻打孔提示,电钻打孔提示,SHIXUN[10]/changjing-2[7]/\u6B65\u9AA4\u63D0\u793AUI[18]/\u7535\u94BB\u6253\u5B54\u63D0\u793A[5],SHIXUN[10]/changjing-2[7]/\u6B65\u9AA4\u63D0\u793AUI[18]/\u7535\u94BB\u6253\u5B54\u63D0\u793A[5]/Action,scene-step: 步骤提示UI一级业务节点
+8,changjing-2,7,取出碰撞管提示,取出碰撞管提示,SHIXUN[10]/changjing-2[7]/\u6B65\u9AA4\u63D0\u793AUI[18]/\u53D6\u51FA\u78B0\u649E\u7BA1\u63D0\u793A[6],SHIXUN[10]/changjing-2[7]/\u6B65\u9AA4\u63D0\u793AUI[18]/\u53D6\u51FA\u78B0\u649E\u7BA1\u63D0\u793A[6]/Action,scene-step: 步骤提示UI一级业务节点
+8,changjing-2,8,锤子安装提示,锤子安装提示,SHIXUN[10]/changjing-2[7]/\u6B65\u9AA4\u63D0\u793AUI[18]/\u9524\u5B50\u5B89\u88C5\u63D0\u793A[7],SHIXUN[10]/changjing-2[7]/\u6B65\u9AA4\u63D0\u793AUI[18]/\u9524\u5B50\u5B89\u88C5\u63D0\u793A[7]/Action,scene-step: 步骤提示UI一级业务节点
+8,changjing-2,9,取出膨胀螺丝提示,取出膨胀螺丝提示,SHIXUN[10]/changjing-2[7]/\u6B65\u9AA4\u63D0\u793AUI[18]/\u53D6\u51FA\u81A8\u80C0\u87BA\u4E1D\u63D0\u793A[8],SHIXUN[10]/changjing-2[7]/\u6B65\u9AA4\u63D0\u793AUI[18]/\u53D6\u51FA\u81A8\u80C0\u87BA\u4E1D\u63D0\u793A[8]/Action,scene-step: 步骤提示UI一级业务节点
+8,changjing-2,10,扳手拧紧提示,扳手拧紧提示,SHIXUN[10]/changjing-2[7]/\u6B65\u9AA4\u63D0\u793AUI[18]/\u6273\u624B\u62E7\u7D27\u63D0\u793A[9],SHIXUN[10]/changjing-2[7]/\u6B65\u9AA4\u63D0\u793AUI[18]/\u6273\u624B\u62E7\u7D27\u63D0\u793A[9]/Action,scene-step: 步骤提示UI一级业务节点
+8,changjing-2,11,插电提示,插电提示,SHIXUN[10]/changjing-2[7]/\u6B65\u9AA4\u63D0\u793AUI[18]/\u63D2\u7535\u63D0\u793A[10],SHIXUN[10]/changjing-2[7]/\u6B65\u9AA4\u63D0\u793AUI[18]/\u63D2\u7535\u63D0\u793A[10]/Action,scene-step: 步骤提示UI一级业务节点
+8,changjing-2,12,AGV配网提示,AGV配网提示,SHIXUN[10]/changjing-2[7]/\u6B65\u9AA4\u63D0\u793AUI[18]/AGV\u914D\u7F51\u63D0\u793A[11],SHIXUN[10]/changjing-2[7]/\u6B65\u9AA4\u63D0\u793AUI[18]/AGV\u914D\u7F51\u63D0\u793A[11]/Action,scene-step: 步骤提示UI一级业务节点
+8,changjing-2,13,介绍视频,介绍视频,SHIXUN[10]/changjing-2[7]/\u4ECB\u7ECD\u89C6\u9891[20],SHIXUN[10]/changjing-2[7]/\u4ECB\u7ECD\u89C6\u9891[20]/\u4EFB\u52A1\u63D0\u793AUI[1]/UPan[1]/Frontplate[2]/AnimatedContent[0]/Icon[0]/UIButtonFontIcon[1],scene-stage: 顶层视频介绍容器
+8,changjing-2,14,XuanZeTi,XuanZeTi,SHIXUN[10]/changjing-2[7]/JYJ_Question-2[19]/XuanZeTi[0],SHIXUN[10]/changjing-2[7]/JYJ_Question-2[19]/XuanZeTi[0]/Question[3]/C[3]/Backplate[0],scene-stage: 模块问答-选择题
+8,changjing-2,15,ChangJianWenTi,ChangJianWenTi,SHIXUN[10]/changjing-2[7]/JYJ_Question-2[19]/ChangJianWenTi[1],SHIXUN[10]/changjing-2[7]/JYJ_Question-2[19]/ChangJianWenTi[1]/Close[1]/Backplate[0],scene-stage: 模块问答-常见问题
+9,ChangJing-8,1,手电钻吸附和拆钉子,手电钻吸附和拆钉子,SHIXUN[10]/ChangJing-8[8]/UI-\u6307\u5F15[0]/\u624B\u7535\u94BB\u5438\u9644\u548C\u62C6\u9489\u5B50[0],SHIXUN[10]/ChangJing-8[8]/UI-\u6307\u5F15[0]/\u624B\u7535\u94BB\u5438\u9644\u548C\u62C6\u9489\u5B50[0]/\u786E\u5B9A\u6309\u94AE[1]/Backplate[0],scene-step: UI-指引一级业务节点
+9,ChangJing-8,2,拿掉箱盖和推出机器人,拿掉箱盖和推出机器人,SHIXUN[10]/ChangJing-8[8]/UI-\u6307\u5F15[0]/\u62FF\u6389\u7BB1\u76D6\u548C\u63A8\u51FA\u673A\u5668\u4EBA[1],SHIXUN[10]/ChangJing-8[8]/UI-\u6307\u5F15[0]/\u62FF\u6389\u7BB1\u76D6\u548C\u63A8\u51FA\u673A\u5668\u4EBA[1]/\u786E\u5B9A\u6309\u94AE[1]/Backplate[0],scene-step: UI-指引一级业务节点
+9,ChangJing-8,3,检查机器人开关和碰撞检测器,检查机器人开关和碰撞检测器,SHIXUN[10]/ChangJing-8[8]/UI-\u6307\u5F15[0]/\u68C0\u67E5\u673A\u5668\u4EBA\u5F00\u5173\u548C\u78B0\u649E\u68C0\u6D4B\u5668[2],SHIXUN[10]/ChangJing-8[8]/UI-\u6307\u5F15[0]/\u68C0\u67E5\u673A\u5668\u4EBA\u5F00\u5173\u548C\u78B0\u649E\u68C0\u6D4B\u5668[2]/\u786E\u5B9A\u6309\u94AE[1]/Backplate[0],scene-step: UI-指引一级业务节点
+9,ChangJing-8,4,按下机器人开机键,按下机器人开机键,SHIXUN[10]/ChangJing-8[8]/UI-\u6307\u5F15[0]/\u6309\u4E0B\u673A\u5668\u4EBA\u5F00\u673A\u952E[3],SHIXUN[10]/ChangJing-8[8]/UI-\u6307\u5F15[0]/\u6309\u4E0B\u673A\u5668\u4EBA\u5F00\u673A\u952E[3]/\u786E\u5B9A\u6309\u94AE[1]/Backplate[0],scene-step: UI-指引一级业务节点
+9,ChangJing-8,5,AGV配置网络,AGV配置网络,SHIXUN[10]/ChangJing-8[8]/UI-\u6307\u5F15[0]/AGV\u914D\u7F6E\u7F51\u7EDC[4],SHIXUN[10]/ChangJing-8[8]/UI-\u6307\u5F15[0]/AGV\u914D\u7F6E\u7F51\u7EDC[4]/\u786E\u5B9A\u6309\u94AE[1]/Backplate[0],scene-step: UI-指引一级业务节点
+9,ChangJing-8,6,向系统发送加入机器人,向系统发送加入机器人,SHIXUN[10]/ChangJing-8[8]/UI-\u6307\u5F15[0]/\u5411\u7CFB\u7EDF\u53D1\u9001\u52A0\u5165\u673A\u5668\u4EBA[5],SHIXUN[10]/ChangJing-8[8]/UI-\u6307\u5F15[0]/\u5411\u7CFB\u7EDF\u53D1\u9001\u52A0\u5165\u673A\u5668\u4EBA[5]/\u786E\u5B9A\u6309\u94AE[1]/Backplate[0],scene-step: UI-指引一级业务节点
+9,ChangJing-8,7,拆钉子,拆钉子,SHIXUN[10]/ChangJing-8[8]/UI-\u6307\u5F15[0]/\u624B\u7535\u94BB\u5438\u9644\u548C\u62C6\u9489\u5B50[0]/\u62C6\u9489\u5B50[0],SHIXUN[10]/ChangJing-8[8]/UI-\u6307\u5F15[0]/\u624B\u7535\u94BB\u5438\u9644\u548C\u62C6\u9489\u5B50[0]/\u62C6\u9489\u5B50[0],scene-substep: UI-指引二级业务节点
+9,ChangJing-8,8,拿掉箱盖,拿掉箱盖,SHIXUN[10]/ChangJing-8[8]/UI-\u6307\u5F15[0]/\u62FF\u6389\u7BB1\u76D6\u548C\u63A8\u51FA\u673A\u5668\u4EBA[1]/\u62FF\u6389\u7BB1\u76D6[0],SHIXUN[10]/ChangJing-8[8]/UI-\u6307\u5F15[0]/\u62FF\u6389\u7BB1\u76D6\u548C\u63A8\u51FA\u673A\u5668\u4EBA[1]/\u62FF\u6389\u7BB1\u76D6[0],scene-substep: UI-指引二级业务节点
+9,ChangJing-8,9,碰撞检测,碰撞检测,SHIXUN[10]/ChangJing-8[8]/UI-\u6307\u5F15[0]/\u68C0\u67E5\u673A\u5668\u4EBA\u5F00\u5173\u548C\u78B0\u649E\u68C0\u6D4B\u5668[2]/\u78B0\u649E\u68C0\u6D4B[0],SHIXUN[10]/ChangJing-8[8]/UI-\u6307\u5F15[0]/\u68C0\u67E5\u673A\u5668\u4EBA\u5F00\u5173\u548C\u78B0\u649E\u68C0\u6D4B\u5668[2]/\u78B0\u649E\u68C0\u6D4B[0]/Text,scene-substep: UI-指引二级业务节点
+9,ChangJing-8,10,按下开关,按下开关,SHIXUN[10]/ChangJing-8[8]/UI-\u6307\u5F15[0]/\u6309\u4E0B\u673A\u5668\u4EBA\u5F00\u673A\u952E[3]/\u6309\u4E0B\u5F00\u5173[0],,scene-substep: UI-指引二级业务节点；未在场景 uniqueID 中命中
+9,ChangJing-8,11,AGV配网,AGV配网,SHIXUN[10]/ChangJing-8[8]/UI-\u6307\u5F15[0]/AGV\u914D\u7F6E\u7F51\u7EDC[4]/AGV\u914D\u7F51[0],SHIXUN[10]/ChangJing-8[8]/UI-\u6307\u5F15[0]/AGV\u914D\u7F6E\u7F51\u7EDC[4]/AGV\u914D\u7F51[0],scene-substep: UI-指引二级业务节点
+9,ChangJing-8,12,向系统发送加入机器人,向系统发送加入机器人,SHIXUN[10]/ChangJing-8[8]/UI-\u6307\u5F15[0]/\u5411\u7CFB\u7EDF\u53D1\u9001\u52A0\u5165\u673A\u5668\u4EBA[5]/\u5411\u7CFB\u7EDF\u53D1\u9001\u52A0\u5165\u673A\u5668\u4EBA[0],SHIXUN[10]/ChangJing-8[8]/UI-\u6307\u5F15[0]/\u5411\u7CFB\u7EDF\u53D1\u9001\u52A0\u5165\u673A\u5668\u4EBA[5]/\u5411\u7CFB\u7EDF\u53D1\u9001\u52A0\u5165\u673A\u5668\u4EBA[0],scene-substep: UI-指引二级业务节点
+9,ChangJing-8,13,XuanZeTi,XuanZeTi,SHIXUN[10]/ChangJing-8[8]/Question-JQR[1]/XuanZeTi[0],SHIXUN[10]/ChangJing-8[8]/Question-JQR[1]/XuanZeTi[0]/Question[3]/B[2]/Backplate[0],scene-stage: 模块问答-选择题
+9,ChangJing-8,14,ChangJianWenTi,ChangJianWenTi,SHIXUN[10]/ChangJing-8[8]/Question-JQR[1]/ChangJianWenTi[1],SHIXUN[10]/ChangJing-8[8]/Question-JQR[1]/ChangJianWenTi[1]/Close[1]/Backplate[0],scene-stage: 模块问答-常见问题
+9,ChangJing-8,15,PushoutGQR,PushoutGQR,Assets/App/Modules/AgvCommissioning/Scripts/AgvWorkflow/TaskDingZi.cs,LoadSceneObj.Tesks.PushoutGQR,script-task: 拆钉完成后推进推出机器人流程
+9,ChangJing-8,16,Checkfunctionality,Checkfunctionality,Assets/App/Modules/AgvCommissioning/Scripts/AgvWorkflow/PengZhuangWanCheng.cs,LoadSceneObj.Tesks.Checkfunctionality,script-task: 碰撞检测完成后推进功能检查
+9,ChangJing-8,17,Pressswitch,Pressswitch,Assets/App/Modules/AgvCommissioning/Scripts/AgvWorkflow/OpenKaiGuan.cs,LoadSceneObj.Tesks.Pressswitch,script-task: 按下开机键后推进开机步骤
+9,ChangJing-8,18,AGVnetWork,AGVnetWork,Assets/App/Modules/AgvCommissioning/Scripts/TaskFlow/TaskAGVButton.cs,LoadSceneObj.Tesks.AGVnetWork,script-task: AGV 配网面板按钮推进网络接入流程
+10,changjing-4,1,入场提示,入场提示,SHIXUN[10]/changjing-4[9]/\u5165\u573A\u63D0\u793A[2],SHIXUN[10]/changjing-4[9]/\u5165\u573A\u63D0\u793A[2]/Action Button[1]/Backplate[0],scene-stage: 模块入场提示容器
+10,changjing-4,2,视频介绍,视频介绍,SHIXUN[10]/changjing-4[9]/\u89C6\u9891\u4ECB\u7ECD[7],SHIXUN[10]/changjing-4[9]/\u89C6\u9891\u4ECB\u7ECD[7]/\u4EFB\u52A1\u63D0\u793AUI[1]/UPan[1]/SeeItSayItLabel-Canvas[3],scene-stage: 顶层视频介绍容器
+10,changjing-4,3,XuanZeTi,XuanZeTi,SHIXUN[10]/changjing-4[9]/JYJ_Question-4[0]/XuanZeTi[0],SHIXUN[10]/changjing-4[9]/JYJ_Question-4[0]/XuanZeTi[0]/WenHao[2]/Frontplate[2]/AnimatedContent[0],scene-stage: 模块问答-选择题
+10,changjing-4,4,ChangJianWenTi,ChangJianWenTi,SHIXUN[10]/changjing-4[9]/JYJ_Question-4[0]/ChangJianWenTi[1],SHIXUN[10]/changjing-4[9]/JYJ_Question-4[0]/ChangJianWenTi[1]/Close[1]/Frontplate[2]/AnimatedContent[0],scene-stage: 模块问答-常见问题
+10,changjing-4,5,manipulationrobot,manipulationrobot,Assets/App/Modules/RackPlacement/Scripts/PlacementWorkflow/AttachToParent.cs,LoadSceneObj.Tesks.manipulationrobot,script-task: 货架吸附到机器人后推进搬运步骤
+10,changjing-4,6,Handlingrack,Handlingrack,Assets/App/Modules/RackPlacement/Scripts/PlacementWorkflow/AttachToParent.cs,LoadSceneObj.Tesks.Handlingrack,script-task: 机器人将货架放到目标位后推进入场步骤
+10,changjing-4,7,Completeentry,Completeentry,Assets/App/Modules/RackPlacement/Scripts/PlacementWorkflow/Panding.cs,LoadSceneObj.Tesks.Completeentry,script-task: 全部货架入场完成后推进结束步骤

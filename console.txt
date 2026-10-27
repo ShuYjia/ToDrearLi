@@ -1,0 +1,1130 @@
+Assets\GameMain\Scripts\FrameWorks\UI\UIManager.cs(6,14): error CS0101: The namespace '<global namespace>' already contains a definition for 'UIManager'
+
+Assets\GameMain\Scripts\Base\GameEntry.Builtin.cs(9,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Base\GameEntry.Custom.cs(2,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\BuiltinData\BuiltinDataComponent.cs(8,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\BuiltinData\BuiltinDataComponent.cs(10,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataAssetPath.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataAssetPath.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataBase.cs(1,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataBase.cs(2,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataBase.cs(3,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataPoolParam.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataPoolParam.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataPoolParam.cs(6,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataScene.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataScene.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataScene.cs(6,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataSetting.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataSetting.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataSound.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataSound.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataUI.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataUI.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\Entity\DataEntity.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\Entity\DataEntity.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\Item\DataItem.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\Item\DataItem.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\Level\DataLevel.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\Level\DataLevel.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\Level\DataLevel.cs(6,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\Level\DataLevel.cs(7,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\Level\DataLevel.cs(8,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\Level\EnumLevelState.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\Level\EnumLevelState.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\Level\EnumLevelState.cs(6,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\Level\Level.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\Level\LevelData.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\Level\LevelData.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\Level\LevelData.cs(6,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\Player\DataPlayer.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\Player\DataPlayer.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\Player\DataPlayer.cs(6,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DataTableExtension.cs(8,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DataTableExtension.cs(11,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DataTableExtension.cs(12,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRAssetsPath.cs(11,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRAssetsPath.cs(17,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DREntity.cs(11,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DREntity.cs(17,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DREntityGroup.cs(11,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DREntityGroup.cs(17,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRItem.cs(11,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRItem.cs(17,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRItemGroup.cs(11,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRItemGroup.cs(17,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRLevel.cs(11,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRLevel.cs(17,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRPoolParam.cs(11,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRPoolParam.cs(17,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRScene.cs(11,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRScene.cs(17,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRSound.cs(11,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRSound.cs(17,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRSoundGroup.cs(11,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRSoundGroup.cs(17,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRSoundPlayParam.cs(11,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRSoundPlayParam.cs(17,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRUIForm.cs(11,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRUIForm.cs(17,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRUIGroup.cs(11,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRUIGroup.cs(17,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\Entity.cs(8,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\Entity.cs(10,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityData.cs(3,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityData\EDsimpleUI.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityData\EDsimpleUI.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityData\EneityDataPlayer.cs(3,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityData\EntityDataFollower.cs(3,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityData\EntityDataRadiusVisualiser.cs(3,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityExtension.cs(4,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityLogic\EntityRadiusVisualizer.cs(4,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityLogic\EntitySimpleUI.cs(8,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityLogicEx.cs(4,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityLogicEx.cs(6,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityLogicEx.cs(7,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\ChangeSceneEventArgs.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\ChangeSceneEventArgs.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\GameoverEventArgs.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\GameoverEventArgs.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\HideEntityInLevelEventArgs.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\HideEntityInLevelEventArgs.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\LevelStateChangeEventArgs.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\LevelStateChangeEventArgs.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\LoadLevelEventArgs.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\LoadLevelEventArgs.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\LoadLevelFinishEventArgs.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\LoadLevelFinishEventArgs.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\MRShowEntityArgs.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\MRShowEntityArgs.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\MRShowEntityArgs.cs(8,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\ReloadLevelEventArgs.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\ReloadLevelEventArgs.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\ShowEntityInLevelEventArgs.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\ShowEntityInLevelEventArgs.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\ShowEntityInLevelEventArgs.cs(8,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\EntityLoader.cs(1,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\EntityLoader.cs(2,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\EntityLoader.cs(3,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\EventSubscriber.cs(1,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\EventSubscriber.cs(2,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\EventSubscriber.cs(3,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\ItemLoader.cs(1,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\ItemLoader.cs(2,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\ItemLoader.cs(3,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemExtension.cs(4,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLevelSelectionButton.cs(4,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLevelSelectionButton.cs(7,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLogicEx.cs(4,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLogicEx.cs(6,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLogicEx.cs(7,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\JYJ\task_kaigai.cs(1,7): error CS0246: The type or namespace name 'Org' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Level\LevelControl.cs(4,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Level\LevelControl.cs(6,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Localization\JsonLocallizationHelper.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Localization\JsonLocallizationHelper.cs(5,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Localization\JsonLocallizationHelper.cs(7,7): error CS0246: The type or namespace name 'LitJson' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\PQ\LoadPaste.cs(1,7): error CS0246: The type or namespace name 'Org' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureChangeScene.cs(9,24): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureChangeScene.cs(9,47): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureChangeScene.cs(3,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureChangeScene.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureChangeScene.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureChangeScene.cs(7,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureCheckResources.cs(4,24): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureCheckResources.cs(4,47): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureCheckResources.cs(1,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureCheckResources.cs(2,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureCheckResources.cs(3,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureCheckVersion.cs(14,24): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureCheckVersion.cs(14,47): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureCheckVersion.cs(8,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureCheckVersion.cs(9,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureCheckVersion.cs(10,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureCheckVersion.cs(11,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureCheckVersion.cs(13,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureInitResources.cs(7,24): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureInitResources.cs(7,47): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureInitResources.cs(3,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureInitResources.cs(5,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureInitResources.cs(6,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureLaunch.cs(7,24): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureLaunch.cs(7,47): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureLaunch.cs(3,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureLaunch.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureLaunch.cs(6,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureMain.cs(7,24): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureMain.cs(7,47): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureMain.cs(3,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureMain.cs(4,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureMain.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureMain.cs(11,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedurePreload.cs(12,24): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedurePreload.cs(12,47): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedurePreload.cs(14,39): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedurePreload.cs(13,39): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedurePreload.cs(3,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedurePreload.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedurePreload.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedurePreload.cs(6,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedurePreload.cs(7,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedurePreload.cs(8,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureSplash.cs(6,24): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureSplash.cs(6,47): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureSplash.cs(3,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureSplash.cs(4,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureSplash.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureUpdateResources.cs(7,24): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureUpdateResources.cs(7,47): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureUpdateResources.cs(1,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureUpdateResources.cs(2,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureUpdateResources.cs(3,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureUpdateResources.cs(6,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureUpdateVersion.cs(11,24): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureUpdateVersion.cs(11,47): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureUpdateVersion.cs(8,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureUpdateVersion.cs(9,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureUpdateVersion.cs(10,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Sound\SoundExtension.cs(8,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Sound\SoundExtension.cs(9,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Sound\SoundExtension.cs(10,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Sound\SoundExtension.cs(11,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UGuiForm.cs(12,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UGuiForm.cs(13,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UGuiForm.cs(15,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UGuiGroupHelper.cs(10,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIDownloadForm.cs(4,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIDownloadForm.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIDownloadForm.cs(7,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIExtension.cs(8,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIExtension.cs(9,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIExtension.cs(13,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIGameOverForm.cs(4,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIGameOverForm.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIGameOverForm.cs(8,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIGuiFormEx.cs(4,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIGuiFormEx.cs(6,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIGuiFormEx.cs(7,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UILevelMainInfoForm.cs(4,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UILevelMainInfoForm.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UILevelSelectForm.cs(5,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UILevelSelectForm.cs(7,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIMainMenuForm.cs(5,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIMask.cs(4,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIMask.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIOpenParam\DialogParams.cs(8,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIOpenParam\UIGameOverFormOpenParam.cs(4,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIOptionsForm.cs(5,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIOptionsForm.cs(6,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIPausePanelForm.cs(4,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIPausePanelForm.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UITowerListForm.cs(4,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UITowerListForm.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIUpdateResourceForm.cs(4,7): error CS0246: The type or namespace name 'UnityGameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIUpdateResourceForm.cs(5,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Utility\AssetUtility.cs(8,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Utility\LitJsonHelper.cs(8,7): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Utility\LitJsonHelper.cs(9,7): error CS0246: The type or namespace name 'LitJson' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\FrameWorks\UI\UIManager.cs(14,10): error CS0111: Type 'UIManager' already defines a member called 'Start' with the same parameter types
+
+Assets\GameMain\Scripts\TANK.cs(17,29): error CS0115: 'TANK.OnValidate()': no suitable method found to override
+
+Assets\GameMain\Scripts\TANK.cs(58,26): error CS0115: 'TANK.OnStopClient()': no suitable method found to override
+
+Assets\GameMain\Scripts\TANK.cs(64,26): error CS0115: 'TANK.OnStartLocalPlayer()': no suitable method found to override
+
+Assets\GameMain\Scripts\TANK.cs(70,26): error CS0115: 'TANK.OnStopLocalPlayer()': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DataTableExtension.cs(22,47): error CS0246: The type or namespace name 'DataTableComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRItem.cs(24,27): error CS0246: The type or namespace name 'DataRowBase' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRAssetsPath.cs(24,33): error CS0246: The type or namespace name 'DataRowBase' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRSound.cs(24,28): error CS0246: The type or namespace name 'DataRowBase' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRAssetsPath.cs(31,29): error CS0115: 'DRAssetsPath.Id': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRAssetsPath.cs(57,30): error CS0115: 'DRAssetsPath.ParseDataRow(string, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRAssetsPath.cs(76,30): error CS0115: 'DRAssetsPath.ParseDataRow(byte[], int, int, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRSound.cs(31,29): error CS0115: 'DRSound.Id': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRSound.cs(75,30): error CS0115: 'DRSound.ParseDataRow(string, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRSound.cs(96,30): error CS0115: 'DRSound.ParseDataRow(byte[], int, int, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRItem.cs(31,29): error CS0115: 'DRItem.Id': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRItem.cs(66,30): error CS0115: 'DRItem.ParseDataRow(string, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRItem.cs(86,30): error CS0115: 'DRItem.ParseDataRow(byte[], int, int, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRSoundGroup.cs(24,33): error CS0246: The type or namespace name 'DataRowBase' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRItemGroup.cs(24,32): error CS0246: The type or namespace name 'DataRowBase' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRSoundGroup.cs(31,29): error CS0115: 'DRSoundGroup.Id': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRSoundGroup.cs(84,30): error CS0115: 'DRSoundGroup.ParseDataRow(string, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRSoundGroup.cs(106,30): error CS0115: 'DRSoundGroup.ParseDataRow(byte[], int, int, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRItemGroup.cs(31,29): error CS0115: 'DRItemGroup.Id': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRItemGroup.cs(57,30): error CS0115: 'DRItemGroup.ParseDataRow(string, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRItemGroup.cs(76,30): error CS0115: 'DRItemGroup.ParseDataRow(byte[], int, int, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRSoundPlayParam.cs(24,37): error CS0246: The type or namespace name 'DataRowBase' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRLevel.cs(24,28): error CS0246: The type or namespace name 'DataRowBase' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRSoundPlayParam.cs(31,29): error CS0115: 'DRSoundPlayParam.Id': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRSoundPlayParam.cs(138,30): error CS0115: 'DRSoundPlayParam.ParseDataRow(string, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRSoundPlayParam.cs(166,30): error CS0115: 'DRSoundPlayParam.ParseDataRow(byte[], int, int, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRLevel.cs(31,29): error CS0115: 'DRLevel.Id': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRLevel.cs(120,30): error CS0115: 'DRLevel.ParseDataRow(string, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRLevel.cs(146,30): error CS0115: 'DRLevel.ParseDataRow(byte[], int, int, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRUIForm.cs(24,29): error CS0246: The type or namespace name 'DataRowBase' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\Entity.cs(14,49): error CS0246: The type or namespace name 'EntityLogic' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\LevelStateChangeEventArgs.cs(10,46): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\ChangeSceneEventArgs.cs(9,41): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\ChangeSceneEventArgs.cs(18,29): error CS0115: 'ChangeSceneEventArgs.Id': no suitable method found to override
+
+Assets\GameMain\Scripts\Event\ChangeSceneEventArgs.cs(46,30): error CS0115: 'ChangeSceneEventArgs.Clear()': no suitable method found to override
+
+Assets\GameMain\Scripts\Event\LevelStateChangeEventArgs.cs(39,29): error CS0115: 'LevelStateChangeEventArgs.Id': no suitable method found to override
+
+Assets\GameMain\Scripts\Event\LevelStateChangeEventArgs.cs(63,30): error CS0115: 'LevelStateChangeEventArgs.Clear()': no suitable method found to override
+
+Assets\GameMain\Scripts\Event\GameoverEventArgs.cs(9,38): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\LoadLevelEventArgs.cs(10,39): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\GameoverEventArgs.cs(19,29): error CS0115: 'GameoverEventArgs.Id': no suitable method found to override
+
+Assets\GameMain\Scripts\Event\GameoverEventArgs.cs(53,30): error CS0115: 'GameoverEventArgs.Clear()': no suitable method found to override
+
+Assets\GameMain\Scripts\Event\ShowEntityInLevelEventArgs.cs(12,40): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Localization\JsonLocallizationHelper.cs(14,44): error CS0246: The type or namespace name 'DefaultLocalizationHelper' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLogicEx.cs(11,41): error CS0246: The type or namespace name 'ItemLogic' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Localization\JsonLocallizationHelper.cs(22,40): error CS0246: The type or namespace name 'ILocalizationManager' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\ShowEntityInLevelEventArgs.cs(56,88): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\ShowEntityInLevelEventArgs.cs(48,29): error CS0115: 'ShowEntityEventArgs.Id': no suitable method found to override
+
+Assets\GameMain\Scripts\Event\ShowEntityInLevelEventArgs.cs(66,30): error CS0115: 'ShowEntityEventArgs.Clear()': no suitable method found to override
+
+Assets\GameMain\Scripts\Procedure\ProcedureChangeScene.cs(13,42): error CS0246: The type or namespace name 'ProcedureBase' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\ShowEntityInLevelEventArgs.cs(28,23): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureInitResources.cs(11,43): error CS0246: The type or namespace name 'ProcedureBase' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureSplash.cs(10,36): error CS0246: The type or namespace name 'ProcedureBase' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureLaunch.cs(11,36): error CS0246: The type or namespace name 'ProcedureBase' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureUpdateResources.cs(11,45): error CS0246: The type or namespace name 'ProcedureBase' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLevelSelectionButton.cs(91,17): error CS0246: The type or namespace name 'IResourceGroup' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureUpdateResources.cs(128,48): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureUpdateResources.cs(141,59): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Sound\SoundExtension.cs(21,43): error CS0246: The type or namespace name 'SoundComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureUpdateResources.cs(159,61): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Sound\SoundExtension.cs(32,43): error CS0246: The type or namespace name 'SoundComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureUpdateResources.cs(176,61): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Sound\SoundExtension.cs(40,43): error CS0246: The type or namespace name 'SoundComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureUpdateResources.cs(195,61): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Sound\SoundExtension.cs(51,43): error CS0246: The type or namespace name 'SoundComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Sound\SoundExtension.cs(51,95): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Sound\SoundExtension.cs(59,43): error CS0246: The type or namespace name 'SoundComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Sound\SoundExtension.cs(59,87): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Sound\SoundExtension.cs(79,41): error CS0246: The type or namespace name 'SoundComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Sound\SoundExtension.cs(97,38): error CS0246: The type or namespace name 'SoundComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UGuiForm.cs(19,38): error CS0246: The type or namespace name 'UIFormLogic' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Sound\SoundExtension.cs(118,44): error CS0246: The type or namespace name 'SoundComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Sound\SoundExtension.cs(136,43): error CS0246: The type or namespace name 'SoundComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UGuiForm.cs(83,33): error CS0115: 'UGuiForm.OnInit(object)': no suitable method found to override
+
+Assets\GameMain\Scripts\UI\UGuiForm.cs(116,33): error CS0115: 'UGuiForm.OnRecycle()': no suitable method found to override
+
+Assets\GameMain\Scripts\UI\UGuiForm.cs(125,33): error CS0115: 'UGuiForm.OnOpen(object)': no suitable method found to override
+
+Assets\GameMain\Scripts\UI\UGuiForm.cs(138,33): error CS0115: 'UGuiForm.OnClose(bool, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\UI\UGuiForm.cs(147,33): error CS0115: 'UGuiForm.OnPause()': no suitable method found to override
+
+Assets\GameMain\Scripts\UI\UGuiForm.cs(156,33): error CS0115: 'UGuiForm.OnResume()': no suitable method found to override
+
+Assets\GameMain\Scripts\UI\UGuiForm.cs(169,33): error CS0115: 'UGuiForm.OnCover()': no suitable method found to override
+
+Assets\GameMain\Scripts\UI\UGuiForm.cs(178,33): error CS0115: 'UGuiForm.OnReveal()': no suitable method found to override
+
+Assets\GameMain\Scripts\UI\UGuiForm.cs(187,33): error CS0115: 'UGuiForm.OnRefocus(object)': no suitable method found to override
+
+Assets\GameMain\Scripts\UI\UGuiForm.cs(196,33): error CS0115: 'UGuiForm.OnUpdate(float, float)': no suitable method found to override
+
+Assets\GameMain\Scripts\UI\UGuiForm.cs(205,33): error CS0115: 'UGuiForm.OnDepthChanged(int, int)': no suitable method found to override
+
+Assets\GameMain\Scripts\Entity\EntityData.cs(8,31): error CS0246: The type or namespace name 'IReference' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRUIForm.cs(31,29): error CS0115: 'DRUIForm.Id': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRUIForm.cs(84,30): error CS0115: 'DRUIForm.ParseDataRow(string, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRUIForm.cs(106,30): error CS0115: 'DRUIForm.ParseDataRow(byte[], int, int, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRUIGroup.cs(24,30): error CS0246: The type or namespace name 'DataRowBase' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\Entity.cs(85,44): error CS0246: The type or namespace name 'EntityLogic' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRPoolParam.cs(24,32): error CS0246: The type or namespace name 'DataRowBase' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRUIGroup.cs(31,29): error CS0115: 'DRUIGroup.Id': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRUIGroup.cs(57,30): error CS0115: 'DRUIGroup.ParseDataRow(string, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRUIGroup.cs(76,30): error CS0115: 'DRUIGroup.ParseDataRow(byte[], int, int, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\Entity\Entity.cs(94,44): error CS0246: The type or namespace name 'EntityLogic' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRPoolParam.cs(31,29): error CS0115: 'DRPoolParam.Id': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRPoolParam.cs(84,30): error CS0115: 'DRPoolParam.ParseDataRow(string, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRPoolParam.cs(106,30): error CS0115: 'DRPoolParam.ParseDataRow(byte[], int, int, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\Entity\Entity.cs(103,44): error CS0246: The type or namespace name 'EntityLogic' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\Entity.cs(112,46): error CS0246: The type or namespace name 'EntityLogic' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\Entity.cs(34,33): error CS0115: 'EntityLogicWithData.OnInit(object)': no suitable method found to override
+
+Assets\GameMain\Scripts\Entity\Entity.cs(44,33): error CS0115: 'EntityLogicWithData.OnRecycle()': no suitable method found to override
+
+Assets\GameMain\Scripts\Entity\Entity.cs(53,33): error CS0115: 'EntityLogicWithData.OnShow(object)': no suitable method found to override
+
+Assets\GameMain\Scripts\Entity\Entity.cs(74,33): error CS0115: 'EntityLogicWithData.OnHide(bool, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\Entity\Entity.cs(121,33): error CS0115: 'EntityLogicWithData.OnUpdate(float, float)': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRScene.cs(24,28): error CS0246: The type or namespace name 'DataRowBase' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DRScene.cs(31,29): error CS0115: 'DRScene.Id': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRScene.cs(57,30): error CS0115: 'DRScene.ParseDataRow(string, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DRScene.cs(76,30): error CS0115: 'DRScene.ParseDataRow(byte[], int, int, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\Event\MRShowEntityArgs.cs(14,37): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityLogic\EntitySimpleUI.cs(16,15): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityLogicEx.cs(42,55): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityLogicEx.cs(50,57): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\LoadLevelEventArgs.cs(19,29): error CS0115: 'LoadLevelEventArgs.Id': no suitable method found to override
+
+Assets\GameMain\Scripts\Event\LoadLevelEventArgs.cs(47,30): error CS0115: 'LoadLevelEventArgs.Clear()': no suitable method found to override
+
+Assets\GameMain\Scripts\Entity\EntityLogicEx.cs(62,58): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\ItemLoader.cs(9,31): error CS0246: The type or namespace name 'IReference' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityLogicEx.cs(72,51): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityLogicEx.cs(82,61): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\LoadLevelFinishEventArgs.cs(9,45): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\LoadLevelFinishEventArgs.cs(18,29): error CS0115: 'LoadLevelFinishEventArgs.Id': no suitable method found to override
+
+Assets\GameMain\Scripts\Event\LoadLevelFinishEventArgs.cs(46,30): error CS0115: 'LoadLevelFinishEventArgs.Clear()': no suitable method found to override
+
+Assets\GameMain\Scripts\Extension\ItemLoader.cs(30,55): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\HideEntityInLevelEventArgs.cs(10,47): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\ItemLoader.cs(35,48): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\ItemLoader.cs(43,58): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\HideEntityInLevelEventArgs.cs(25,29): error CS0115: 'HideEntityInLevelEventArgs.Id': no suitable method found to override
+
+Assets\GameMain\Scripts\Event\HideEntityInLevelEventArgs.cs(40,30): error CS0115: 'HideEntityInLevelEventArgs.Clear()': no suitable method found to override
+
+Assets\GameMain\Scripts\Extension\ItemLoader.cs(48,51): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureCheckResources.cs(8,44): error CS0246: The type or namespace name 'ProcedureBase' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\ItemLoader.cs(61,16): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLogicEx.cs(43,55): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\ItemLoader.cs(85,30): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityLogicEx.cs(92,54): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\ItemLoader.cs(111,55): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureCheckVersion.cs(18,42): error CS0246: The type or namespace name 'ProcedureBase' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\ItemLoader.cs(130,52): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\MRShowEntityArgs.cs(58,85): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\MRShowEntityArgs.cs(50,29): error CS0115: 'MRShowEntityArgs.Id': no suitable method found to override
+
+Assets\GameMain\Scripts\Event\MRShowEntityArgs.cs(68,30): error CS0115: 'MRShowEntityArgs.Clear()': no suitable method found to override
+
+Assets\GameMain\Scripts\Entity\EntityLogicEx.cs(113,19): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\MRShowEntityArgs.cs(30,23): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityLogicEx.cs(133,33): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\ReloadLevelEventArgs.cs(10,41): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityLogicEx.cs(153,86): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Event\ReloadLevelEventArgs.cs(19,29): error CS0115: 'ReloadLevelEventArgs.Id': no suitable method found to override
+
+Assets\GameMain\Scripts\Event\ReloadLevelEventArgs.cs(47,30): error CS0115: 'ReloadLevelEventArgs.Clear()': no suitable method found to override
+
+Assets\GameMain\Scripts\Entity\EntityLogicEx.cs(163,77): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityExtension.cs(16,47): error CS0246: The type or namespace name 'EntityComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityLogicEx.cs(173,67): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityLogicEx.cs(183,58): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityExtension.cs(21,44): error CS0246: The type or namespace name 'EntityComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityLogicEx.cs(201,19): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityExtension.cs(26,47): error CS0246: The type or namespace name 'EntityComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DREntity.cs(24,29): error CS0246: The type or namespace name 'DataRowBase' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIExtension.cs(50,43): error CS0246: The type or namespace name 'UIComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DREntity.cs(31,29): error CS0115: 'DREntity.Id': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DREntity.cs(66,30): error CS0115: 'DREntity.ParseDataRow(string, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DREntity.cs(86,30): error CS0115: 'DREntity.ParseDataRow(byte[], int, int, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DREntityGroup.cs(24,34): error CS0246: The type or namespace name 'DataRowBase' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\DataTable\DREntityGroup.cs(31,29): error CS0115: 'DREntityGroup.Id': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DREntityGroup.cs(57,30): error CS0115: 'DREntityGroup.ParseDataRow(string, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\DataTable\DREntityGroup.cs(76,30): error CS0115: 'DREntityGroup.ParseDataRow(byte[], int, int, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\UI\UIGuiFormEx.cs(36,55): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIGuiFormEx.cs(44,57): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIGuiFormEx.cs(56,55): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIGuiFormEx.cs(66,48): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIGuiFormEx.cs(76,58): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UGuiGroupHelper.cs(17,36): error CS0246: The type or namespace name 'UIGroupHelperBase' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UGuiGroupHelper.cs(28,30): error CS0115: 'UGuiGroupHelper.SetDepth(int)': no suitable method found to override
+
+Assets\GameMain\Scripts\UI\UIOpenParam\UIGameOverFormOpenParam.cs(9,44): error CS0246: The type or namespace name 'IReference' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureUpdateVersion.cs(15,43): error CS0246: The type or namespace name 'ProcedureBase' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLevelSelectionButton.cs(204,48): error CS0246: The type or namespace name 'IResourceGroup' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLevelSelectionButton.cs(27,33): error CS0115: 'ItemLevelSelectionButton.OnInit(object)': no suitable method found to override
+
+Assets\GameMain\Scripts\Item\ItemLevelSelectionButton.cs(32,33): error CS0115: 'ItemLevelSelectionButton.OnUpdate(float, float)': no suitable method found to override
+
+Assets\GameMain\Scripts\Procedure\ProcedureUpdateVersion.cs(18,17): error CS0246: The type or namespace name 'UpdateVersionListCallbacks' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureMain.cs(25,34): error CS0246: The type or namespace name 'ProcedureBase' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\BuiltinData\BuiltinDataComponent.cs(14,41): error CS0246: The type or namespace name 'GameFrameworkComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureMain.cs(67,50): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\EntityLoader.cs(9,33): error CS0246: The type or namespace name 'IReference' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\ItemLoader.cs(11,40): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLogicEx.cs(51,57): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\ItemLoader.cs(12,33): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLogicEx.cs(63,55): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLogicEx.cs(73,48): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\ItemLoader.cs(43,113): error CS0246: The type or namespace name 'ItemLogic' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureChangeScene.cs(99,56): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLogicEx.cs(83,58): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\ItemLoader.cs(48,106): error CS0246: The type or namespace name 'ItemLogic' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureChangeScene.cs(113,56): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLogicEx.cs(93,51): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLogicEx.cs(174,62): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureChangeScene.cs(124,55): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLogicEx.cs(184,53): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemExtension.cs(14,42): error CS0246: The type or namespace name 'ItemComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLogicEx.cs(114,16): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureChangeScene.cs(135,64): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemExtension.cs(19,45): error CS0246: The type or namespace name 'ItemComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLogicEx.cs(134,30): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemExtension.cs(24,42): error CS0246: The type or namespace name 'ItemComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLogicEx.cs(154,83): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemExtension.cs(29,42): error CS0246: The type or namespace name 'ItemComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLogicEx.cs(164,74): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLogicEx.cs(202,16): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemExtension.cs(34,45): error CS0246: The type or namespace name 'ItemComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLogicEx.cs(220,32): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLogicEx.cs(17,33): error CS0115: 'ItemLogicEx.OnHide(bool, object)': no suitable method found to override
+
+Assets\GameMain\Scripts\Item\ItemExtension.cs(39,42): error CS0246: The type or namespace name 'ItemComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemExtension.cs(52,49): error CS0246: The type or namespace name 'ItemComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLogicEx.cs(83,113): error CS0246: The type or namespace name 'ItemLogic' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureCheckVersion.cs(88,57): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureCheckVersion.cs(114,57): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLogicEx.cs(93,106): error CS0246: The type or namespace name 'ItemLogic' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityLogicEx.cs(219,35): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityLogicEx.cs(82,116): error CS0246: The type or namespace name 'ItemLogic' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIExtension.cs(55,43): error CS0246: The type or namespace name 'UIComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityExtension.cs(31,44): error CS0246: The type or namespace name 'EntityComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIExtension.cs(78,47): error CS0246: The type or namespace name 'UIComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIGuiFormEx.cs(86,51): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIExtension.cs(83,47): error CS0246: The type or namespace name 'UIComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIGuiFormEx.cs(107,16): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIExtension.cs(118,50): error CS0246: The type or namespace name 'UIComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIGuiFormEx.cs(127,30): error CS0246: The type or namespace name 'Item' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIExtension.cs(124,51): error CS0246: The type or namespace name 'UIComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIGuiFormEx.cs(147,83): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIOptionsForm.cs(100,56): error CS0246: The type or namespace name 'Language' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIOptionsForm.cs(32,17): error CS0246: The type or namespace name 'Language' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIOptionsForm.cs(33,17): error CS0246: The type or namespace name 'Language' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIOptionsForm.cs(15,20): error CS0246: The type or namespace name 'Language' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedureMain.cs(104,57): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Utility\LitJsonHelper.cs(17,36): error CS0246: The type or namespace name 'Utility' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIOpenParam\DialogParams.cs(65,16): error CS0246: The type or namespace name 'GameFrameworkAction<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIOpenParam\DialogParams.cs(83,16): error CS0246: The type or namespace name 'GameFrameworkAction<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIOpenParam\DialogParams.cs(101,16): error CS0246: The type or namespace name 'GameFrameworkAction<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIExtension.cs(135,45): error CS0246: The type or namespace name 'UIComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIExtension.cs(140,44): error CS0246: The type or namespace name 'UIComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIExtension.cs(145,44): error CS0246: The type or namespace name 'UIComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\EntityLoader.cs(30,83): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\EntityLoader.cs(35,74): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityLogicEx.cs(92,109): error CS0246: The type or namespace name 'ItemLogic' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\EntityLoader.cs(43,64): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\EntityLoader.cs(48,55): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\EntityLoader.cs(61,16): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\EntityLoader.cs(71,28): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\EntityLoader.cs(105,32): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\EntityLoader.cs(151,57): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\EntityLoader.cs(169,54): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\EntityLoader.cs(11,40): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\EntityLoader.cs(12,33): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedurePreload.cs(22,37): error CS0246: The type or namespace name 'ProcedureBase' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedurePreload.cs(181,57): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedurePreload.cs(193,57): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedurePreload.cs(204,61): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Procedure\ProcedurePreload.cs(216,61): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityExtension.cs(50,49): error CS0246: The type or namespace name 'EntityComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLogicEx.cs(174,119): error CS0246: The type or namespace name 'EntityLogic' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIGuiFormEx.cs(157,74): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIGuiFormEx.cs(167,64): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIGuiFormEx.cs(177,55): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIGuiFormEx.cs(195,16): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIGuiFormEx.cs(213,32): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIGuiFormEx.cs(76,113): error CS0246: The type or namespace name 'ItemLogic' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIGuiFormEx.cs(86,106): error CS0246: The type or namespace name 'ItemLogic' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Base\GameEntry.Builtin.cs(21,23): error CS0246: The type or namespace name 'BaseComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Base\GameEntry.Builtin.cs(30,23): error CS0246: The type or namespace name 'ConfigComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Base\GameEntry.Builtin.cs(39,23): error CS0246: The type or namespace name 'DataNodeComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Base\GameEntry.Builtin.cs(48,23): error CS0246: The type or namespace name 'DataTableComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Base\GameEntry.Builtin.cs(57,23): error CS0246: The type or namespace name 'DebuggerComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Base\GameEntry.Builtin.cs(66,23): error CS0246: The type or namespace name 'DownloadComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Base\GameEntry.Builtin.cs(75,23): error CS0246: The type or namespace name 'EntityComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Base\GameEntry.Builtin.cs(84,23): error CS0246: The type or namespace name 'EventComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Base\GameEntry.Builtin.cs(93,23): error CS0246: The type or namespace name 'FileSystemComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Base\GameEntry.Builtin.cs(102,23): error CS0246: The type or namespace name 'FsmComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Base\GameEntry.Builtin.cs(111,23): error CS0246: The type or namespace name 'LocalizationComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Base\GameEntry.Builtin.cs(120,23): error CS0246: The type or namespace name 'NetworkComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Base\GameEntry.Builtin.cs(129,23): error CS0246: The type or namespace name 'ObjectPoolComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Base\GameEntry.Builtin.cs(138,23): error CS0246: The type or namespace name 'ProcedureComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Base\GameEntry.Builtin.cs(147,23): error CS0246: The type or namespace name 'ResourceComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Base\GameEntry.Builtin.cs(156,23): error CS0246: The type or namespace name 'SceneComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Base\GameEntry.Builtin.cs(165,23): error CS0246: The type or namespace name 'SettingComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Base\GameEntry.Builtin.cs(174,23): error CS0246: The type or namespace name 'SoundComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Base\GameEntry.Builtin.cs(183,23): error CS0246: The type or namespace name 'UIComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Base\GameEntry.Builtin.cs(192,23): error CS0246: The type or namespace name 'WebRequestComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Base\GameEntry.Custom.cs(17,23): error CS0246: The type or namespace name 'ItemComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Base\GameEntry.Custom.cs(23,23): error CS0246: The type or namespace name 'DataComponent' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityLogicEx.cs(173,124): error CS0246: The type or namespace name 'EntityLogic' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\EntityLoader.cs(43,121): error CS0246: The type or namespace name 'EntityLogic' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Entity\EntityLogicEx.cs(183,115): error CS0246: The type or namespace name 'EntityLogic' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\EntityLoader.cs(48,112): error CS0246: The type or namespace name 'EntityLogic' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataBase.cs(9,38): error CS0246: The type or namespace name 'GameFramework' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\EventSubscriber.cs(9,36): error CS0246: The type or namespace name 'IReference' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\EventSubscriber.cs(25,52): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\EventSubscriber.cs(36,54): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataBase.cs(96,55): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataAssetPath.cs(31,16): error CS0246: The type or namespace name 'IDataTable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataBase.cs(104,57): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataPoolParam.cs(70,17): error CS0246: The type or namespace name 'IDataTable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataScene.cs(49,17): error CS0246: The type or namespace name 'IDataTable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataSound.cs(220,17): error CS0246: The type or namespace name 'IDataTable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataUI.cs(100,17): error CS0246: The type or namespace name 'IDataTable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataSound.cs(221,17): error CS0246: The type or namespace name 'IDataTable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataUI.cs(101,17): error CS0246: The type or namespace name 'IDataTable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataSound.cs(222,17): error CS0246: The type or namespace name 'IDataTable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\Entity\DataEntity.cs(12,17): error CS0246: The type or namespace name 'IDataTable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\Item\DataItem.cs(11,17): error CS0246: The type or namespace name 'IDataTable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\Entity\DataEntity.cs(13,17): error CS0246: The type or namespace name 'IDataTable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\Item\DataItem.cs(12,17): error CS0246: The type or namespace name 'IDataTable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Item\ItemLogicEx.cs(184,110): error CS0246: The type or namespace name 'EntityLogic' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIGuiFormEx.cs(167,121): error CS0246: The type or namespace name 'EntityLogic' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\EventSubscriber.cs(11,17): error CS0246: The type or namespace name 'GameFrameworkMultiDictionary<,>' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Extension\EventSubscriber.cs(11,64): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataBase.cs(131,57): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataBase.cs(143,57): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataAssetPath.cs(11,17): error CS0246: The type or namespace name 'IDataTable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UIGuiFormEx.cs(177,112): error CS0246: The type or namespace name 'EntityLogic' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataBase.cs(154,60): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataBase.cs(166,60): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataBase.cs(177,61): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataBase.cs(189,61): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\DataBase.cs(30,37): error CS0115: 'DataBase.Init()': no suitable method found to override
+
+Assets\GameMain\Scripts\Data\DataBase.cs(35,37): error CS0115: 'DataBase.Preload()': no suitable method found to override
+
+Assets\GameMain\Scripts\Data\DataBase.cs(47,37): error CS0115: 'DataBase.Load()': no suitable method found to override
+
+Assets\GameMain\Scripts\Data\DataBase.cs(59,37): error CS0115: 'DataBase.Unload()': no suitable method found to override
+
+Assets\GameMain\Scripts\Data\DataBase.cs(71,37): error CS0115: 'DataBase.Shutdown()': no suitable method found to override
+
+Assets\GameMain\Scripts\Data\Level\Level.cs(8,26): error CS0246: The type or namespace name 'IReference' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\UI\UILevelMainInfoForm.cs(78,56): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\Level\DataLevel.cs(327,56): error CS0246: The type or namespace name 'GameEventArgs' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Data\Level\DataLevel.cs(14,17): error CS0246: The type or namespace name 'IDataTable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Level\LevelControl.cs(10,34): error CS0246: The type or namespace name 'IReference' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Level\LevelControl.cs(61,70): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\Level\LevelControl.cs(23,17): error CS0246: The type or namespace name 'Entity' could not be found (are you missing a using directive or an assembly reference?)
+
+Assets\GameMain\Scripts\CustomTank.cs(29,29): error CS0115: 'CustomTank.OnValidate()': no suitable method found to override
+
+Assets\GameMain\Scripts\CustomTank.cs(93,26): error CS0115: 'CustomTank.OnStopClient()': no suitable method found to override
+
+Assets\GameMain\Scripts\CustomTank.cs(102,26): error CS0115: 'CustomTank.OnStartLocalPlayer()': no suitable method found to override
+
+Assets\GameMain\Scripts\CustomTank.cs(111,26): error CS0115: 'CustomTank.OnStopLocalPlayer()': no suitable method found to override
+

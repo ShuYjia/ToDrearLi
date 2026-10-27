@@ -1,0 +1,6 @@
+{
+  "name": "MRAdaptiveTraining.Runtime",
+  "rootNamespace": "MRAdaptiveTraining",
+  "references": [],
+  "autoReferenced": true
+}

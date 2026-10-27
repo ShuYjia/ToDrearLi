@@ -1,0 +1,3 @@
+display_name: BPF Legacy Migration
+short_description: Control legacy asset migration.
+default_prompt: Investigate or migrate BPF legacy assets by separating OldMRTK and LegacyMrtkSync provenance from current TexCore runtime, reusing only verified assets, and validating ownership boundaries.

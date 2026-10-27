@@ -1,0 +1,12 @@
+*.cs text diff=csharp
+.gitattributes text
+*.txt text
+*.md text
+*.asset eol=lf
+*.controller eol=lf
+*.prefab eol=lf
+*.meta eol=lf
+*.mat eol=lf
+*.anim eol=lf
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.unity filter=lfs diff=lfs merge=lfs -text

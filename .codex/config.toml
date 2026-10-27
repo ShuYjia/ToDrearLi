@@ -1,0 +1,3 @@
+# Unity MCP is configured through Air's project MCP files.
+# Do not duplicate those server names here: Air injects them through its
+# stdio proxy, and merging an HTTP `url` with that proxy prevents ACP startup.

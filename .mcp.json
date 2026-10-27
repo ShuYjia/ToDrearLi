@@ -1,0 +1,9 @@
+﻿{
+    "mcpServers":  {
+                       "unityMCP":  {
+                                        "type":  "http",
+                                        "url":  "http://127.0.0.1:8080/mcp",
+                                        "note":  "Project-locked Unity MCP endpoint for gitea_BPF. Keep this project on the active MCPForUnity HTTP server only."
+                                    }
+                   }
+}

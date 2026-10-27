@@ -1,0 +1,12 @@
+module_id,module_order,module_name,source_doc,score_status,mode_rule,knowledge_score,operation_score,completion_score,declared_total,calculated_total,score_unit,texcore_name,texcore_child_order,mapping_status,notes
+M01,1,服务器网络搭建,docs/文档/①服务器网络搭建.docx,defined,练习模式与考核模式获取积分一致,30,100,100,230,230,points,服务器网络搭建,0,pending_scene_binding,原文实操流程另有“服务器 VGA连接显示器”和“开启服务器”，但积分表未给分
+M02,2,服务器系统安装,docs/文档/②服务器系统安装模块.docx,defined,练习模式与考核模式获取金币一致,30,70,100,200,200,points,服务器系统安装,1,pending_scene_binding,
+M03,3,RMS软件系统安装,docs/文档/③RMS软件系统安装模块.docx,undefined,原文未定义积分规则,,,,,,,RMS软件系统安装,2,score_definition_required,原文没有积分表或显式积分规则
+M04,4,RMS系统导入地图,docs/文档/④RMS系统导入地图模块.docx,undefined,原文未定义积分规则,,,,,,,RMS系统导入地图,3,score_definition_required,原文没有积分表或显式积分规则
+M05,5,划线贴码,docs/文档/⑤划线贴码模块.docx,defined,练习模式与考核模式获取积分一致,30,100,100,230,230,points,划线贴码,4,pending_scene_binding,
+M06,6,货架安装,docs/文档/⑥货架安装模块.docx,defined,练习模式与考核模式获取积分一致,30,80,100,210,210,points,货架安装,5,pending_scene_binding,
+M07,7,播种墙安装,docs/文档/⑦播种墙安装模块.docx,defined,练习模式与考核模式获取积分一致,30,100,100,230,230,points,播种墙安装,6,pending_scene_binding,
+M08,8,充电桩安装,docs/文档/⑧充电桩安装模块.docx,defined,考核模式与练习模式同样,0,100,100,200,200,points,充电桩安装,7,pending_scene_binding,原文第0项是“粘贴二维码”30分，不是知识点答题
+M09,9,机器人入场,docs/文档/⑨机器人入场模块.docx,defined,考核模式与练习模式同样,30,70,100,200,200,points,机器人入场,8,pending_scene_binding,实现侧已按需求删除 M09-OP-05「机器人加入系统」（原文 10 分），实现口径为操作 60 / 模块 90 / 总计 190；本表数值仍为原文基线。
+M10,10,货架入场,docs/文档/⑩货架入场模块.docx,defined,练习模式与考核模式获取积分一致,30,10,10,50,50,points,货架入场,9,needs_confirmation,原文“完成整个模块”仅10分；本表按原文保留
+M11,11,流程测试,docs/文档/⑪流程测试模块.docx,defined,练习模式与考核模式获取积分一致,30,80,100,210,210,points,流程测试,10,pending_scene_binding,原文流程列出5个机器人任务，但积分表只列4个实操计分项
