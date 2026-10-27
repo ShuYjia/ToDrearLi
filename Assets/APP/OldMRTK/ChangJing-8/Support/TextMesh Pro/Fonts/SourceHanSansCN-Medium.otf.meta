@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1947628a42d58794885d8eb3570491f4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Source Han Sans CN
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1d1602d702cfacb43b1c4d5f70402abc, type: 3}
+  - {fileID: 12800000, guid: c5fe0925928dd1c4681592fdb707cc7e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

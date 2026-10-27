@@ -1,0 +1,23 @@
+{
+    "name": "NetWork03_2.ExportRuntime",
+    "rootNamespace": "NetWork03_2.ExportRuntime",
+    "references": [
+        "Unity.Netcode.Runtime",
+        "Unity.InputSystem",
+        "MixedReality.Toolkit.Core",
+        "MixedReality.Toolkit.Input",
+        "MixedReality.Toolkit.SpatialManipulation",
+        "MixedReality.Toolkit.UXCore",
+        "Unity.XR.Interaction.Toolkit",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

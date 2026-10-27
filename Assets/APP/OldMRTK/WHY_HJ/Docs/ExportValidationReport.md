@@ -1,0 +1,142 @@
+# WHY_HJ Export Validation Report
+
+## Cleared External Scene References
+## Root prefab external scene references cleared
+- `WHY_HJ` | `OnTaskComplate` | `pretask` -> `SHIXUN/WHY_FuWuQi-6`
+- `WHY_HJ` | `OnTaskComplate` | `nextTasknode` -> `SHIXUN/WHY_BZQ`
+- `WHY_HJ` | `PersonMove` | `personposition` -> `PlayerController`
+- `WHY_HJ/UI/介绍视频` | `GuidingArrowControl` | `GuidingArrowing` -> `MRTK XR Rig/Camera Offset/Main Camera/GuidingArrow`
+- `WHY_HJ/ZHIYIN (4)` | `StepTesk` | `GuidingArrow` -> `MRTK XR Rig/Camera Offset/Main Camera/GuidingArrow`
+
+## MultController external scene references cleared
+- `MultController` | `MultCheckInfo` | `shixun` -> `SHIXUN`
+- `MultController` | `MultCheckInfo` | `multiplayer` -> `DuoRenXieTong`
+
+
+## Copied Asset Map
+- `Assets/changjing-2/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/WHY_HJ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/changjing-4/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/WHY_HJ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/AGV.fbm/M_MuWen.jpg` -> `Assets/WHY_HJ/Textures/GameMain/Models/ZDP/AGV.fbm/M_MuWen.jpg`
+- `Assets/ChangJing-8/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/WHY_HJ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/GameMain/Animations/Animation/PQ/Introduction.renderTexture` -> `Assets/WHY_HJ/Textures/GameMain/Animations/Animation/PQ/Introduction.renderTexture`
+- `Assets/GameMain/Animations/Animation/WHY/HJ/NeiLiuJiaoBanShou.anim` -> `Assets/WHY_HJ/Support/GameMain/Animations/Animation/WHY/HJ/NeiLiuJiaoBanShou.anim`
+- `Assets/GameMain/Animations/Animator/WHY/HJ/NeiLiuJiaoBanShou.controller` -> `Assets/WHY_HJ/Support/GameMain/Animations/Animator/WHY/HJ/NeiLiuJiaoBanShou.controller`
+- `Assets/GameMain/Animations/LuoSi.anim` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi.anim`
+- `Assets/GameMain/Animations/LuoSi.controller` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi.controller`
+- `Assets/GameMain/Animations/LuoSi1.anim` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi1.anim`
+- `Assets/GameMain/Animations/LuoSi1.controller` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi1.controller`
+- `Assets/GameMain/Animations/LuoSi10.anim` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi10.anim`
+- `Assets/GameMain/Animations/LuoSi10.controller` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi10.controller`
+- `Assets/GameMain/Animations/LuoSi11.anim` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi11.anim`
+- `Assets/GameMain/Animations/LuoSi11.controller` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi11.controller`
+- `Assets/GameMain/Animations/LuoSi12.anim` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi12.anim`
+- `Assets/GameMain/Animations/LuoSi12.controller` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi12.controller`
+- `Assets/GameMain/Animations/LuoSi13.anim` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi13.anim`
+- `Assets/GameMain/Animations/LuoSi13.controller` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi13.controller`
+- `Assets/GameMain/Animations/LuoSi14.anim` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi14.anim`
+- `Assets/GameMain/Animations/LuoSi14.controller` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi14.controller`
+- `Assets/GameMain/Animations/LuoSi15.anim` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi15.anim`
+- `Assets/GameMain/Animations/LuoSi15.controller` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi15.controller`
+- `Assets/GameMain/Animations/LuoSi2.anim` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi2.anim`
+- `Assets/GameMain/Animations/LuoSi2.controller` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi2.controller`
+- `Assets/GameMain/Animations/LuoSi3.anim` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi3.anim`
+- `Assets/GameMain/Animations/LuoSi3.controller` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi3.controller`
+- `Assets/GameMain/Animations/LuoSi4.anim` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi4.anim`
+- `Assets/GameMain/Animations/LuoSi4.controller` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi4.controller`
+- `Assets/GameMain/Animations/LuoSi5.anim` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi5.anim`
+- `Assets/GameMain/Animations/LuoSi5.controller` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi5.controller`
+- `Assets/GameMain/Animations/LuoSi6.anim` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi6.anim`
+- `Assets/GameMain/Animations/LuoSi6.controller` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi6.controller`
+- `Assets/GameMain/Animations/LuoSi7.anim` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi7.anim`
+- `Assets/GameMain/Animations/LuoSi7.controller` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi7.controller`
+- `Assets/GameMain/Animations/LuoSi8.anim` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi8.anim`
+- `Assets/GameMain/Animations/LuoSi8.controller` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi8.controller`
+- `Assets/GameMain/Animations/LuoSi9.anim` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi9.anim`
+- `Assets/GameMain/Animations/LuoSi9.controller` -> `Assets/WHY_HJ/Support/GameMain/Animations/LuoSi9.controller`
+- `Assets/GameMain/Entity/Resources/Materials/CanvasFrontplate.mat` -> `Assets/WHY_HJ/Materials/GameMain/Entity/Resources/Materials/CanvasFrontplate.mat`
+- `Assets/GameMain/Entity/Resources/Materials/CanvasGlow.mat` -> `Assets/WHY_HJ/Materials/GameMain/Entity/Resources/Materials/CanvasGlow.mat`
+- `Assets/GameMain/Entity/橡胶锤-11.FBX` -> `Assets/WHY_HJ/Models/GameMain/Entity/橡胶锤-11.FBX`
+- `Assets/GameMain/Entity/箭头(1).FBX` -> `Assets/WHY_HJ/Models/GameMain/Entity/箭头(1).FBX`
+- `Assets/GameMain/Models/JYJ/Materials/M__NeiLiuJiao.mat` -> `Assets/WHY_HJ/Materials/GameMain/Models/JYJ/Materials/M__NeiLiuJiao.mat`
+- `Assets/GameMain/Models/JYJ/NeiLiuJiaoBanShou.fbx` -> `Assets/WHY_HJ/Models/GameMain/Models/JYJ/NeiLiuJiaoBanShou.fbx`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/HuoJia2.png` -> `Assets/WHY_HJ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/HuoJia2.png`
+- `Assets/GameMain/Models/WHY/HuoJia.fbx` -> `Assets/WHY_HJ/Models/GameMain/Models/WHY/HuoJia.fbx`
+- `Assets/GameMain/Models/WHY/Materials/blue.mat` -> `Assets/WHY_HJ/Materials/GameMain/Models/WHY/Materials/blue.mat`
+- `Assets/GameMain/Models/WHY/Materials/green.mat` -> `Assets/WHY_HJ/Materials/GameMain/Models/WHY/Materials/green.mat`
+- `Assets/GameMain/Models/ZDP/AGV.fbm/M_MuWen.jpg` -> `Assets/WHY_HJ/Textures/GameMain/Models/ZDP/AGV.fbm/M_MuWen.jpg`
+- `Assets/GameMain/Prefabs/Materials/Shower_Water_mtl 1.mat` -> `Assets/WHY_HJ/Materials/GameMain/Prefabs/Materials/Shower_Water_mtl 1.mat`
+- `Assets/GameMain/Res/Fonts/43华康圆体W9.TTF` -> `Assets/WHY_HJ/Support/GameMain/Res/Fonts/43华康圆体W9.TTF`
+- `Assets/GameMain/Res/Fonts/SourceHanSansCN-Bold.otf` -> `Assets/WHY_HJ/Support/GameMain/Res/Fonts/SourceHanSansCN-Bold.otf`
+- `Assets/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/WHY_HJ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/GameMain/Res/Fonts/SourceHanSansCN-Light.otf` -> `Assets/WHY_HJ/Support/GameMain/Res/Fonts/SourceHanSansCN-Light.otf`
+- `Assets/GameMain/Res/Fonts/SourceHanSansCN-Regular SDF.asset` -> `Assets/WHY_HJ/Support/GameMain/Res/Fonts/SourceHanSansCN-Regular SDF.asset`
+- `Assets/GameMain/Res/Fonts/SourceHanSansCN-Regular.otf` -> `Assets/WHY_HJ/Support/GameMain/Res/Fonts/SourceHanSansCN-Regular.otf`
+- `Assets/GameMain/Res/Models/JiaoShui/Model/JiaoShui.FBX` -> `Assets/WHY_HJ/Models/GameMain/Res/Models/JiaoShui/Model/JiaoShui.FBX`
+- `Assets/GameMain/Res/Models/JiaoShui/Textures/11766624.tif` -> `Assets/WHY_HJ/Textures/GameMain/Res/Models/JiaoShui/Textures/11766624.tif`
+- `Assets/GameMain/Res/Models/JiaoShui/Textures/M_LuoSiJiao.png` -> `Assets/WHY_HJ/Textures/GameMain/Res/Models/JiaoShui/Textures/M_LuoSiJiao.png`
+- `Assets/GameMain/Res/Scenes/Music/货架安装/6—1.MP3` -> `Assets/WHY_HJ/Support/GameMain/Res/Scenes/Music/货架安装/6—1.MP3`
+- `Assets/GameMain/Res/Scenes/Music/货架安装/6—10.MP3` -> `Assets/WHY_HJ/Support/GameMain/Res/Scenes/Music/货架安装/6—10.MP3`
+- `Assets/GameMain/Res/Scenes/Music/货架安装/6—11.MP3` -> `Assets/WHY_HJ/Support/GameMain/Res/Scenes/Music/货架安装/6—11.MP3`
+- `Assets/GameMain/Res/Scenes/Music/货架安装/6—12.MP3` -> `Assets/WHY_HJ/Support/GameMain/Res/Scenes/Music/货架安装/6—12.MP3`
+- `Assets/GameMain/Res/Scenes/Music/货架安装/6—13.MP3` -> `Assets/WHY_HJ/Support/GameMain/Res/Scenes/Music/货架安装/6—13.MP3`
+- `Assets/GameMain/Res/Scenes/Music/货架安装/6—14.MP3` -> `Assets/WHY_HJ/Support/GameMain/Res/Scenes/Music/货架安装/6—14.MP3`
+- `Assets/GameMain/Res/Scenes/Music/货架安装/6—2.MP3` -> `Assets/WHY_HJ/Support/GameMain/Res/Scenes/Music/货架安装/6—2.MP3`
+- `Assets/GameMain/Res/Scenes/Music/货架安装/6—3.MP3` -> `Assets/WHY_HJ/Support/GameMain/Res/Scenes/Music/货架安装/6—3.MP3`
+- `Assets/GameMain/Res/Scenes/Music/货架安装/6—4.MP3` -> `Assets/WHY_HJ/Support/GameMain/Res/Scenes/Music/货架安装/6—4.MP3`
+- `Assets/GameMain/Res/Scenes/Music/货架安装/6—5.MP3` -> `Assets/WHY_HJ/Support/GameMain/Res/Scenes/Music/货架安装/6—5.MP3`
+- `Assets/GameMain/Res/Scenes/Music/货架安装/6—6.MP3` -> `Assets/WHY_HJ/Support/GameMain/Res/Scenes/Music/货架安装/6—6.MP3`
+- `Assets/GameMain/Res/Scenes/Music/货架安装/6—7.MP3` -> `Assets/WHY_HJ/Support/GameMain/Res/Scenes/Music/货架安装/6—7.MP3`
+- `Assets/GameMain/Res/Scenes/Music/货架安装/6—8.MP3` -> `Assets/WHY_HJ/Support/GameMain/Res/Scenes/Music/货架安装/6—8.MP3`
+- `Assets/GameMain/Res/Scenes/Music/货架安装/6—9.MP3` -> `Assets/WHY_HJ/Support/GameMain/Res/Scenes/Music/货架安装/6—9.MP3`
+- `Assets/GameMain/Res/Scenes/Music/音效文件/UI弹出提示音.mp3` -> `Assets/WHY_HJ/Support/GameMain/Res/Scenes/Music/音效文件/UI弹出提示音.mp3`
+- `Assets/GameMain/Res/Scenes/UI_QieTu/物品标识/圆点.png` -> `Assets/WHY_HJ/Textures/GameMain/Res/Scenes/UI_QieTu/物品标识/圆点.png`
+- `Assets/GameMain/Res/Scenes/UI_QieTu/物品标识/指引线.png` -> `Assets/WHY_HJ/Textures/GameMain/Res/Scenes/UI_QieTu/物品标识/指引线.png`
+- `Assets/GameMain/Res/Scenes/UI_QieTu/物品标识/标识框.png` -> `Assets/WHY_HJ/Textures/GameMain/Res/Scenes/UI_QieTu/物品标识/标识框.png`
+- `Assets/GameMain/Res/Scenes/UI_QieTu/物品标识/确定按钮.png` -> `Assets/WHY_HJ/Textures/GameMain/Res/Scenes/UI_QieTu/物品标识/确定按钮.png`
+- `Assets/GameMain/Res/Scenes/UI_QieTu/物品标识/背景.png` -> `Assets/WHY_HJ/Textures/GameMain/Res/Scenes/UI_QieTu/物品标识/背景.png`
+- `Assets/GameMain/Res/Scenes/UI_镜像安装系统/Video/MR视频/货架安装介绍.mp4` -> `Assets/WHY_HJ/Support/GameMain/Res/Scenes/UI_镜像安装系统/Video/MR视频/货架安装介绍.mp4`
+- `Assets/GameMain/tietu/M__NeiLiuJiao.mat` -> `Assets/WHY_HJ/Materials/GameMain/tietu/M__NeiLiuJiao.mat`
+- `Assets/HuaXian/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/WHY_HJ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/LSL_RMS_Import/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/WHY_HJ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/LSL_RMS_Install/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/WHY_HJ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/NetWork-03_2/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/WHY_HJ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/NewUI/矩形 2 拷贝 3.png` -> `Assets/WHY_HJ/Textures/NewUI/矩形 2 拷贝 3.png`
+- `Assets/NewUI/确定按钮.png` -> `Assets/WHY_HJ/Textures/NewUI/确定按钮.png`
+- `Assets/NewUI/组 575.png` -> `Assets/WHY_HJ/Textures/NewUI/组 575.png`
+- `Assets/NewUI/背景.png` -> `Assets/WHY_HJ/Textures/NewUI/背景.png`
+- `Assets/RenWu_UI-6/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/WHY_HJ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/TextMesh Pro/Fonts/SourceHanSansCN-Heavy.otf` -> `Assets/WHY_HJ/Support/TextMesh Pro/Fonts/SourceHanSansCN-Heavy.otf`
+- `Assets/TextMesh Pro/Fonts/SourceHanSansCN-Medium.otf` -> `Assets/WHY_HJ/Support/TextMesh Pro/Fonts/SourceHanSansCN-Medium.otf`
+- `Assets/TextMesh Pro/Fonts/SourceHanSansCN-Normal.otf` -> `Assets/WHY_HJ/Support/TextMesh Pro/Fonts/SourceHanSansCN-Normal.otf`
+- `Assets/TextMesh Pro/Shaders/TMPro.cginc` -> `Assets/WHY_HJ/Support/TextMesh Pro/Shaders/TMPro.cginc`
+- `Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc` -> `Assets/WHY_HJ/Support/TextMesh Pro/Shaders/TMPro_Mobile.cginc`
+- `Assets/TextMesh Pro/Shaders/TMPro_Properties 1.cginc` -> `Assets/WHY_HJ/Support/TextMesh Pro/Shaders/TMPro_Properties 1.cginc`
+- `Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc` -> `Assets/WHY_HJ/Support/TextMesh Pro/Shaders/TMPro_Properties.cginc`
+- `Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc` -> `Assets/WHY_HJ/Support/TextMesh Pro/Shaders/TMPro_Surface.cginc`
+- `Assets/TextMesh Pro/Shaders/TMP_SDF.shader` -> `Assets/WHY_HJ/Support/TextMesh Pro/Shaders/TMP_SDF.shader`
+- `Assets/UI/PQ/DressingUI/BeiJing.png` -> `Assets/WHY_HJ/Textures/UI/PQ/DressingUI/BeiJing.png`
+- `Assets/UI/PQ/DressingUI/guanbi.png` -> `Assets/WHY_HJ/Textures/UI/PQ/DressingUI/guanbi.png`
+- `Assets/UI/PQ/DressingUI/logo-黑(已去底).png` -> `Assets/WHY_HJ/Textures/UI/PQ/DressingUI/logo-黑(已去底).png`
+- `Assets/UI/WHY/Spirit_问答界面/logo-黑(已去底).png` -> `Assets/WHY_HJ/Textures/UI/WHY/Spirit_问答界面/logo-黑(已去底).png`
+- `Assets/UI/WHY/Spirit_问答界面/×.png` -> `Assets/WHY_HJ/Textures/UI/WHY/Spirit_问答界面/×.png`
+- `Assets/UI/WHY/Spirit_问答界面/下一题.png` -> `Assets/WHY_HJ/Textures/UI/WHY/Spirit_问答界面/下一题.png`
+- `Assets/UI/WHY/Spirit_问答界面/关闭按钮 拷贝 5.png` -> `Assets/WHY_HJ/Textures/UI/WHY/Spirit_问答界面/关闭按钮 拷贝 5.png`
+- `Assets/UI/WHY/Spirit_问答界面/单选题.png` -> `Assets/WHY_HJ/Textures/UI/WHY/Spirit_问答界面/单选题.png`
+- `Assets/UI/WHY/Spirit_问答界面/图层 2.png` -> `Assets/WHY_HJ/Textures/UI/WHY/Spirit_问答界面/图层 2.png`
+- `Assets/UI/WHY/Spirit_问答界面/对勾.png` -> `Assets/WHY_HJ/Textures/UI/WHY/Spirit_问答界面/对勾.png`
+- `Assets/UI/WHY/Spirit_问答界面/疑问按钮.png` -> `Assets/WHY_HJ/Textures/UI/WHY/Spirit_问答界面/疑问按钮.png`
+- `Assets/UI/WHY/Spirit_问答界面/知识测验.png` -> `Assets/WHY_HJ/Textures/UI/WHY/Spirit_问答界面/知识测验.png`
+- `Assets/UI/WHY/Spirit_问答界面/矩形 1800 拷贝 10.png` -> `Assets/WHY_HJ/Textures/UI/WHY/Spirit_问答界面/矩形 1800 拷贝 10.png`
+- `Assets/UI/WHY/Spirit_问答界面/矩形 1800 拷贝 8.png` -> `Assets/WHY_HJ/Textures/UI/WHY/Spirit_问答界面/矩形 1800 拷贝 8.png`
+- `Assets/UI/WHY/Spirit_问答界面/矩形 1800 拷贝 9.png` -> `Assets/WHY_HJ/Textures/UI/WHY/Spirit_问答界面/矩形 1800 拷贝 9.png`
+- `Assets/UI/WHY/Spirit_问答界面/背景.png` -> `Assets/WHY_HJ/Textures/UI/WHY/Spirit_问答界面/背景.png`
+- `Assets/UI/WHY/Sprit_常见问题/关闭按钮 拷贝 5.png` -> `Assets/WHY_HJ/Textures/UI/WHY/Sprit_常见问题/关闭按钮 拷贝 5.png`
+- `Assets/UI/WHY/Sprit_常见问题/知识测验 拷贝.png` -> `Assets/WHY_HJ/Textures/UI/WHY/Sprit_常见问题/知识测验 拷贝.png`
+- `Assets/UI/WHY/Sprit_常见问题/知识测验.png` -> `Assets/WHY_HJ/Textures/UI/WHY/Sprit_常见问题/知识测验.png`
+- `Assets/UI/WHY/Sprit_常见问题/背景.png` -> `Assets/WHY_HJ/Textures/UI/WHY/Sprit_常见问题/背景.png`
+- `Assets/UI/WHY/Sprit_常见问题/问题.png` -> `Assets/WHY_HJ/Textures/UI/WHY/Sprit_常见问题/问题.png`
+- `Assets/WHY_BZQ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/WHY_HJ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/WHY_FuWuQi-6/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/WHY_HJ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+
+## Remaining External Asset Dependencies
+- None detected.

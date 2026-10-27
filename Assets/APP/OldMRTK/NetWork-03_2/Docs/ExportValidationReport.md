@@ -1,0 +1,307 @@
+# NetWork-03_2 Export Validation Report
+
+## Cleared External Scene References
+## Root prefab external scene references cleared
+- `NetWork-03_2` | `PersonMove` | `personposition` -> `PlayerController`
+- `NetWork-03_2/MR_ChangJing/JIGUI/AC_JiaoHuanJi/物体标签UI` | `UnityEngine.XR.Interaction.Toolkit.UI.LazyFollow` | `m_Target` -> `MRTK XR Rig/Camera Offset/Main Camera`
+- `NetWork-03_2/MR_ChangJing/JIGUI/FuWuQi_01/物体标签UIfwq` | `UnityEngine.XR.Interaction.Toolkit.UI.LazyFollow` | `m_Target` -> `MRTK XR Rig/Camera Offset/Main Camera`
+- `NetWork-03_2/MR_ChangJing/JIGUI/HeXin_JiaoHuanJi/物体标签Uhxjhj` | `UnityEngine.XR.Interaction.Toolkit.UI.LazyFollow` | `m_Target` -> `MRTK XR Rig/Camera Offset/Main Camera`
+- `NetWork-03_2/MR_ChangJing/JIGUI/LuYouQi_01/物体标签UIAP` | `UnityEngine.XR.Interaction.Toolkit.UI.LazyFollow` | `m_Target` -> `MRTK XR Rig/Camera Offset/Main Camera`
+- `NetWork-03_2/MR_ChangJing/JIGUI/XianShiqi_01/物体标签UIXSQ` | `UnityEngine.XR.Interaction.Toolkit.UI.LazyFollow` | `m_Target` -> `MRTK XR Rig/Camera Offset/Main Camera`
+- `NetWork-03_2/MR_ChangJing/JIGUI/FWQ_ChaTouSanChaKong/物体标签UIFWQCT` | `UnityEngine.XR.Interaction.Toolkit.UI.LazyFollow` | `m_Target` -> `MRTK XR Rig/Camera Offset/Main Camera`
+- `NetWork-03_2/MR_ChangJing/JIGUI/XianShiQi_VGAChaTou/物体标签UIXSQVAGCT ` | `UnityEngine.XR.Interaction.Toolkit.UI.LazyFollow` | `m_Target` -> `MRTK XR Rig/Camera Offset/Main Camera`
+- `NetWork-03_2/MR_ChangJing/JIGUI/Dicha_chatou/物体标签UIJG` | `UnityEngine.XR.Interaction.Toolkit.UI.LazyFollow` | `m_Target` -> `MRTK XR Rig/Camera Offset/Main Camera`
+- `NetWork-03_2/MR_ChangJing/JIGUI/JHJ_ChaTouSanChaKong/物体标签UIJHJDYCT` | `UnityEngine.XR.Interaction.Toolkit.UI.LazyFollow` | `m_Target` -> `MRTK XR Rig/Camera Offset/Main Camera`
+- `NetWork-03_2/MR_ChangJing/JIGUI/AC_ChaTouSanChaKong/物体标签UIACDYCT` | `UnityEngine.XR.Interaction.Toolkit.UI.LazyFollow` | `m_Target` -> `MRTK XR Rig/Camera Offset/Main Camera`
+- `NetWork-03_2/MR_ChangJing/JIGUI/FWQ_ChaTou/物体标签UIFWQCT` | `UnityEngine.XR.Interaction.Toolkit.UI.LazyFollow` | `m_Target` -> `MRTK XR Rig/Camera Offset/Main Camera`
+- `NetWork-03_2/MR_ChangJing/JIGUI/AC_ChaTou/物体标签UIACT` | `UnityEngine.XR.Interaction.Toolkit.UI.LazyFollow` | `m_Target` -> `MRTK XR Rig/Camera Offset/Main Camera`
+- `NetWork-03_2/MR_ChangJing/JIGUI/AP_ChaTou/物体标签UIAPCT` | `UnityEngine.XR.Interaction.Toolkit.UI.LazyFollow` | `m_Target` -> `MRTK XR Rig/Camera Offset/Main Camera`
+- `NetWork-03_2/MR_ChangJing/JIGUI/AP_ChaTou_Dicha/物体标签UIDCCT` | `UnityEngine.XR.Interaction.Toolkit.UI.LazyFollow` | `m_Target` -> `MRTK XR Rig/Camera Offset/Main Camera`
+- `NetWork-03_2/MR_ChangJing/JIGUI/Canvas (1)/VideoIntroduction` | `GuidingArrowControl` | `GuidingArrowing` -> `MRTK XR Rig/Camera Offset/Main Camera/GuidingArrow`
+- `NetWork-03_2/ZHIYIN` | `StepTesk` | `GuidingArrow` -> `MRTK XR Rig/Camera Offset/Main Camera/GuidingArrow`
+
+## MultController external scene references cleared
+- `MultController` | `MultCheckInfo` | `shixun` -> `SHIXUN`
+- `MultController` | `MultCheckInfo` | `multiplayer` -> `DuoRenXieTong`
+
+
+## Copied Asset Map
+- `Assets/changjing-2/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/NetWork-03_2/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/changjing-2/Support/TextMesh Pro/Fonts/LiberationSans.ttf` -> `Assets/NetWork-03_2/Support/TextMesh Pro/Fonts/LiberationSans.ttf`
+- `Assets/changjing-4/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/NetWork-03_2/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/ChangJing-8/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/NetWork-03_2/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/ChangJing-8/Support/TextMesh Pro/Fonts/LiberationSans.ttf` -> `Assets/NetWork-03_2/Support/TextMesh Pro/Fonts/LiberationSans.ttf`
+- `Assets/ChangJing-8/Textures/GameMain/tietu/BJB_normals.jpg` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/BJB_normals.jpg`
+- `Assets/GameMain/Animations/Animation/PQ/FWQkaiguan.anim` -> `Assets/NetWork-03_2/Support/GameMain/Animations/Animation/PQ/FWQkaiguan.anim`
+- `Assets/GameMain/Animations/Animation/PQ/Introduction.renderTexture` -> `Assets/NetWork-03_2/Textures/GameMain/Animations/Animation/PQ/Introduction.renderTexture`
+- `Assets/GameMain/Animations/Animation/PQ/KaiMen.anim` -> `Assets/NetWork-03_2/Support/GameMain/Animations/Animation/PQ/KaiMen.anim`
+- `Assets/GameMain/Animations/Animator/PQ/FuWuQi_01.controller` -> `Assets/NetWork-03_2/Support/GameMain/Animations/Animator/PQ/FuWuQi_01.controller`
+- `Assets/GameMain/Animations/Animator/PQ/JiGui.controller` -> `Assets/NetWork-03_2/Support/GameMain/Animations/Animator/PQ/JiGui.controller`
+- `Assets/GameMain/Entity/Resources/Materials/-4-5.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Entity/Resources/Materials/-4-5.mat`
+- `Assets/GameMain/Entity/Resources/Materials/black.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Entity/Resources/Materials/black.mat`
+- `Assets/GameMain/Entity/Resources/Materials/CanvasFrontplate.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Entity/Resources/Materials/CanvasFrontplate.mat`
+- `Assets/GameMain/Entity/Resources/Materials/CanvasGlow.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Entity/Resources/Materials/CanvasGlow.mat`
+- `Assets/GameMain/Entity/箭头(1).FBX` -> `Assets/NetWork-03_2/Models/GameMain/Entity/箭头(1).FBX`
+- `Assets/GameMain/Models/PQ/BiJiBen-ChuanKouXian.fbx` -> `Assets/NetWork-03_2/Models/GameMain/Models/PQ/BiJiBen-ChuanKouXian.fbx`
+- `Assets/GameMain/Models/PQ/JiGui.fbx` -> `Assets/NetWork-03_2/Models/GameMain/Models/PQ/JiGui.fbx`
+- `Assets/GameMain/Models/PQ/Materials/3d66Model-485864-1-36.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/3d66Model-485864-1-36.mat`
+- `Assets/GameMain/Models/PQ/Materials/BaiXian.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/BaiXian.mat`
+- `Assets/GameMain/Models/PQ/Materials/BJB_diffuse.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/BJB_diffuse.mat`
+- `Assets/GameMain/Models/PQ/Materials/ChuanKouXian_Albedo.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/ChuanKouXian_Albedo.mat`
+- `Assets/GameMain/Models/PQ/Materials/HuoJia2.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/HuoJia2.mat`
+- `Assets/GameMain/Models/PQ/Materials/JiGui_Ban.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/JiGui_Ban.mat`
+- `Assets/GameMain/Models/PQ/Materials/LanXian.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/LanXian.mat`
+- `Assets/GameMain/Models/PQ/Materials/logo.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/logo.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_AC.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_AC.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_AGV2.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_AGV2.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_AGV5.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_AGV5.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_AGV7.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_AGV7.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_AGV8.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_AGV8.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_AGV9.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_AGV9.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_baq_1.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_baq_1.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_baq_2.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_baq_2.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_baq_4.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_baq_4.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_BianKuang.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_BianKuang.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_CDZ1_Albedo.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_CDZ1_Albedo.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_ChaPai.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_ChaPai.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_ChaTou.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_ChaTou.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_ChaTou4.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_ChaTou4.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_ChaTou5.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_ChaTou5.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_ChaTou6.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_ChaTou6.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_ChaTou7.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_ChaTou7.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_ChaTou8.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_ChaTou8.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_DiBiao1.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_DiBiao1.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_DiBiao2.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_DiBiao2.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_DiCao.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_DiCao.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_DiCha5.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_DiCha5.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_DiCha6.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_DiCha6.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_DiCha7.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_DiCha7.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_DiCha8.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_DiCha8.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_DiMian.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_DiMian.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_Dong.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_Dong.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_DuanZi.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_DuanZi.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_ErWeiMa.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_ErWeiMa.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_FuWuQi.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_FuWuQi.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_FuWuQi2.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_FuWuQi2.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_FuWuQi4.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_FuWuQi4.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_HeiXian.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_HeiXian.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_HuangXian.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_HuangXian.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_HuoJia.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_HuoJia.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_HuoJia1.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_HuoJia1.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_HuoJia2.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_HuoJia2.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_HuoJia3.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_HuoJia3.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_JianPan.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_JianPan.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_JiaoHuanJi.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_JiaoHuanJi.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_JiaoHuanJi1.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_JiaoHuanJi1.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_JiaoHuanJi2.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_JiaoHuanJi2.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_JiaoHuanJi3.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_JiaoHuanJi3.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_JinShu.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_JinShu.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_JiXiang.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_JiXiang.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_KaiGuan.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_KaiGuan.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_KaiGuan1.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_KaiGuan1.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_Kong1.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_Kong1.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_KongZhiQi.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_KongZhiQi.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_Lan.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_Lan.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_LiZhu.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_LiZhu.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_LunZi.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_LunZi.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_LuoSi.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_LuoSi.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_LuoSi1.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_LuoSi1.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_LuoSi2.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_LuoSi2.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_LuoSi4.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_LuoSi4.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_LuoSi5.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_LuoSi5.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_LuoSi6.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_LuoSi6.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_LuYouQi.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_LuYouQi.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_LuYouQi1.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_LuYouQi1.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_LuYouQi10.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_LuYouQi10.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_LuYouQi12.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_LuYouQi12.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_LuYouQi13.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_LuYouQi13.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_LuYouQi14.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_LuYouQi14.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_LuYouQi15.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_LuYouQi15.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_LuYouQi16.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_LuYouQi16.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_LuYouQi17.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_LuYouQi17.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_LuYouQi19.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_LuYouQi19.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_LuYouQi2.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_LuYouQi2.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_LuYouQi20.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_LuYouQi20.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_LuYouQi21.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_LuYouQi21.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_LuYouQi22.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_LuYouQi22.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_LuYouQi3.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_LuYouQi3.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_LuYouQi4.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_LuYouQi4.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_LuYouQi9.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_LuYouQi9.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_PingMu.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_PingMu.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_SaoMa.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_SaoMa.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_SaoMaQiang_1.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_SaoMaQiang_1.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_ShuBiao.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_ShuBiao.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_ShuiJingTou.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_ShuiJingTou.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_ShuiJingTou1.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_ShuiJingTou1.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_ShuiJingTou10.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_ShuiJingTou10.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_ShuiJingTou11.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_ShuiJingTou11.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_ShuiJingTou2.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_ShuiJingTou2.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_ShuiJingTou3.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_ShuiJingTou3.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_ShuiJingTou4.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_ShuiJingTou4.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_ShuiJingTou5.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_ShuiJingTou5.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_ShuiJingTou6.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_ShuiJingTou6.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_ShuiJingTou7.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_ShuiJingTou7.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_ShuiJingTou8.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_ShuiJingTou8.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_ShuiJingTou9.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_ShuiJingTou9.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_TongXian.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_TongXian.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_USB.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_USB.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_USB2.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_USB2.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_WangXianKou.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_WangXianKou.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_XianShiQi2.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_XianShiQi2.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_YiHaoJiGui_WaiKe-Albedo.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_YiHaoJiGui_WaiKe-Albedo.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_ZhiJia.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_ZhiJia.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_ZhuJi.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_ZhuJi.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_ZhuoMian.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_ZhuoMian.mat`
+- `Assets/GameMain/Models/PQ/Materials/M_ZhuoTui.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/M_ZhuoTui.mat`
+- `Assets/GameMain/Models/PQ/Materials/txm.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/txm.mat`
+- `Assets/GameMain/Models/PQ/Materials/T_YiHaoJiGui_WaiKe_D.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/T_YiHaoJiGui_WaiKe_D.mat`
+- `Assets/GameMain/Models/PQ/Materials/YuanDian.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/YuanDian.mat`
+- `Assets/GameMain/Models/PQ/Materials/ZhiXiang.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Models/PQ/Materials/ZhiXiang.mat`
+- `Assets/GameMain/Models/PQ/MR_ChangJing.fbx` -> `Assets/NetWork-03_2/Models/GameMain/Models/PQ/MR_ChangJing.fbx`
+- `Assets/GameMain/Res/Fonts/43华康圆体W9.TTF` -> `Assets/NetWork-03_2/Support/GameMain/Res/Fonts/43华康圆体W9.TTF`
+- `Assets/GameMain/Res/Fonts/SourceHanSansCN-Bold.otf` -> `Assets/NetWork-03_2/Support/GameMain/Res/Fonts/SourceHanSansCN-Bold.otf`
+- `Assets/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/NetWork-03_2/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/GameMain/Res/Fonts/SourceHanSansCN-Light.otf` -> `Assets/NetWork-03_2/Support/GameMain/Res/Fonts/SourceHanSansCN-Light.otf`
+- `Assets/GameMain/Res/Fonts/SourceHanSansCN-Regular SDF.asset` -> `Assets/NetWork-03_2/Support/GameMain/Res/Fonts/SourceHanSansCN-Regular SDF.asset`
+- `Assets/GameMain/Res/Fonts/SourceHanSansCN-Regular.otf` -> `Assets/NetWork-03_2/Support/GameMain/Res/Fonts/SourceHanSansCN-Regular.otf`
+- `Assets/GameMain/Res/Models/JiGui 1.fbm/M_ChaPai.png` -> `Assets/NetWork-03_2/Textures/GameMain/Res/Models/JiGui 1.fbm/M_ChaPai.png`
+- `Assets/GameMain/Res/Models/JiGui 1.fbm/M_DiCha3.png` -> `Assets/NetWork-03_2/Textures/GameMain/Res/Models/JiGui 1.fbm/M_DiCha3.png`
+- `Assets/GameMain/Res/Models/JiGui 1.fbm/M_DiCha4.png` -> `Assets/NetWork-03_2/Textures/GameMain/Res/Models/JiGui 1.fbm/M_DiCha4.png`
+- `Assets/GameMain/Res/Models/JiGui 1.fbm/M_FuWuQi.png` -> `Assets/NetWork-03_2/Textures/GameMain/Res/Models/JiGui 1.fbm/M_FuWuQi.png`
+- `Assets/GameMain/Res/Models/JiGui 1.fbm/T_YiHaoJiGui_WaiKe_D.png` -> `Assets/NetWork-03_2/Textures/GameMain/Res/Models/JiGui 1.fbm/T_YiHaoJiGui_WaiKe_D.png`
+- `Assets/GameMain/Res/Models/JiGui 1.fbx` -> `Assets/NetWork-03_2/Models/GameMain/Res/Models/JiGui 1.fbx`
+- `Assets/GameMain/Res/Models/JiGui/Materials/Jigui_01.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Res/Models/JiGui/Materials/Jigui_01.mat`
+- `Assets/GameMain/Res/Models/JiGui/Materials/M_FuWuQi1_2.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Res/Models/JiGui/Materials/M_FuWuQi1_2.mat`
+- `Assets/GameMain/Res/Models/JiGui/Materials/M_LuYouQi12.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Res/Models/JiGui/Materials/M_LuYouQi12.mat`
+- `Assets/GameMain/Res/Models/JiGui/Materials/Shebei_01.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Res/Models/JiGui/Materials/Shebei_01.mat`
+- `Assets/GameMain/Res/Models/JiGui/Materials/SheBei_02.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Res/Models/JiGui/Materials/SheBei_02.mat`
+- `Assets/GameMain/Res/Models/JiGui/Model/JIGUI.FBX` -> `Assets/NetWork-03_2/Models/GameMain/Res/Models/JiGui/Model/JIGUI.FBX`
+- `Assets/GameMain/Res/Models/JiGui/Model/Materials/JIGUI-Jigui_01.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Res/Models/JiGui/Model/Materials/JIGUI-Jigui_01.mat`
+- `Assets/GameMain/Res/Models/JiGui/Model/Materials/JIGUI-Shebei_01.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Res/Models/JiGui/Model/Materials/JIGUI-Shebei_01.mat`
+- `Assets/GameMain/Res/Models/JiGui/Model/Materials/JIGUI-SheBei_02.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Res/Models/JiGui/Model/Materials/JIGUI-SheBei_02.mat`
+- `Assets/GameMain/Res/Models/JiGui/Model/Materials/SheBei_02_Albedo.mat` -> `Assets/NetWork-03_2/Materials/GameMain/Res/Models/JiGui/Model/Materials/SheBei_02_Albedo.mat`
+- `Assets/GameMain/Res/Models/JiGui/Textures/Jigui_01_Albedo.png` -> `Assets/NetWork-03_2/Textures/GameMain/Res/Models/JiGui/Textures/Jigui_01_Albedo.png`
+- `Assets/GameMain/Res/Models/JiGui/Textures/Jigui_01_AO.png` -> `Assets/NetWork-03_2/Textures/GameMain/Res/Models/JiGui/Textures/Jigui_01_AO.png`
+- `Assets/GameMain/Res/Models/JiGui/Textures/Jigui_01_Metallic.png` -> `Assets/NetWork-03_2/Textures/GameMain/Res/Models/JiGui/Textures/Jigui_01_Metallic.png`
+- `Assets/GameMain/Res/Models/JiGui/Textures/Jigui_01_Normal.png` -> `Assets/NetWork-03_2/Textures/GameMain/Res/Models/JiGui/Textures/Jigui_01_Normal.png`
+- `Assets/GameMain/Res/Models/JiGui/Textures/Shebei_01_Albedo.png` -> `Assets/NetWork-03_2/Textures/GameMain/Res/Models/JiGui/Textures/Shebei_01_Albedo.png`
+- `Assets/GameMain/Res/Models/JiGui/Textures/Shebei_01_AO.png` -> `Assets/NetWork-03_2/Textures/GameMain/Res/Models/JiGui/Textures/Shebei_01_AO.png`
+- `Assets/GameMain/Res/Models/JiGui/Textures/Shebei_01_Metallic.png` -> `Assets/NetWork-03_2/Textures/GameMain/Res/Models/JiGui/Textures/Shebei_01_Metallic.png`
+- `Assets/GameMain/Res/Models/JiGui/Textures/Shebei_01_Normal.png` -> `Assets/NetWork-03_2/Textures/GameMain/Res/Models/JiGui/Textures/Shebei_01_Normal.png`
+- `Assets/GameMain/Res/Models/JiGui/Textures/SheBei_02_Albedo.png` -> `Assets/NetWork-03_2/Textures/GameMain/Res/Models/JiGui/Textures/SheBei_02_Albedo.png`
+- `Assets/GameMain/Res/Models/JiGui/Textures/SheBei_02_AO.png` -> `Assets/NetWork-03_2/Textures/GameMain/Res/Models/JiGui/Textures/SheBei_02_AO.png`
+- `Assets/GameMain/Res/Models/JiGui/Textures/SheBei_02_Metallic.png` -> `Assets/NetWork-03_2/Textures/GameMain/Res/Models/JiGui/Textures/SheBei_02_Metallic.png`
+- `Assets/GameMain/Res/Models/JiGui/Textures/SheBei_02_Normal.png` -> `Assets/NetWork-03_2/Textures/GameMain/Res/Models/JiGui/Textures/SheBei_02_Normal.png`
+- `Assets/GameMain/Res/Models/JiGui/Textures/Shebei_1_01_Albedo.jpg` -> `Assets/NetWork-03_2/Textures/GameMain/Res/Models/JiGui/Textures/Shebei_1_01_Albedo.jpg`
+- `Assets/GameMain/Res/Models/JiGui/Textures/SheBei_1_02_Albedo.jpg` -> `Assets/NetWork-03_2/Textures/GameMain/Res/Models/JiGui/Textures/SheBei_1_02_Albedo.jpg`
+- `Assets/GameMain/Res/Scenes/Music/服务器网络搭建/1—1.MP3` -> `Assets/NetWork-03_2/Support/GameMain/Res/Scenes/Music/服务器网络搭建/1—1.MP3`
+- `Assets/GameMain/Res/Scenes/Music/服务器网络搭建/1—2.MP3` -> `Assets/NetWork-03_2/Support/GameMain/Res/Scenes/Music/服务器网络搭建/1—2.MP3`
+- `Assets/GameMain/Res/Scenes/Music/服务器网络搭建/1—3.MP3` -> `Assets/NetWork-03_2/Support/GameMain/Res/Scenes/Music/服务器网络搭建/1—3.MP3`
+- `Assets/GameMain/Res/Scenes/Music/服务器网络搭建/1—4.MP3` -> `Assets/NetWork-03_2/Support/GameMain/Res/Scenes/Music/服务器网络搭建/1—4.MP3`
+- `Assets/GameMain/Res/Scenes/Music/服务器网络搭建/1—5.MP3` -> `Assets/NetWork-03_2/Support/GameMain/Res/Scenes/Music/服务器网络搭建/1—5.MP3`
+- `Assets/GameMain/Res/Scenes/Music/服务器网络搭建/1—6.MP3` -> `Assets/NetWork-03_2/Support/GameMain/Res/Scenes/Music/服务器网络搭建/1—6.MP3`
+- `Assets/GameMain/Res/Scenes/Music/服务器网络搭建/1—7.MP3` -> `Assets/NetWork-03_2/Support/GameMain/Res/Scenes/Music/服务器网络搭建/1—7.MP3`
+- `Assets/GameMain/Res/Scenes/Music/服务器网络搭建/1—8.MP3` -> `Assets/NetWork-03_2/Support/GameMain/Res/Scenes/Music/服务器网络搭建/1—8.MP3`
+- `Assets/GameMain/Res/Scenes/Music/音效文件/UI弹出提示音.mp3` -> `Assets/NetWork-03_2/Support/GameMain/Res/Scenes/Music/音效文件/UI弹出提示音.mp3`
+- `Assets/GameMain/Res/Scenes/Music/音效文件/服务器机房嗡嗡声.mp3` -> `Assets/NetWork-03_2/Support/GameMain/Res/Scenes/Music/音效文件/服务器机房嗡嗡声.mp3`
+- `Assets/GameMain/Res/Scenes/UI_QieTu/09是否退出_slices/组 575.png` -> `Assets/NetWork-03_2/Textures/GameMain/Res/Scenes/UI_QieTu/09是否退出_slices/组 575.png`
+- `Assets/GameMain/Res/Scenes/UI_QieTu/物品标识/确定按钮.png` -> `Assets/NetWork-03_2/Textures/GameMain/Res/Scenes/UI_QieTu/物品标识/确定按钮.png`
+- `Assets/GameMain/Res/Scenes/UI_QieTu/物品标识/背景.png` -> `Assets/NetWork-03_2/Textures/GameMain/Res/Scenes/UI_QieTu/物品标识/背景.png`
+- `Assets/GameMain/Res/Scenes/UI_镜像安装系统/Video/1.mp4` -> `Assets/NetWork-03_2/Support/GameMain/Res/Scenes/UI_镜像安装系统/Video/1.mp4`
+- `Assets/GameMain/Res/Scenes/UI_镜像安装系统/Video/网络搭建介绍视频.mp4` -> `Assets/NetWork-03_2/Support/GameMain/Res/Scenes/UI_镜像安装系统/Video/网络搭建介绍视频.mp4`
+- `Assets/GameMain/tietu/-4-5.jpg` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/-4-5.jpg`
+- `Assets/GameMain/tietu/BJB_diffuse - Copy - Copy.jpg` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/BJB_diffuse - Copy - Copy.jpg`
+- `Assets/GameMain/tietu/BJB_normals.jpg` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/BJB_normals.jpg`
+- `Assets/GameMain/tietu/ChuanKouXian_Albedo - Copy - Copy.png` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/ChuanKouXian_Albedo - Copy - Copy.png`
+- `Assets/GameMain/tietu/ChuanKouXian_Normal - Copy - Copy.png` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/ChuanKouXian_Normal - Copy - Copy.png`
+- `Assets/GameMain/tietu/HuoJia2 - Copy - Copy.png` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/HuoJia2 - Copy - Copy.png`
+- `Assets/GameMain/tietu/logo - Copy - Copy.png` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/logo - Copy - Copy.png`
+- `Assets/GameMain/tietu/M_AC.jpg` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/M_AC.jpg`
+- `Assets/GameMain/tietu/M_baq_2 - Copy - Copy.jpg` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/M_baq_2 - Copy - Copy.jpg`
+- `Assets/GameMain/tietu/M_CDZ1_Albedo - Copy - Copy - Copy.png` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/M_CDZ1_Albedo - Copy - Copy - Copy.png`
+- `Assets/GameMain/tietu/M_ChaPai - Copy - Copy - Copy.png` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/M_ChaPai - Copy - Copy - Copy.png`
+- `Assets/GameMain/tietu/M_DiBiao1 - Copy - Copy.png` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/M_DiBiao1 - Copy - Copy.png`
+- `Assets/GameMain/tietu/M_DiBiao2 - Copy - Copy.png` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/M_DiBiao2 - Copy - Copy.png`
+- `Assets/GameMain/tietu/M_DiCha5 - Copy - Copy.png` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/M_DiCha5 - Copy - Copy.png`
+- `Assets/GameMain/tietu/M_DiCha7 - Copy - Copy.png` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/M_DiCha7 - Copy - Copy.png`
+- `Assets/GameMain/tietu/M_DiCha8 - Copy - Copy.png` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/M_DiCha8 - Copy - Copy.png`
+- `Assets/GameMain/tietu/M_Dong - Copy - Copy.png` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/M_Dong - Copy - Copy.png`
+- `Assets/GameMain/tietu/M_ErWeiMa - Copy - Copy.png` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/M_ErWeiMa - Copy - Copy.png`
+- `Assets/GameMain/tietu/M_FuWuQi - Copy - Copy - Copy - Copy.png` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/M_FuWuQi - Copy - Copy - Copy - Copy.png`
+- `Assets/GameMain/tietu/M_HuoJia2 - Copy - Copy.png` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/M_HuoJia2 - Copy - Copy.png`
+- `Assets/GameMain/tietu/M_JianPan - Copy - Copy.jpg` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/M_JianPan - Copy - Copy.jpg`
+- `Assets/GameMain/tietu/M_JiaoHuanJi.jpg` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/M_JiaoHuanJi.jpg`
+- `Assets/GameMain/tietu/M_KongZhiQi - Copy - Copy.png` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/M_KongZhiQi - Copy - Copy.png`
+- `Assets/GameMain/tietu/M_LiZhu - Copy - Copy.png` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/M_LiZhu - Copy - Copy.png`
+- `Assets/GameMain/tietu/M_LuYouQi - Copy - Copy.png` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/M_LuYouQi - Copy - Copy.png`
+- `Assets/GameMain/tietu/M_SaoMa - Copy - Copy.jpeg` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/M_SaoMa - Copy - Copy.jpeg`
+- `Assets/GameMain/tietu/M_XianShiQi2 - Copy - Copy.jpg` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/M_XianShiQi2 - Copy - Copy.jpg`
+- `Assets/GameMain/tietu/M_YiHaoJiGui_WaiKe-Albedo - Copy - Copy.png` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/M_YiHaoJiGui_WaiKe-Albedo - Copy - Copy.png`
+- `Assets/GameMain/tietu/M_ZhuJi - Copy - Copy.png` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/M_ZhuJi - Copy - Copy.png`
+- `Assets/GameMain/tietu/M_ZhuoMian - Copy - Copy.jpeg` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/M_ZhuoMian - Copy - Copy.jpeg`
+- `Assets/GameMain/tietu/txm - Copy - Copy.jpg` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/txm - Copy - Copy.jpg`
+- `Assets/GameMain/tietu/T_YiHaoJiGui_WaiKe_D.png` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/T_YiHaoJiGui_WaiKe_D.png`
+- `Assets/GameMain/tietu/ZhiXiang - Copy - Copy - Copy.png` -> `Assets/NetWork-03_2/Textures/GameMain/tietu/ZhiXiang - Copy - Copy - Copy.png`
+- `Assets/HuaXian/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/NetWork-03_2/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/LSL_RMS_Import/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/NetWork-03_2/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/LSL_RMS_Install/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/NetWork-03_2/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/NewUI/upankkk.png` -> `Assets/NetWork-03_2/Textures/NewUI/upankkk.png`
+- `Assets/NewUI/图层 2.png` -> `Assets/NetWork-03_2/Textures/NewUI/图层 2.png`
+- `Assets/NewUI/圆角矩形 1.png` -> `Assets/NetWork-03_2/Textures/NewUI/圆角矩形 1.png`
+- `Assets/NewUI/矩形 2 拷贝 3.png` -> `Assets/NetWork-03_2/Textures/NewUI/矩形 2 拷贝 3.png`
+- `Assets/NewUI/确定按钮.png` -> `Assets/NetWork-03_2/Textures/NewUI/确定按钮.png`
+- `Assets/NewUI/组 575.png` -> `Assets/NetWork-03_2/Textures/NewUI/组 575.png`
+- `Assets/NewUI/背景.png` -> `Assets/NetWork-03_2/Textures/NewUI/背景.png`
+- `Assets/RenWu_UI-6/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/NetWork-03_2/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/RenWu_UI-6/Support/TextMesh Pro/Fonts/LiberationSans.ttf` -> `Assets/NetWork-03_2/Support/TextMesh Pro/Fonts/LiberationSans.ttf`
+- `Assets/TextMesh Pro/Fonts/LiberationSans 1.ttf` -> `Assets/NetWork-03_2/Support/TextMesh Pro/Fonts/LiberationSans 1.ttf`
+- `Assets/TextMesh Pro/Fonts/LiberationSans.ttf` -> `Assets/NetWork-03_2/Support/TextMesh Pro/Fonts/LiberationSans.ttf`
+- `Assets/TextMesh Pro/Fonts/SourceHanSansCN-Heavy.otf` -> `Assets/NetWork-03_2/Support/TextMesh Pro/Fonts/SourceHanSansCN-Heavy.otf`
+- `Assets/TextMesh Pro/Fonts/SourceHanSansCN-Medium.otf` -> `Assets/NetWork-03_2/Support/TextMesh Pro/Fonts/SourceHanSansCN-Medium.otf`
+- `Assets/TextMesh Pro/Fonts/SourceHanSansCN-Normal.otf` -> `Assets/NetWork-03_2/Support/TextMesh Pro/Fonts/SourceHanSansCN-Normal.otf`
+- `Assets/TextMesh Pro/Fonts/微软雅黑 SDF.asset` -> `Assets/NetWork-03_2/Support/TextMesh Pro/Fonts/微软雅黑 SDF.asset`
+- `Assets/TextMesh Pro/Fonts/微软雅黑.ttf` -> `Assets/NetWork-03_2/Support/TextMesh Pro/Fonts/微软雅黑.ttf`
+- `Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback 1.asset` -> `Assets/NetWork-03_2/Support/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback 1.asset`
+- `Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF 1.asset` -> `Assets/NetWork-03_2/Support/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF 1.asset`
+- `Assets/TextMesh Pro/Shaders/TMPro.cginc` -> `Assets/NetWork-03_2/Support/TextMesh Pro/Shaders/TMPro.cginc`
+- `Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc` -> `Assets/NetWork-03_2/Support/TextMesh Pro/Shaders/TMPro_Mobile.cginc`
+- `Assets/TextMesh Pro/Shaders/TMPro_Properties 1.cginc` -> `Assets/NetWork-03_2/Support/TextMesh Pro/Shaders/TMPro_Properties 1.cginc`
+- `Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc` -> `Assets/NetWork-03_2/Support/TextMesh Pro/Shaders/TMPro_Properties.cginc`
+- `Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc` -> `Assets/NetWork-03_2/Support/TextMesh Pro/Shaders/TMPro_Surface.cginc`
+- `Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile 1.shader` -> `Assets/NetWork-03_2/Support/TextMesh Pro/Shaders/TMP_SDF-Mobile 1.shader`
+- `Assets/TextMesh Pro/Shaders/TMP_SDF.shader` -> `Assets/NetWork-03_2/Support/TextMesh Pro/Shaders/TMP_SDF.shader`
+- `Assets/UI/PQ/DressingUI/BeiJing.png` -> `Assets/NetWork-03_2/Textures/UI/PQ/DressingUI/BeiJing.png`
+- `Assets/UI/PQ/DressingUI/guanbi.png` -> `Assets/NetWork-03_2/Textures/UI/PQ/DressingUI/guanbi.png`
+- `Assets/UI/PQ/DressingUI/logo-黑(已去底).png` -> `Assets/NetWork-03_2/Textures/UI/PQ/DressingUI/logo-黑(已去底).png`
+- `Assets/UI/PQ/MRUI/完成按钮.png` -> `Assets/NetWork-03_2/Textures/UI/PQ/MRUI/完成按钮.png`
+- `Assets/UI/PQ/MRUI/开始按钮.png` -> `Assets/NetWork-03_2/Textures/UI/PQ/MRUI/开始按钮.png`
+- `Assets/UI/PQ/MRUI/文字标签.png` -> `Assets/NetWork-03_2/Textures/UI/PQ/MRUI/文字标签.png`
+- `Assets/UI/PQ/MRUI/组 575.png` -> `Assets/NetWork-03_2/Textures/UI/PQ/MRUI/组 575.png`
+- `Assets/UI/PQ/MRUI/背景 1.png` -> `Assets/NetWork-03_2/Textures/UI/PQ/MRUI/背景 1.png`
+- `Assets/UI/WHY/Spirit_问答界面/logo-黑(已去底).png` -> `Assets/NetWork-03_2/Textures/UI/WHY/Spirit_问答界面/logo-黑(已去底).png`
+- `Assets/UI/WHY/Spirit_问答界面/×.png` -> `Assets/NetWork-03_2/Textures/UI/WHY/Spirit_问答界面/×.png`
+- `Assets/UI/WHY/Spirit_问答界面/下一题.png` -> `Assets/NetWork-03_2/Textures/UI/WHY/Spirit_问答界面/下一题.png`
+- `Assets/UI/WHY/Spirit_问答界面/关闭按钮 拷贝 5.png` -> `Assets/NetWork-03_2/Textures/UI/WHY/Spirit_问答界面/关闭按钮 拷贝 5.png`
+- `Assets/UI/WHY/Spirit_问答界面/单选题.png` -> `Assets/NetWork-03_2/Textures/UI/WHY/Spirit_问答界面/单选题.png`
+- `Assets/UI/WHY/Spirit_问答界面/图层 2.png` -> `Assets/NetWork-03_2/Textures/UI/WHY/Spirit_问答界面/图层 2.png`
+- `Assets/UI/WHY/Spirit_问答界面/对勾.png` -> `Assets/NetWork-03_2/Textures/UI/WHY/Spirit_问答界面/对勾.png`
+- `Assets/UI/WHY/Spirit_问答界面/疑问按钮.png` -> `Assets/NetWork-03_2/Textures/UI/WHY/Spirit_问答界面/疑问按钮.png`
+- `Assets/UI/WHY/Spirit_问答界面/知识测验.png` -> `Assets/NetWork-03_2/Textures/UI/WHY/Spirit_问答界面/知识测验.png`
+- `Assets/UI/WHY/Spirit_问答界面/矩形 1800 拷贝 10.png` -> `Assets/NetWork-03_2/Textures/UI/WHY/Spirit_问答界面/矩形 1800 拷贝 10.png`
+- `Assets/UI/WHY/Spirit_问答界面/矩形 1800 拷贝 8.png` -> `Assets/NetWork-03_2/Textures/UI/WHY/Spirit_问答界面/矩形 1800 拷贝 8.png`
+- `Assets/UI/WHY/Spirit_问答界面/矩形 1800 拷贝 9.png` -> `Assets/NetWork-03_2/Textures/UI/WHY/Spirit_问答界面/矩形 1800 拷贝 9.png`
+- `Assets/UI/WHY/Spirit_问答界面/背景.png` -> `Assets/NetWork-03_2/Textures/UI/WHY/Spirit_问答界面/背景.png`
+- `Assets/UI/WHY/Sprit_常见问题/关闭按钮 拷贝 5.png` -> `Assets/NetWork-03_2/Textures/UI/WHY/Sprit_常见问题/关闭按钮 拷贝 5.png`
+- `Assets/UI/WHY/Sprit_常见问题/知识测验 拷贝.png` -> `Assets/NetWork-03_2/Textures/UI/WHY/Sprit_常见问题/知识测验 拷贝.png`
+- `Assets/UI/WHY/Sprit_常见问题/知识测验.png` -> `Assets/NetWork-03_2/Textures/UI/WHY/Sprit_常见问题/知识测验.png`
+- `Assets/UI/WHY/Sprit_常见问题/背景.png` -> `Assets/NetWork-03_2/Textures/UI/WHY/Sprit_常见问题/背景.png`
+- `Assets/UI/WHY/Sprit_常见问题/问题.png` -> `Assets/NetWork-03_2/Textures/UI/WHY/Sprit_常见问题/问题.png`
+- `Assets/UI/ZDP/标识UI/物品标识/指引线.png` -> `Assets/NetWork-03_2/Textures/UI/ZDP/标识UI/物品标识/指引线.png`
+- `Assets/UI/ZDP/标识UI/物品标识/标识框.png` -> `Assets/NetWork-03_2/Textures/UI/ZDP/标识UI/物品标识/标识框.png`
+- `Assets/WHY_BZQ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/NetWork-03_2/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/WHY_FuWuQi-6/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/NetWork-03_2/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/WHY_FuWuQi-6/Support/TextMesh Pro/Fonts/LiberationSans.ttf` -> `Assets/NetWork-03_2/Support/TextMesh Pro/Fonts/LiberationSans.ttf`
+- `Assets/WHY_HJ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/NetWork-03_2/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+
+## Remaining External Asset Dependencies
+- None detected.

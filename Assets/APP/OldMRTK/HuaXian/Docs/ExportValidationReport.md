@@ -1,0 +1,348 @@
+# HuaXian Export Validation Report
+
+## Cleared External Scene References
+## Root prefab external scene references cleared
+- `HuaXian` | `PersonMove` | `personposition` -> `PlayerController`
+- `HuaXian/ShuiPingYi/水平仪标识` | `UnityEngine.XR.Interaction.Toolkit.UI.LazyFollow` | `m_Target` -> `MRTK XR Rig/Camera Offset/Main Camera`
+- `HuaXian/JuanChi/JuanChi/JuanChi_KeDu/Cube (1)` | `ShowLength` | `MainCam` -> `MRTK XR Rig/Camera Offset/Main Camera`
+- `HuaXian/MoDou/MoDou/MoDou_01/墨斗标识` | `UnityEngine.XR.Interaction.Toolkit.UI.LazyFollow` | `m_Target` -> `MRTK XR Rig/Camera Offset/Main Camera`
+- `HuaXian/基准原点` | `DrawGridV2` | `MainCam` -> `MRTK XR Rig/Camera Offset/Main Camera`
+- `HuaXian/基准原点/GameObject/物体标签JZDBS` | `UnityEngine.XR.Interaction.Toolkit.UI.LazyFollow` | `m_Target` -> `MRTK XR Rig/Camera Offset/Main Camera`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa1` | `QRPaste` | `GestureRightHand` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa1` | `QRComplete` | `GrabInteractable` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa2` | `QRPaste` | `GestureRightHand` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa2` | `QRComplete` | `GrabInteractable` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa3` | `QRPaste` | `GestureRightHand` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa3` | `QRComplete` | `GrabInteractable` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa4` | `QRPaste` | `GestureRightHand` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa4` | `QRComplete` | `GrabInteractable` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa5` | `QRPaste` | `GestureRightHand` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa5` | `QRComplete` | `GrabInteractable` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa6` | `QRPaste` | `GestureRightHand` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa6` | `QRComplete` | `GrabInteractable` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa7` | `QRPaste` | `GestureRightHand` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa7` | `QRComplete` | `GrabInteractable` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa8` | `QRPaste` | `GestureRightHand` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa8` | `QRComplete` | `GrabInteractable` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa9` | `QRPaste` | `GestureRightHand` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa9` | `QRComplete` | `GrabInteractable` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa10` | `QRPaste` | `GestureRightHand` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa10` | `QRComplete` | `GrabInteractable` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa11` | `QRPaste` | `GestureRightHand` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa11` | `QRComplete` | `GrabInteractable` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa12` | `QRPaste` | `GestureRightHand` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa12` | `QRComplete` | `GrabInteractable` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa13` | `QRPaste` | `GestureRightHand` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa13` | `QRComplete` | `GrabInteractable` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa14` | `QRPaste` | `GestureRightHand` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa14` | `QRComplete` | `GrabInteractable` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa15` | `QRPaste` | `GestureRightHand` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa15` | `QRComplete` | `GrabInteractable` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa16` | `QRPaste` | `GestureRightHand` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa16` | `QRComplete` | `GrabInteractable` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa17` | `QRPaste` | `GestureRightHand` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa17` | `QRComplete` | `GrabInteractable` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa18` | `QRPaste` | `GestureRightHand` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa18` | `QRComplete` | `GrabInteractable` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa19` | `QRPaste` | `GestureRightHand` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa19` | `QRComplete` | `GrabInteractable` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa20` | `QRPaste` | `GestureRightHand` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa20` | `QRComplete` | `GrabInteractable` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa21` | `QRPaste` | `GestureRightHand` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa21` | `QRComplete` | `GrabInteractable` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa22` | `QRPaste` | `GestureRightHand` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa22` | `QRComplete` | `GrabInteractable` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa23` | `QRPaste` | `GestureRightHand` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa23` | `QRComplete` | `GrabInteractable` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa24` | `QRPaste` | `GestureRightHand` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa24` | `QRComplete` | `GrabInteractable` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa25` | `QRPaste` | `GestureRightHand` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/QRCode/ErWeiMa/ErWeiMa25` | `QRComplete` | `GrabInteractable` -> `MRTK XR Rig/Camera Offset/MRTK RightHand Controller`
+- `HuaXian/Pasting` | `CheckCollider` | `HJ` -> `SHIXUN/WHY_HJ`
+- `HuaXian/视频介绍/VideoIntroduction` | `GuidingArrowControl` | `GuidingArrowing` -> `MRTK XR Rig/Camera Offset/Main Camera/GuidingArrow`
+- `HuaXian/ZHIYIN (3)` | `StepTesk` | `GuidingArrow` -> `MRTK XR Rig/Camera Offset/Main Camera/GuidingArrow`
+
+## MultController external scene references cleared
+- `MultController` | `MultCheckInfo` | `shixun` -> `SHIXUN`
+- `MultController` | `MultCheckInfo` | `multiplayer` -> `DuoRenXieTong`
+
+
+## Copied Asset Map
+- `Assets/changjing-2/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/HuaXian/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/changjing-4/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/HuaXian/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/AGV.fbm/logo.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/AGV.fbm/logo.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/1/M_FuWuQi.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/1/M_FuWuQi.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/1/ZhiXiang.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/1/ZhiXiang.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/HuoJia2.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/HuoJia2.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_baq_2.jpg` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_baq_2.jpg`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_CDZ1_Albedo.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_CDZ1_Albedo.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_ChaPai.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_ChaPai.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiBiao1.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiBiao1.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiBiao2.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiBiao2.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiCha5.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiCha5.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiCha7.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiCha7.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiCha8.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiCha8.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiMian.jpg` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiMian.jpg`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_Dong.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_Dong.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_ErWeiMa.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_ErWeiMa.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_HuoJia2.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_HuoJia2.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_JianPan.jpg` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_JianPan.jpg`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_KongZhiQi.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_KongZhiQi.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_LiZhu.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_LiZhu.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_LuYouQi.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_LuYouQi.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_SaoMa.jpeg` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_SaoMa.jpeg`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_XianShiQi2.jpg` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_XianShiQi2.jpg`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_YiHaoJiGui_WaiKe-Albedo.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_YiHaoJiGui_WaiKe-Albedo.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_ZhuJi.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_ZhuJi.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/txm.jpg` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/txm.jpg`
+- `Assets/ChangJing-8/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/HuaXian/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/GameMain/Animations/Animation/PQ/Introduction.renderTexture` -> `Assets/HuaXian/Textures/GameMain/Animations/Animation/PQ/Introduction.renderTexture`
+- `Assets/GameMain/Entity/JiZhunDian.prefab` -> `Assets/HuaXian/Support/GameMain/Entity/JiZhunDian.prefab`
+- `Assets/GameMain/Entity/LineRendererPrefab.prefab` -> `Assets/HuaXian/Support/GameMain/Entity/LineRendererPrefab.prefab`
+- `Assets/GameMain/Entity/Resources/Materials/CanvasFrontplate.mat` -> `Assets/HuaXian/Materials/GameMain/Entity/Resources/Materials/CanvasFrontplate.mat`
+- `Assets/GameMain/Entity/Resources/Materials/CanvasGlow.mat` -> `Assets/HuaXian/Materials/GameMain/Entity/Resources/Materials/CanvasGlow.mat`
+- `Assets/GameMain/Entity/Resources/Materials/新建材质.mat` -> `Assets/HuaXian/Materials/GameMain/Entity/Resources/Materials/新建材质.mat`
+- `Assets/GameMain/Entity/箭头(1).FBX` -> `Assets/HuaXian/Models/GameMain/Entity/箭头(1).FBX`
+- `Assets/GameMain/Models/JYJ/MR_ChangJing-2.fbx` -> `Assets/HuaXian/Models/GameMain/Models/JYJ/MR_ChangJing-2.fbx`
+- `Assets/GameMain/Models/PQ/JiGui.fbm/M_ChaPai.png` -> `Assets/HuaXian/Textures/GameMain/Models/PQ/JiGui.fbm/M_ChaPai.png`
+- `Assets/GameMain/Models/PQ/JiGui.fbm/M_FuWuQi.png` -> `Assets/HuaXian/Textures/GameMain/Models/PQ/JiGui.fbm/M_FuWuQi.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/1/ZhiXiang.png` -> `Assets/HuaXian/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/1/ZhiXiang.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/HuoJia2.png` -> `Assets/HuaXian/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/HuoJia2.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/logo.png` -> `Assets/HuaXian/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/logo.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_baq_2.jpg` -> `Assets/HuaXian/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_baq_2.jpg`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_CDZ1_Albedo.png` -> `Assets/HuaXian/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_CDZ1_Albedo.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiBiao1.png` -> `Assets/HuaXian/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiBiao1.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiBiao2.png` -> `Assets/HuaXian/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiBiao2.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiCha5.png` -> `Assets/HuaXian/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiCha5.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiCha7.png` -> `Assets/HuaXian/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiCha7.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiCha8.png` -> `Assets/HuaXian/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiCha8.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiMian.jpg` -> `Assets/HuaXian/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiMian.jpg`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_Dong.png` -> `Assets/HuaXian/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_Dong.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_ErWeiMa.png` -> `Assets/HuaXian/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_ErWeiMa.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_HuoJia2.png` -> `Assets/HuaXian/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_HuoJia2.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_JianPan.jpg` -> `Assets/HuaXian/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_JianPan.jpg`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_KongZhiQi.png` -> `Assets/HuaXian/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_KongZhiQi.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_LiZhu.png` -> `Assets/HuaXian/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_LiZhu.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_LuYouQi.png` -> `Assets/HuaXian/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_LuYouQi.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_SaoMa.jpeg` -> `Assets/HuaXian/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_SaoMa.jpeg`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_XianShiQi2.jpg` -> `Assets/HuaXian/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_XianShiQi2.jpg`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_YiHaoJiGui_WaiKe-Albedo.png` -> `Assets/HuaXian/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_YiHaoJiGui_WaiKe-Albedo.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_ZhuJi.png` -> `Assets/HuaXian/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_ZhuJi.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/txm.jpg` -> `Assets/HuaXian/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/txm.jpg`
+- `Assets/GameMain/Models/ZDP/AGV.fbm/logo.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/AGV.fbm/logo.png`
+- `Assets/GameMain/Models/ZDP/JiHaoBi.fbm/JiHaoBi.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/JiHaoBi.fbm/JiHaoBi.png`
+- `Assets/GameMain/Models/ZDP/JiHaoBi.fbx` -> `Assets/HuaXian/Models/GameMain/Models/ZDP/JiHaoBi.fbx`
+- `Assets/GameMain/Models/ZDP/JuanChi.fbm/M_JuanChi.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/JuanChi.fbm/M_JuanChi.png`
+- `Assets/GameMain/Models/ZDP/JuanChi.fbm/M_JuanChiKeDu.jpg` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/JuanChi.fbm/M_JuanChiKeDu.jpg`
+- `Assets/GameMain/Models/ZDP/JuanChi.fbx` -> `Assets/HuaXian/Models/GameMain/Models/ZDP/JuanChi.fbx`
+- `Assets/GameMain/Models/ZDP/Materials/BaiXian.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/BaiXian.mat`
+- `Assets/GameMain/Models/ZDP/Materials/HuoJia2.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/HuoJia2.mat`
+- `Assets/GameMain/Models/ZDP/Materials/JiHaoBi.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/JiHaoBi.mat`
+- `Assets/GameMain/Models/ZDP/Materials/LanXian.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/LanXian.mat`
+- `Assets/GameMain/Models/ZDP/Materials/logo.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/logo.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_AGV2.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_AGV2.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_AGV5.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_AGV5.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_AGV7.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_AGV7.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_AGV8.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_AGV8.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_AGV9.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_AGV9.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_baq_1.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_baq_1.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_baq_2.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_baq_2.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_baq_4.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_baq_4.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_BianKuang.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_BianKuang.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_CDZ1_Albedo.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_CDZ1_Albedo.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_ChaPai.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_ChaPai.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_ChaTou.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_ChaTou.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_ChaTou6.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_ChaTou6.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_ChaTou7.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_ChaTou7.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_ChaTou8.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_ChaTou8.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_DiBiao1.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_DiBiao1.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_DiBiao2.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_DiBiao2.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_DiCao.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_DiCao.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_DiCha5.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_DiCha5.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_DiCha6.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_DiCha6.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_DiCha7.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_DiCha7.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_DiCha8.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_DiCha8.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_DiMian.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_DiMian.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_Dong.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_Dong.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_DuanZi.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_DuanZi.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_ErWeiMa.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_ErWeiMa.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_FuWuQi.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_FuWuQi.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_FuWuQi4.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_FuWuQi4.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_HeiXian.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_HeiXian.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_HuangXian.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_HuangXian.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_HuoJia.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_HuoJia.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_HuoJia1.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_HuoJia1.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_HuoJia2.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_HuoJia2.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_HuoJia3.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_HuoJia3.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_JianPan.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_JianPan.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_JiaoHuanJi2.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_JiaoHuanJi2.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_JiaoHuanJi3.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_JiaoHuanJi3.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_JinShu.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_JinShu.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_JiXiang.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_JiXiang.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_JuanChi.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_JuanChi.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_JuanChiKeDu.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_JuanChiKeDu.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_KaiGuan.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_KaiGuan.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_KaiGuan1.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_KaiGuan1.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_Kong1.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_Kong1.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_KongZhiQi.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_KongZhiQi.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_LiZhu.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_LiZhu.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_LunZi.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_LunZi.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_LuoSi.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_LuoSi.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_LuoSi1.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_LuoSi1.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_LuoSi2.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_LuoSi2.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_LuoSi4.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_LuoSi4.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_LuoSi5.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_LuoSi5.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_LuoSi6.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_LuoSi6.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_LuYouQi.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_LuYouQi.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_LuYouQi14.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_LuYouQi14.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_LuYouQi15.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_LuYouQi15.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_LuYouQi16.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_LuYouQi16.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_LuYouQi17.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_LuYouQi17.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_LuYouQi19.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_LuYouQi19.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_LuYouQi20.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_LuYouQi20.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_LuYouQi21.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_LuYouQi21.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_LuYouQi22.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_LuYouQi22.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_PingMu.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_PingMu.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_SaoMa.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_SaoMa.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_SaoMaQiang_1.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_SaoMaQiang_1.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_ShuBiao.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_ShuBiao.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_ShuiJingTou10.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_ShuiJingTou10.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_ShuiJingTou11.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_ShuiJingTou11.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_ShuiJingTou6.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_ShuiJingTou6.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_ShuiJingTou7.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_ShuiJingTou7.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_ShuiJingTou8.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_ShuiJingTou8.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_ShuiJingTou9.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_ShuiJingTou9.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_TongXian.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_TongXian.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_USB.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_USB.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_USB2.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_USB2.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_XianShiQi2.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_XianShiQi2.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_YiHaoJiGui_WaiKe-Albedo.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_YiHaoJiGui_WaiKe-Albedo.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_ZhiJia.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_ZhiJia.mat`
+- `Assets/GameMain/Models/ZDP/Materials/M_ZhuJi.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/M_ZhuJi.mat`
+- `Assets/GameMain/Models/ZDP/Materials/txm.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/txm.mat`
+- `Assets/GameMain/Models/ZDP/Materials/T_MoDou_Albedo.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/T_MoDou_Albedo.mat`
+- `Assets/GameMain/Models/ZDP/Materials/YuanDian.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/YuanDian.mat`
+- `Assets/GameMain/Models/ZDP/Materials/ZhiXiang.mat` -> `Assets/HuaXian/Materials/GameMain/Models/ZDP/Materials/ZhiXiang.mat`
+- `Assets/GameMain/Models/ZDP/MoDou.fbm/T_MoDou_Albedo.jpg` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MoDou.fbm/T_MoDou_Albedo.jpg`
+- `Assets/GameMain/Models/ZDP/MoDou.fbx` -> `Assets/HuaXian/Models/GameMain/Models/ZDP/MoDou.fbx`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/1/M_FuWuQi.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/1/M_FuWuQi.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/1/ZhiXiang.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/1/ZhiXiang.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/HuoJia2.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/HuoJia2.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_baq_2.jpg` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_baq_2.jpg`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_CDZ1_Albedo.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_CDZ1_Albedo.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_ChaPai.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_ChaPai.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiBiao1.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiBiao1.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiBiao2.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiBiao2.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiCha5.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiCha5.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiCha7.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiCha7.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiCha8.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiCha8.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiMian.jpg` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiMian.jpg`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_Dong.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_Dong.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_ErWeiMa.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_ErWeiMa.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_FuWuQi.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_FuWuQi.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_HuoJia2.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_HuoJia2.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_JianPan.jpg` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_JianPan.jpg`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_KongZhiQi.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_KongZhiQi.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_LiZhu.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_LiZhu.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_LuYouQi.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_LuYouQi.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_SaoMa.jpeg` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_SaoMa.jpeg`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_XianShiQi2.jpg` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_XianShiQi2.jpg`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_YiHaoJiGui_WaiKe-Albedo.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_YiHaoJiGui_WaiKe-Albedo.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_ZhuJi.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_ZhuJi.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/txm.jpg` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/txm.jpg`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/ZhiXiang.png` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/ZhiXiang.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbx` -> `Assets/HuaXian/Models/GameMain/Models/ZDP/MR_ChangJing.fbx`
+- `Assets/GameMain/Models/ZDP/ShuiPingYi.fbm/M_ShuiPingYi.jpg` -> `Assets/HuaXian/Textures/GameMain/Models/ZDP/ShuiPingYi.fbm/M_ShuiPingYi.jpg`
+- `Assets/GameMain/Models/ZDP/shuipingyi2.fbx` -> `Assets/HuaXian/Models/GameMain/Models/ZDP/shuipingyi2.fbx`
+- `Assets/GameMain/Res/Animations/polySurface10.controller` -> `Assets/HuaXian/Support/GameMain/Res/Animations/polySurface10.controller`
+- `Assets/GameMain/Res/Animations/ShuiPingYi_Btn_Rotate.anim` -> `Assets/HuaXian/Support/GameMain/Res/Animations/ShuiPingYi_Btn_Rotate.anim`
+- `Assets/GameMain/Res/Fonts/40华康圆体W3.TTF` -> `Assets/HuaXian/Support/GameMain/Res/Fonts/40华康圆体W3.TTF`
+- `Assets/GameMain/Res/Fonts/SourceHanSansCN-Bold.otf` -> `Assets/HuaXian/Support/GameMain/Res/Fonts/SourceHanSansCN-Bold.otf`
+- `Assets/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/HuaXian/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/GameMain/Res/Fonts/SourceHanSansCN-Light.otf` -> `Assets/HuaXian/Support/GameMain/Res/Fonts/SourceHanSansCN-Light.otf`
+- `Assets/GameMain/Res/Fonts/SourceHanSansCN-Regular SDF.asset` -> `Assets/HuaXian/Support/GameMain/Res/Fonts/SourceHanSansCN-Regular SDF.asset`
+- `Assets/GameMain/Res/Fonts/SourceHanSansCN-Regular.otf` -> `Assets/HuaXian/Support/GameMain/Res/Fonts/SourceHanSansCN-Regular.otf`
+- `Assets/GameMain/Res/Scenes/Music/音效文件/UI弹出提示音.mp3` -> `Assets/HuaXian/Support/GameMain/Res/Scenes/Music/音效文件/UI弹出提示音.mp3`
+- `Assets/GameMain/Res/Scenes/UI_QieTu/05选择场景 2_slices/矩形 1800 拷贝 8.png` -> `Assets/HuaXian/Textures/GameMain/Res/Scenes/UI_QieTu/05选择场景 2_slices/矩形 1800 拷贝 8.png`
+- `Assets/GameMain/Res/Scenes/UI_镜像安装系统/Video/MR视频/画线贴码.mp4` -> `Assets/HuaXian/Support/GameMain/Res/Scenes/UI_镜像安装系统/Video/MR视频/画线贴码.mp4`
+- `Assets/GameMain/Scripts/ZDP/HuaXian/CXHDLL.dll` -> `Assets/HuaXian/Support/GameMain/Scripts/ZDP/HuaXian/HuaXian_CXHDLL.dll`
+- `Assets/GameMain/Sounds/5画线贴码/5—1.MP3` -> `Assets/HuaXian/Support/GameMain/Sounds/5画线贴码/5—1.MP3`
+- `Assets/GameMain/Sounds/5画线贴码/5—2.MP3` -> `Assets/HuaXian/Support/GameMain/Sounds/5画线贴码/5—2.MP3`
+- `Assets/GameMain/Sounds/5画线贴码/5—3.MP3` -> `Assets/HuaXian/Support/GameMain/Sounds/5画线贴码/5—3.MP3`
+- `Assets/GameMain/tietu/JiHaoBi.mat` -> `Assets/HuaXian/Materials/GameMain/tietu/JiHaoBi.mat`
+- `Assets/GameMain/tietu/JiHaoBi.png` -> `Assets/HuaXian/Textures/GameMain/tietu/JiHaoBi.png`
+- `Assets/GameMain/tietu/M_ErWeiMa.mat` -> `Assets/HuaXian/Materials/GameMain/tietu/M_ErWeiMa.mat`
+- `Assets/GameMain/tietu/M_ErWeiMa.png` -> `Assets/HuaXian/Textures/GameMain/tietu/M_ErWeiMa.png`
+- `Assets/GameMain/tietu/M_JuanChi.mat` -> `Assets/HuaXian/Materials/GameMain/tietu/M_JuanChi.mat`
+- `Assets/GameMain/tietu/M_JuanChi.png` -> `Assets/HuaXian/Textures/GameMain/tietu/M_JuanChi.png`
+- `Assets/GameMain/tietu/M_JuanChiKeDu.jpg` -> `Assets/HuaXian/Textures/GameMain/tietu/M_JuanChiKeDu.jpg`
+- `Assets/GameMain/tietu/M_JuanChiKeDu.mat` -> `Assets/HuaXian/Materials/GameMain/tietu/M_JuanChiKeDu.mat`
+- `Assets/GameMain/tietu/New Material 1.mat` -> `Assets/HuaXian/Materials/GameMain/tietu/New Material 1.mat`
+- `Assets/GameMain/tietu/New Material.mat` -> `Assets/HuaXian/Materials/GameMain/tietu/New Material.mat`
+- `Assets/GameMain/tietu/T_MoDou_Albedo.jpg` -> `Assets/HuaXian/Textures/GameMain/tietu/T_MoDou_Albedo.jpg`
+- `Assets/GameMain/tietu/T_MoDou_Albedo.mat` -> `Assets/HuaXian/Materials/GameMain/tietu/T_MoDou_Albedo.mat`
+- `Assets/LSL_RMS_Import/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/HuaXian/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/LSL_RMS_Install/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/HuaXian/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/Materials/DrawMaterial.mat` -> `Assets/HuaXian/Materials/Materials/DrawMaterial.mat`
+- `Assets/Materials/网格image.png` -> `Assets/HuaXian/Textures/Materials/网格image.png`
+- `Assets/Materials/网格（改）.mat` -> `Assets/HuaXian/Materials/Materials/网格（改）.mat`
+- `Assets/NetWork-03_2/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/HuaXian/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/NewUI/矩形 2 拷贝 3.png` -> `Assets/HuaXian/Textures/NewUI/矩形 2 拷贝 3.png`
+- `Assets/NewUI/确定按钮.png` -> `Assets/HuaXian/Textures/NewUI/确定按钮.png`
+- `Assets/NewUI/组 575.png` -> `Assets/HuaXian/Textures/NewUI/组 575.png`
+- `Assets/NewUI/背景.png` -> `Assets/HuaXian/Textures/NewUI/背景.png`
+- `Assets/RenWu_UI-6/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/HuaXian/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/TextMesh Pro/Fonts/SourceHanSansCN-Heavy.otf` -> `Assets/HuaXian/Support/TextMesh Pro/Fonts/SourceHanSansCN-Heavy.otf`
+- `Assets/TextMesh Pro/Fonts/SourceHanSansCN-Medium.otf` -> `Assets/HuaXian/Support/TextMesh Pro/Fonts/SourceHanSansCN-Medium.otf`
+- `Assets/TextMesh Pro/Fonts/SourceHanSansCN-Normal SDF.asset` -> `Assets/HuaXian/Support/TextMesh Pro/Fonts/SourceHanSansCN-Normal SDF.asset`
+- `Assets/TextMesh Pro/Fonts/SourceHanSansCN-Normal.otf` -> `Assets/HuaXian/Support/TextMesh Pro/Fonts/SourceHanSansCN-Normal.otf`
+- `Assets/TextMesh Pro/Fonts/微软雅黑.ttf` -> `Assets/HuaXian/Support/TextMesh Pro/Fonts/微软雅黑.ttf`
+- `Assets/TextMesh Pro/Shaders/TMPro.cginc` -> `Assets/HuaXian/Support/TextMesh Pro/Shaders/TMPro.cginc`
+- `Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc` -> `Assets/HuaXian/Support/TextMesh Pro/Shaders/TMPro_Mobile.cginc`
+- `Assets/TextMesh Pro/Shaders/TMPro_Properties 1.cginc` -> `Assets/HuaXian/Support/TextMesh Pro/Shaders/TMPro_Properties 1.cginc`
+- `Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc` -> `Assets/HuaXian/Support/TextMesh Pro/Shaders/TMPro_Properties.cginc`
+- `Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc` -> `Assets/HuaXian/Support/TextMesh Pro/Shaders/TMPro_Surface.cginc`
+- `Assets/TextMesh Pro/Shaders/TMP_SDF.shader` -> `Assets/HuaXian/Support/TextMesh Pro/Shaders/TMP_SDF.shader`
+- `Assets/UI/PQ/DressingUI/BeiJing.png` -> `Assets/HuaXian/Textures/UI/PQ/DressingUI/BeiJing.png`
+- `Assets/UI/PQ/DressingUI/guanbi.png` -> `Assets/HuaXian/Textures/UI/PQ/DressingUI/guanbi.png`
+- `Assets/UI/PQ/DressingUI/logo-黑(已去底).png` -> `Assets/HuaXian/Textures/UI/PQ/DressingUI/logo-黑(已去底).png`
+- `Assets/UI/PQ/MRUI/对勾.png` -> `Assets/HuaXian/Textures/UI/PQ/MRUI/对勾.png`
+- `Assets/UI/PQ/MRUI/开始按钮.png` -> `Assets/HuaXian/Textures/UI/PQ/MRUI/开始按钮.png`
+- `Assets/UI/PQ/MRUI/按钮.png` -> `Assets/HuaXian/Textures/UI/PQ/MRUI/按钮.png`
+- `Assets/UI/PQ/MRUI/背景 1.png` -> `Assets/HuaXian/Textures/UI/PQ/MRUI/背景 1.png`
+- `Assets/UI/PQ/MRUI/进度条4.png` -> `Assets/HuaXian/Textures/UI/PQ/MRUI/进度条4.png`
+- `Assets/UI/PQ/MRUI/进度条背景.png` -> `Assets/HuaXian/Textures/UI/PQ/MRUI/进度条背景.png`
+- `Assets/UI/PQ/Sprites/是否退出_slices/组 575.png` -> `Assets/HuaXian/Textures/UI/PQ/Sprites/是否退出_slices/组 575.png`
+- `Assets/UI/WHY/Spirit_问答界面/logo-黑(已去底).png` -> `Assets/HuaXian/Textures/UI/WHY/Spirit_问答界面/logo-黑(已去底).png`
+- `Assets/UI/WHY/Spirit_问答界面/×.png` -> `Assets/HuaXian/Textures/UI/WHY/Spirit_问答界面/×.png`
+- `Assets/UI/WHY/Spirit_问答界面/下一题.png` -> `Assets/HuaXian/Textures/UI/WHY/Spirit_问答界面/下一题.png`
+- `Assets/UI/WHY/Spirit_问答界面/关闭按钮 拷贝 5.png` -> `Assets/HuaXian/Textures/UI/WHY/Spirit_问答界面/关闭按钮 拷贝 5.png`
+- `Assets/UI/WHY/Spirit_问答界面/单选题.png` -> `Assets/HuaXian/Textures/UI/WHY/Spirit_问答界面/单选题.png`
+- `Assets/UI/WHY/Spirit_问答界面/图层 2.png` -> `Assets/HuaXian/Textures/UI/WHY/Spirit_问答界面/图层 2.png`
+- `Assets/UI/WHY/Spirit_问答界面/对勾.png` -> `Assets/HuaXian/Textures/UI/WHY/Spirit_问答界面/对勾.png`
+- `Assets/UI/WHY/Spirit_问答界面/疑问按钮.png` -> `Assets/HuaXian/Textures/UI/WHY/Spirit_问答界面/疑问按钮.png`
+- `Assets/UI/WHY/Spirit_问答界面/知识测验.png` -> `Assets/HuaXian/Textures/UI/WHY/Spirit_问答界面/知识测验.png`
+- `Assets/UI/WHY/Spirit_问答界面/矩形 1800 拷贝 10.png` -> `Assets/HuaXian/Textures/UI/WHY/Spirit_问答界面/矩形 1800 拷贝 10.png`
+- `Assets/UI/WHY/Spirit_问答界面/矩形 1800 拷贝 8.png` -> `Assets/HuaXian/Textures/UI/WHY/Spirit_问答界面/矩形 1800 拷贝 8.png`
+- `Assets/UI/WHY/Spirit_问答界面/矩形 1800 拷贝 9.png` -> `Assets/HuaXian/Textures/UI/WHY/Spirit_问答界面/矩形 1800 拷贝 9.png`
+- `Assets/UI/WHY/Spirit_问答界面/背景.png` -> `Assets/HuaXian/Textures/UI/WHY/Spirit_问答界面/背景.png`
+- `Assets/UI/WHY/Sprit_常见问题/关闭按钮 拷贝 5.png` -> `Assets/HuaXian/Textures/UI/WHY/Sprit_常见问题/关闭按钮 拷贝 5.png`
+- `Assets/UI/WHY/Sprit_常见问题/知识测验 拷贝.png` -> `Assets/HuaXian/Textures/UI/WHY/Sprit_常见问题/知识测验 拷贝.png`
+- `Assets/UI/WHY/Sprit_常见问题/知识测验.png` -> `Assets/HuaXian/Textures/UI/WHY/Sprit_常见问题/知识测验.png`
+- `Assets/UI/WHY/Sprit_常见问题/背景.png` -> `Assets/HuaXian/Textures/UI/WHY/Sprit_常见问题/背景.png`
+- `Assets/UI/WHY/Sprit_常见问题/问题.png` -> `Assets/HuaXian/Textures/UI/WHY/Sprit_常见问题/问题.png`
+- `Assets/UI/ZDP/指引/下一步提示/确定按钮.png` -> `Assets/HuaXian/Textures/UI/ZDP/指引/下一步提示/确定按钮.png`
+- `Assets/UI/ZDP/指引/下一步提示/背景.png` -> `Assets/HuaXian/Textures/UI/ZDP/指引/下一步提示/背景.png`
+- `Assets/UI/ZDP/标识UI/物品标识/圆点.png` -> `Assets/HuaXian/Textures/UI/ZDP/标识UI/物品标识/圆点.png`
+- `Assets/UI/ZDP/标识UI/物品标识/指引线.png` -> `Assets/HuaXian/Textures/UI/ZDP/标识UI/物品标识/指引线.png`
+- `Assets/UI/ZDP/标识UI/物品标识/标识框.png` -> `Assets/HuaXian/Textures/UI/ZDP/标识UI/物品标识/标识框.png`
+- `Assets/VolumetricLines/BuiltInRenderPipeline/Materials/SingleLine-LightSaber.mat` -> `Assets/HuaXian/Materials/VolumetricLines/BuiltInRenderPipeline/Materials/SingleLine-LightSaber.mat`
+- `Assets/VolumetricLines/BuiltInRenderPipeline/Prefabs/LineStrip-LightSaber.mat` -> `Assets/HuaXian/Materials/VolumetricLines/BuiltInRenderPipeline/Prefabs/LineStrip-LightSaber.mat`
+- `Assets/VolumetricLines/BuiltInRenderPipeline/Shaders/LineStrip-LightSaber.shader` -> `Assets/HuaXian/Support/VolumetricLines/BuiltInRenderPipeline/Shaders/LineStrip-LightSaber.shader`
+- `Assets/VolumetricLines/BuiltInRenderPipeline/Shaders/SingleLine-LightSaber.shader` -> `Assets/HuaXian/Support/VolumetricLines/BuiltInRenderPipeline/Shaders/SingleLine-LightSaber.shader`
+- `Assets/WHY_BZQ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/HuaXian/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/WHY_FuWuQi-6/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/HuaXian/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/WHY_HJ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/HuaXian/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+
+## Remaining External Asset Dependencies
+- None detected.

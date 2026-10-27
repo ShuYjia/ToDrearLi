@@ -1,0 +1,258 @@
+# WHY_BZQ Export Validation Report
+
+## Cleared External Scene References
+## Root prefab external scene references cleared
+- `WHY_BZQ` | `OnTaskComplate` | `nextTasknode` -> `SHIXUN/changjing-2`
+- `WHY_BZQ` | `PersonMove` | `personposition` -> `PlayerController`
+- `WHY_BZQ/UI/介绍视频` | `GuidingArrowControl` | `GuidingArrowing` -> `MRTK XR Rig/Camera Offset/Main Camera/GuidingArrow`
+- `WHY_BZQ/GameObject` | `HJinstall` | `GuidingArrow` -> `MRTK XR Rig/Camera Offset/Main Camera/GuidingArrow`
+- `WHY_BZQ/ZHIYIN (5)` | `StepTesk` | `GuidingArrow` -> `MRTK XR Rig/Camera Offset/Main Camera/GuidingArrow`
+
+## MultController external scene references cleared
+- `MultController` | `MultCheckInfo` | `shixun` -> `SHIXUN`
+- `MultController` | `MultCheckInfo` | `multiplayer` -> `DuoRenXieTong`
+
+
+## Copied Asset Map
+- `Assets/changjing-2/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/WHY_BZQ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/changjing-4/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/WHY_BZQ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/AGV.fbm/logo.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/logo.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/1/M_FuWuQi.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/JiGui.fbm/M_FuWuQi.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/1/ZhiXiang.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/1/ZhiXiang.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/HuoJia2.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/HuoJia2.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_baq_2.jpg` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_baq_2.jpg`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_CDZ1_Albedo.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_CDZ1_Albedo.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_ChaPai.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/JiGui.fbm/M_ChaPai.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiBiao1.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiBiao1.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiBiao2.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiBiao2.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiCha5.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiCha5.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiCha7.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiCha7.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiCha8.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiCha8.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiMian.jpg` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiMian.jpg`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_Dong.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_Dong.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_ErWeiMa.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_ErWeiMa.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_HuoJia2.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_HuoJia2.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_JianPan.jpg` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_JianPan.jpg`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_KongZhiQi.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_KongZhiQi.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_LiZhu.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_LiZhu.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_LuYouQi.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_LuYouQi.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_SaoMa.jpeg` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_SaoMa.jpeg`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_XianShiQi2.jpg` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_XianShiQi2.jpg`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_YiHaoJiGui_WaiKe-Albedo.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_YiHaoJiGui_WaiKe-Albedo.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/M_ZhuJi.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_ZhuJi.png`
+- `Assets/ChangJing-8/Models/GameMain/Models/ZDP/MR_ChangJing.fbm/txm.jpg` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/txm.jpg`
+- `Assets/ChangJing-8/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/WHY_BZQ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/GameMain/Animations/Animation/PQ/Introduction 1.renderTexture` -> `Assets/WHY_BZQ/Textures/GameMain/Animations/Animation/PQ/Introduction 1.renderTexture`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuiSi1.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuiSi1.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi1.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi1.controller`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi10.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi10.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi10_1.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi10_1.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi10_1.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi10_1.controller`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi11.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi11.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi11_1.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi11_1.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi11_1.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi11_1.controller`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi12.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi12.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi13.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi13.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi14.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi14.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi15.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi15.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi16.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi16.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi17.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi17.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi18.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi18.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi19.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi19.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi2.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi2.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi2.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi2.controller`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi20.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi20.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi21.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi21.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi22.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi22.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi23.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi23.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi24.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi24.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi25.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi25.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi26.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi26.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/luosi3 1.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/luosi3 1.controller`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi3.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi3.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi3.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi3.controller`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi3_1.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi3_1.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi4.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi4.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi4.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi4.controller`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi5.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi5.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi5.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi5.controller`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi5_1.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi5_1.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi5_1.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi5_1.controller`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi6.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi6.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi6.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi6.controller`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi7.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi7.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi7.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi7.controller`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi8.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi8.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi8.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi8.controller`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi9.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi9.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi9.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi9.controller`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi_1.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi_1.anim`
+- `Assets/GameMain/Animations/Animation/WHY/BZQ/LuoSi_1.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animation/WHY/BZQ/LuoSi_1.controller`
+- `Assets/GameMain/Animations/Animator/WHY/BZQ/LuoSi.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animator/WHY/BZQ/LuoSi.controller`
+- `Assets/GameMain/Animations/Animator/WHY/BZQ/LuoSi10.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animator/WHY/BZQ/LuoSi10.controller`
+- `Assets/GameMain/Animations/Animator/WHY/BZQ/LuoSi11.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animator/WHY/BZQ/LuoSi11.controller`
+- `Assets/GameMain/Animations/Animator/WHY/BZQ/LuoSi12.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animator/WHY/BZQ/LuoSi12.controller`
+- `Assets/GameMain/Animations/Animator/WHY/BZQ/LuoSi13.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animator/WHY/BZQ/LuoSi13.controller`
+- `Assets/GameMain/Animations/Animator/WHY/BZQ/LuoSi14.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animator/WHY/BZQ/LuoSi14.controller`
+- `Assets/GameMain/Animations/Animator/WHY/BZQ/LuoSi15.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animator/WHY/BZQ/LuoSi15.controller`
+- `Assets/GameMain/Animations/Animator/WHY/BZQ/LuoSi16.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animator/WHY/BZQ/LuoSi16.controller`
+- `Assets/GameMain/Animations/Animator/WHY/BZQ/LuoSi17.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animator/WHY/BZQ/LuoSi17.controller`
+- `Assets/GameMain/Animations/Animator/WHY/BZQ/LuoSi18.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animator/WHY/BZQ/LuoSi18.controller`
+- `Assets/GameMain/Animations/Animator/WHY/BZQ/LuoSi19.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animator/WHY/BZQ/LuoSi19.controller`
+- `Assets/GameMain/Animations/Animator/WHY/BZQ/LuoSi20.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animator/WHY/BZQ/LuoSi20.controller`
+- `Assets/GameMain/Animations/Animator/WHY/BZQ/LuoSi21.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animator/WHY/BZQ/LuoSi21.controller`
+- `Assets/GameMain/Animations/Animator/WHY/BZQ/LuoSi22.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animator/WHY/BZQ/LuoSi22.controller`
+- `Assets/GameMain/Animations/Animator/WHY/BZQ/LuoSi23.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animator/WHY/BZQ/LuoSi23.controller`
+- `Assets/GameMain/Animations/Animator/WHY/BZQ/LuoSi24.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animator/WHY/BZQ/LuoSi24.controller`
+- `Assets/GameMain/Animations/Animator/WHY/BZQ/LuoSi25.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animator/WHY/BZQ/LuoSi25.controller`
+- `Assets/GameMain/Animations/Animator/WHY/BZQ/LuoSi26.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animator/WHY/BZQ/LuoSi26.controller`
+- `Assets/GameMain/Animations/Animator/WHY/BZQ/polySurface7.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animator/WHY/BZQ/polySurface7.anim`
+- `Assets/GameMain/Animations/Animator/WHY/BZQ/polySurface7.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animator/WHY/BZQ/polySurface7.controller`
+- `Assets/GameMain/Animations/Animator/WHY/BZQ/SDZ_ZT_ShiZi.controller` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animator/WHY/BZQ/SDZ_ZT_ShiZi.controller`
+- `Assets/GameMain/Animations/Animator/WHY/BZQ/SDZ_ZT_ZhiZi.anim` -> `Assets/WHY_BZQ/Support/GameMain/Animations/Animator/WHY/BZQ/SDZ_ZT_ZhiZi.anim`
+- `Assets/GameMain/Entity/Resources/Materials/CanvasFrontplate.mat` -> `Assets/WHY_BZQ/Materials/GameMain/Entity/Resources/Materials/CanvasFrontplate.mat`
+- `Assets/GameMain/Entity/Resources/Materials/CanvasGlow.mat` -> `Assets/WHY_BZQ/Materials/GameMain/Entity/Resources/Materials/CanvasGlow.mat`
+- `Assets/GameMain/Entity/整体.fbx` -> `Assets/WHY_BZQ/Models/GameMain/Entity/整体.fbx`
+- `Assets/GameMain/Entity/箭头(1).FBX` -> `Assets/WHY_BZQ/Models/GameMain/Entity/箭头(1).FBX`
+- `Assets/GameMain/Models/JYJ/Materials/M_ZuanTou.mat` -> `Assets/WHY_BZQ/Materials/GameMain/Models/JYJ/Materials/M_ZuanTou.mat`
+- `Assets/GameMain/Models/JYJ/Materials/T_DianZuan_Albedo.mat` -> `Assets/WHY_BZQ/Materials/GameMain/Models/JYJ/Materials/T_DianZuan_Albedo.mat`
+- `Assets/GameMain/Models/JYJ/MR_ChangJing-2.fbx` -> `Assets/WHY_BZQ/Models/GameMain/Models/JYJ/MR_ChangJing-2.fbx`
+- `Assets/GameMain/Models/JYJ/ShouDianZuan.fbm/T_DianZuan_Albedo.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/JYJ/ShouDianZuan.fbm/T_DianZuan_Albedo.png`
+- `Assets/GameMain/Models/JYJ/ShouDianZuan.fbx` -> `Assets/WHY_BZQ/Models/GameMain/Models/JYJ/ShouDianZuan.fbx`
+- `Assets/GameMain/Models/PQ/JiGui.fbm/M_ChaPai.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/JiGui.fbm/M_ChaPai.png`
+- `Assets/GameMain/Models/PQ/JiGui.fbm/M_FuWuQi.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/JiGui.fbm/M_FuWuQi.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/1/ZhiXiang.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/1/ZhiXiang.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/HuoJia2.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/HuoJia2.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/logo.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/logo.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_baq_2.jpg` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_baq_2.jpg`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_CDZ1_Albedo.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_CDZ1_Albedo.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiBiao1.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiBiao1.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiBiao2.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiBiao2.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiCha5.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiCha5.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiCha7.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiCha7.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiCha8.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiCha8.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiMian.jpg` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_DiMian.jpg`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_Dong.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_Dong.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_ErWeiMa.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_ErWeiMa.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_HuoJia2.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_HuoJia2.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_JianPan.jpg` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_JianPan.jpg`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_KongZhiQi.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_KongZhiQi.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_LiZhu.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_LiZhu.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_LuYouQi.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_LuYouQi.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_SaoMa.jpeg` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_SaoMa.jpeg`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_XianShiQi2.jpg` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_XianShiQi2.jpg`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_YiHaoJiGui_WaiKe-Albedo.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_YiHaoJiGui_WaiKe-Albedo.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_ZhuJi.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/M_ZhuJi.png`
+- `Assets/GameMain/Models/PQ/MR_ChangJing 1.fbm/txm.jpg` -> `Assets/WHY_BZQ/Textures/GameMain/Models/PQ/MR_ChangJing 1.fbm/txm.jpg`
+- `Assets/GameMain/Models/WHY/BoZhongQiang 1.fbm/bzq.jpg` -> `Assets/WHY_BZQ/Textures/GameMain/Models/WHY/BoZhongQiang 1.fbm/bzq.jpg`
+- `Assets/GameMain/Models/WHY/BoZhongQiang 1.fbx` -> `Assets/WHY_BZQ/Models/GameMain/Models/WHY/BoZhongQiang 1.fbx`
+- `Assets/GameMain/Models/WHY/Materials/blue.mat` -> `Assets/WHY_BZQ/Materials/GameMain/Models/WHY/Materials/blue.mat`
+- `Assets/GameMain/Models/WHY/Materials/bzq.mat` -> `Assets/WHY_BZQ/Materials/GameMain/Models/WHY/Materials/bzq.mat`
+- `Assets/GameMain/Models/WHY/Materials/green.mat` -> `Assets/WHY_BZQ/Materials/GameMain/Models/WHY/Materials/green.mat`
+- `Assets/GameMain/Models/WHY/Materials/M_ChaTou.mat` -> `Assets/WHY_BZQ/Materials/GameMain/Models/WHY/Materials/M_ChaTou.mat`
+- `Assets/GameMain/Models/WHY/Materials/M_DiCao.mat` -> `Assets/WHY_BZQ/Materials/GameMain/Models/WHY/Materials/M_DiCao.mat`
+- `Assets/GameMain/Models/WHY/Materials/M_HuoJia.mat` -> `Assets/WHY_BZQ/Materials/GameMain/Models/WHY/Materials/M_HuoJia.mat`
+- `Assets/GameMain/Models/WHY/Materials/M_KongZhiQi.mat` -> `Assets/WHY_BZQ/Materials/GameMain/Models/WHY/Materials/M_KongZhiQi.mat`
+- `Assets/GameMain/Models/WHY/Materials/M_LiZhu.mat` -> `Assets/WHY_BZQ/Materials/GameMain/Models/WHY/Materials/M_LiZhu.mat`
+- `Assets/GameMain/Models/WHY/Materials/M_LuoSi.mat` -> `Assets/WHY_BZQ/Materials/GameMain/Models/WHY/Materials/M_LuoSi.mat`
+- `Assets/GameMain/Models/WHY/Materials/M_PingMu.mat` -> `Assets/WHY_BZQ/Materials/GameMain/Models/WHY/Materials/M_PingMu.mat`
+- `Assets/GameMain/Models/WHY/Materials/M_Xian.mat` -> `Assets/WHY_BZQ/Materials/GameMain/Models/WHY/Materials/M_Xian.mat`
+- `Assets/GameMain/Models/ZDP/AGV.fbm/logo.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/ZDP/AGV.fbm/logo.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/1/M_FuWuQi.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/1/M_FuWuQi.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/1/ZhiXiang.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/1/ZhiXiang.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/HuoJia2.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/HuoJia2.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_baq_2.jpg` -> `Assets/WHY_BZQ/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_baq_2.jpg`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_CDZ1_Albedo.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_CDZ1_Albedo.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_ChaPai.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_ChaPai.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiBiao1.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiBiao1.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiBiao2.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiBiao2.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiCha5.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiCha5.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiCha7.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiCha7.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiCha8.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiCha8.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiMian.jpg` -> `Assets/WHY_BZQ/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_DiMian.jpg`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_Dong.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_Dong.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_ErWeiMa.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_ErWeiMa.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_HuoJia2.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_HuoJia2.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_JianPan.jpg` -> `Assets/WHY_BZQ/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_JianPan.jpg`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_KongZhiQi.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_KongZhiQi.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_LiZhu.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_LiZhu.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_LuYouQi.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_LuYouQi.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_SaoMa.jpeg` -> `Assets/WHY_BZQ/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_SaoMa.jpeg`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_XianShiQi2.jpg` -> `Assets/WHY_BZQ/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_XianShiQi2.jpg`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_YiHaoJiGui_WaiKe-Albedo.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_YiHaoJiGui_WaiKe-Albedo.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/M_ZhuJi.png` -> `Assets/WHY_BZQ/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/M_ZhuJi.png`
+- `Assets/GameMain/Models/ZDP/MR_ChangJing.fbm/txm.jpg` -> `Assets/WHY_BZQ/Textures/GameMain/Models/ZDP/MR_ChangJing.fbm/txm.jpg`
+- `Assets/GameMain/Res/Fonts/43华康圆体W9.TTF` -> `Assets/WHY_BZQ/Support/GameMain/Res/Fonts/43华康圆体W9.TTF`
+- `Assets/GameMain/Res/Fonts/SourceHanSansCN-Bold.otf` -> `Assets/WHY_BZQ/Support/GameMain/Res/Fonts/SourceHanSansCN-Bold.otf`
+- `Assets/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/WHY_BZQ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/GameMain/Res/Fonts/SourceHanSansCN-Light.otf` -> `Assets/WHY_BZQ/Support/GameMain/Res/Fonts/SourceHanSansCN-Light.otf`
+- `Assets/GameMain/Res/Fonts/SourceHanSansCN-Regular SDF.asset` -> `Assets/WHY_BZQ/Support/GameMain/Res/Fonts/SourceHanSansCN-Regular SDF.asset`
+- `Assets/GameMain/Res/Fonts/SourceHanSansCN-Regular.otf` -> `Assets/WHY_BZQ/Support/GameMain/Res/Fonts/SourceHanSansCN-Regular.otf`
+- `Assets/GameMain/Res/Scenes/Music/播种墙安装/7—1.MP3` -> `Assets/WHY_BZQ/Support/GameMain/Res/Scenes/Music/播种墙安装/7—1.MP3`
+- `Assets/GameMain/Res/Scenes/Music/播种墙安装/7—10 1.MP3` -> `Assets/WHY_BZQ/Support/GameMain/Res/Scenes/Music/播种墙安装/7—10 1.MP3`
+- `Assets/GameMain/Res/Scenes/Music/播种墙安装/7—11.MP3` -> `Assets/WHY_BZQ/Support/GameMain/Res/Scenes/Music/播种墙安装/7—11.MP3`
+- `Assets/GameMain/Res/Scenes/Music/播种墙安装/7—12.MP3` -> `Assets/WHY_BZQ/Support/GameMain/Res/Scenes/Music/播种墙安装/7—12.MP3`
+- `Assets/GameMain/Res/Scenes/Music/播种墙安装/7—13.MP3` -> `Assets/WHY_BZQ/Support/GameMain/Res/Scenes/Music/播种墙安装/7—13.MP3`
+- `Assets/GameMain/Res/Scenes/Music/播种墙安装/7—2.MP3` -> `Assets/WHY_BZQ/Support/GameMain/Res/Scenes/Music/播种墙安装/7—2.MP3`
+- `Assets/GameMain/Res/Scenes/Music/播种墙安装/7—3.MP3` -> `Assets/WHY_BZQ/Support/GameMain/Res/Scenes/Music/播种墙安装/7—3.MP3`
+- `Assets/GameMain/Res/Scenes/Music/播种墙安装/7—4 1.MP3` -> `Assets/WHY_BZQ/Support/GameMain/Res/Scenes/Music/播种墙安装/7—4 1.MP3`
+- `Assets/GameMain/Res/Scenes/Music/播种墙安装/7—5.MP3` -> `Assets/WHY_BZQ/Support/GameMain/Res/Scenes/Music/播种墙安装/7—5.MP3`
+- `Assets/GameMain/Res/Scenes/Music/播种墙安装/7—6.MP3` -> `Assets/WHY_BZQ/Support/GameMain/Res/Scenes/Music/播种墙安装/7—6.MP3`
+- `Assets/GameMain/Res/Scenes/Music/播种墙安装/7—7.MP3` -> `Assets/WHY_BZQ/Support/GameMain/Res/Scenes/Music/播种墙安装/7—7.MP3`
+- `Assets/GameMain/Res/Scenes/Music/播种墙安装/7—8.MP3` -> `Assets/WHY_BZQ/Support/GameMain/Res/Scenes/Music/播种墙安装/7—8.MP3`
+- `Assets/GameMain/Res/Scenes/Music/播种墙安装/7—9.MP3` -> `Assets/WHY_BZQ/Support/GameMain/Res/Scenes/Music/播种墙安装/7—9.MP3`
+- `Assets/GameMain/Res/Scenes/Music/音效文件/UI弹出提示音.mp3` -> `Assets/WHY_BZQ/Support/GameMain/Res/Scenes/Music/音效文件/UI弹出提示音.mp3`
+- `Assets/GameMain/Res/Scenes/UI_QieTu/物品标识/圆点.png` -> `Assets/WHY_BZQ/Textures/GameMain/Res/Scenes/UI_QieTu/物品标识/圆点.png`
+- `Assets/GameMain/Res/Scenes/UI_QieTu/物品标识/指引线.png` -> `Assets/WHY_BZQ/Textures/GameMain/Res/Scenes/UI_QieTu/物品标识/指引线.png`
+- `Assets/GameMain/Res/Scenes/UI_QieTu/物品标识/标识框.png` -> `Assets/WHY_BZQ/Textures/GameMain/Res/Scenes/UI_QieTu/物品标识/标识框.png`
+- `Assets/GameMain/Res/Scenes/UI_QieTu/物品标识/确定按钮.png` -> `Assets/WHY_BZQ/Textures/GameMain/Res/Scenes/UI_QieTu/物品标识/确定按钮.png`
+- `Assets/GameMain/Res/Scenes/UI_QieTu/物品标识/背景.png` -> `Assets/WHY_BZQ/Textures/GameMain/Res/Scenes/UI_QieTu/物品标识/背景.png`
+- `Assets/GameMain/Res/Scenes/UI_镜像安装系统/Video/MR视频/播种墙安装.mp4` -> `Assets/WHY_BZQ/Support/GameMain/Res/Scenes/UI_镜像安装系统/Video/MR视频/播种墙安装.mp4`
+- `Assets/GameMain/tietu/bzq.jpg` -> `Assets/WHY_BZQ/Textures/GameMain/tietu/bzq.jpg`
+- `Assets/GameMain/tietu/M_KongZhiQi 2.png` -> `Assets/WHY_BZQ/Textures/GameMain/tietu/M_KongZhiQi 2.png`
+- `Assets/GameMain/tietu/M_LiZhu 2.png` -> `Assets/WHY_BZQ/Textures/GameMain/tietu/M_LiZhu 2.png`
+- `Assets/HuaXian/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/WHY_BZQ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/LSL_RMS_Import/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/WHY_BZQ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/LSL_RMS_Install/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/WHY_BZQ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/NetWork-03_2/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/WHY_BZQ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/NewUI/矩形 2 拷贝 3.png` -> `Assets/WHY_BZQ/Textures/NewUI/矩形 2 拷贝 3.png`
+- `Assets/NewUI/确定按钮.png` -> `Assets/WHY_BZQ/Textures/NewUI/确定按钮.png`
+- `Assets/NewUI/组 575.png` -> `Assets/WHY_BZQ/Textures/NewUI/组 575.png`
+- `Assets/NewUI/背景.png` -> `Assets/WHY_BZQ/Textures/NewUI/背景.png`
+- `Assets/RenWu_UI-6/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/WHY_BZQ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/TextMesh Pro/Fonts/SourceHanSansCN-Heavy.otf` -> `Assets/WHY_BZQ/Support/TextMesh Pro/Fonts/SourceHanSansCN-Heavy.otf`
+- `Assets/TextMesh Pro/Fonts/SourceHanSansCN-Medium.otf` -> `Assets/WHY_BZQ/Support/TextMesh Pro/Fonts/SourceHanSansCN-Medium.otf`
+- `Assets/TextMesh Pro/Fonts/SourceHanSansCN-Normal.otf` -> `Assets/WHY_BZQ/Support/TextMesh Pro/Fonts/SourceHanSansCN-Normal.otf`
+- `Assets/TextMesh Pro/Shaders/TMPro.cginc` -> `Assets/WHY_BZQ/Support/TextMesh Pro/Shaders/TMPro.cginc`
+- `Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc` -> `Assets/WHY_BZQ/Support/TextMesh Pro/Shaders/TMPro_Mobile.cginc`
+- `Assets/TextMesh Pro/Shaders/TMPro_Properties 1.cginc` -> `Assets/WHY_BZQ/Support/TextMesh Pro/Shaders/TMPro_Properties 1.cginc`
+- `Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc` -> `Assets/WHY_BZQ/Support/TextMesh Pro/Shaders/TMPro_Properties.cginc`
+- `Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc` -> `Assets/WHY_BZQ/Support/TextMesh Pro/Shaders/TMPro_Surface.cginc`
+- `Assets/TextMesh Pro/Shaders/TMP_SDF.shader` -> `Assets/WHY_BZQ/Support/TextMesh Pro/Shaders/TMP_SDF.shader`
+- `Assets/UI/PQ/DressingUI/BeiJing.png` -> `Assets/WHY_BZQ/Textures/UI/PQ/DressingUI/BeiJing.png`
+- `Assets/UI/PQ/DressingUI/guanbi.png` -> `Assets/WHY_BZQ/Textures/UI/PQ/DressingUI/guanbi.png`
+- `Assets/UI/PQ/DressingUI/logo-黑(已去底).png` -> `Assets/WHY_BZQ/Textures/UI/PQ/DressingUI/logo-黑(已去底).png`
+- `Assets/UI/WHY/Spirit_问答界面/logo-黑(已去底).png` -> `Assets/WHY_BZQ/Textures/UI/WHY/Spirit_问答界面/logo-黑(已去底).png`
+- `Assets/UI/WHY/Spirit_问答界面/×.png` -> `Assets/WHY_BZQ/Textures/UI/WHY/Spirit_问答界面/×.png`
+- `Assets/UI/WHY/Spirit_问答界面/下一题.png` -> `Assets/WHY_BZQ/Textures/UI/WHY/Spirit_问答界面/下一题.png`
+- `Assets/UI/WHY/Spirit_问答界面/关闭按钮 拷贝 5.png` -> `Assets/WHY_BZQ/Textures/UI/WHY/Spirit_问答界面/关闭按钮 拷贝 5.png`
+- `Assets/UI/WHY/Spirit_问答界面/单选题.png` -> `Assets/WHY_BZQ/Textures/UI/WHY/Spirit_问答界面/单选题.png`
+- `Assets/UI/WHY/Spirit_问答界面/图层 2.png` -> `Assets/WHY_BZQ/Textures/UI/WHY/Spirit_问答界面/图层 2.png`
+- `Assets/UI/WHY/Spirit_问答界面/对勾.png` -> `Assets/WHY_BZQ/Textures/UI/WHY/Spirit_问答界面/对勾.png`
+- `Assets/UI/WHY/Spirit_问答界面/疑问按钮.png` -> `Assets/WHY_BZQ/Textures/UI/WHY/Spirit_问答界面/疑问按钮.png`
+- `Assets/UI/WHY/Spirit_问答界面/知识测验.png` -> `Assets/WHY_BZQ/Textures/UI/WHY/Spirit_问答界面/知识测验.png`
+- `Assets/UI/WHY/Spirit_问答界面/矩形 1800 拷贝 10.png` -> `Assets/WHY_BZQ/Textures/UI/WHY/Spirit_问答界面/矩形 1800 拷贝 10.png`
+- `Assets/UI/WHY/Spirit_问答界面/矩形 1800 拷贝 8.png` -> `Assets/WHY_BZQ/Textures/UI/WHY/Spirit_问答界面/矩形 1800 拷贝 8.png`
+- `Assets/UI/WHY/Spirit_问答界面/矩形 1800 拷贝 9.png` -> `Assets/WHY_BZQ/Textures/UI/WHY/Spirit_问答界面/矩形 1800 拷贝 9.png`
+- `Assets/UI/WHY/Spirit_问答界面/背景.png` -> `Assets/WHY_BZQ/Textures/UI/WHY/Spirit_问答界面/背景.png`
+- `Assets/UI/WHY/Sprit_常见问题/关闭按钮 拷贝 5.png` -> `Assets/WHY_BZQ/Textures/UI/WHY/Sprit_常见问题/关闭按钮 拷贝 5.png`
+- `Assets/UI/WHY/Sprit_常见问题/知识测验 拷贝.png` -> `Assets/WHY_BZQ/Textures/UI/WHY/Sprit_常见问题/知识测验 拷贝.png`
+- `Assets/UI/WHY/Sprit_常见问题/知识测验.png` -> `Assets/WHY_BZQ/Textures/UI/WHY/Sprit_常见问题/知识测验.png`
+- `Assets/UI/WHY/Sprit_常见问题/背景.png` -> `Assets/WHY_BZQ/Textures/UI/WHY/Sprit_常见问题/背景.png`
+- `Assets/UI/WHY/Sprit_常见问题/问题.png` -> `Assets/WHY_BZQ/Textures/UI/WHY/Sprit_常见问题/问题.png`
+- `Assets/WHY_FuWuQi-6/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/WHY_BZQ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+- `Assets/WHY_HJ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf` -> `Assets/WHY_BZQ/Support/GameMain/Res/Fonts/SourceHanSansCN-ExtraLight.otf`
+
+## Remaining External Asset Dependencies
+- None detected.

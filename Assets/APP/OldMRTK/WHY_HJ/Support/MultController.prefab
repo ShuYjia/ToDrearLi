@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &844575484861585129
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3758133491217253148}
+  - component: {fileID: 5644282816164492074}
+  - component: {fileID: 7920459512475507155}
+  - component: {fileID: 4099156170789342916}
+  - component: {fileID: 1990133958222777131}
+  m_Layer: 0
+  m_Name: MultController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3758133491217253148
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 844575484861585129}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.4384307, y: 1.3628339, z: -3.485535}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5644282816164492074
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 844575484861585129}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e60016101cf4a14596093a3befcfa6a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shixun: {fileID: 0}
+  multiplayer: {fileID: 0}
+  userinfo:
+    code: 0
+    message: 
+    data:
+      user:
+        id: 0
+        user_type: 0
+        name: 
+        mobile: 
+        avatar: 
+        email: 
+        userData:
+          name: 
+          student_id: 
+          category: []
+        checkInfo:
+          fk_training_check_id: 
+          fk_training_group_id: 
+          check_task: 
+      token: 
+--- !u!114 &7920459512475507155
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 844575484861585129}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2f2360267869084ba32cfa8c5e51f26, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  postUrl: http://mradmin.iot-vr.cn/api/training_studyRecords
+  user_id: 0
+  sort_step: 0
+--- !u!114 &4099156170789342916
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 844575484861585129}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e52dc41b3e886894cb69c86710b107ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  postUrl: http://mradmin.iot-vr.cn/api/training_examRecords
+  user_id: 0
+  group_id: 
+  scoreList: []
+--- !u!114 &1990133958222777131
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 844575484861585129}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b5e3332a2b3e2a4ba5571987a7d7599, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  uniqueID: MultController[12]
+  isTransformSync: 0
+  isActiveSync: 1
